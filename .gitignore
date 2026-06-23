@@ -1,0 +1,47 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter runtime artifacts
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Large/generated indexes
+outputs/flat_retriever.pkl
+outputs/knowledge_graph.json
+outputs/knowledge_graph.gexf
+
+# Keep report-ready generated artifacts
+!outputs/
+!outputs/benchmark_20_questions.csv
+!outputs/evaluation_results.csv
+!outputs/build_metrics.json
+!outputs/graph_preview.png
+!outputs/triples.csv
+!outputs/neo4j_nodes.csv
+!outputs/neo4j_relationships.csv

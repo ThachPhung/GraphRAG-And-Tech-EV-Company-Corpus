@@ -1,0 +1,937 @@
+subject,predicate,object,doc_id,evidence,confidence
+United States,GROWN_TO,"315,000 electric vehicles sold annually",doc_1,"The electric vehicle market in the United States has grown from a few thousand vehicles in 2010 to more than 315,000 vehicles sold annually from 2018 to 2020.",0.9
+2020,ELECTRIC_SHARE_OF_NEW_VEHICLE_SALES,2.4%,doc_1,"In 2020, the electric share of new vehicle sales was approximately 2.4%, an increase from about 2% in 2019.",0.85
+States with ZEV regulations,RESPONSIBLE_FOR,two-thirds of 2020 U.S. electric vehicle sales,doc_1,States with ZEV regulations were responsible for about two-thirds of 2020 U.S. electric vehicle sales.,0.8
+Top 11 metropolitan areas,HAVE_CONSUMER_INCENTIVES_RANGING_FROM,"$1,500 to more than $5,500",doc_1,"The top 11 metropolitan areas with the highest uptake had substantial consumer incentives ranging from $1,500 to more than $5,500.",0.75
+Ten areas with highest electric vehicle uptake,AVERAGE_PUBLIC_CHARGERS_PER_MILLION,935,doc_1,The ten with the highest uptake averaged a 10% electric share and 935 public chargers per million population.,0.8
+Metropolitan areas with lowest electric vehicle uptake,HAVE_PUBLIC_CHARGING_AVAILABILITY,20% of the top-ten markets,doc_1,Half of the U.S. population lives in an area with just 20% of the public charging availability in those top-ten markets.,0.7
+Ten areas with highest electric vehicle uptake,AVERAGE_WORKPLACE_CHARGERS_PER_MILLION,430,doc_1,The ten areas with the highest uptake averaged 430 workplace chargers per million population.,0.75
+States with zero-emission vehicle regulations,HAVE_ELECTRIC_VEHICLE_SHARE,5%,doc_1,States with zero-emission vehicle (ZEV) regulations had a combined new electric vehicle share of 5%.,0.8
+States without ZEV regulations,HAVE_ELECTRIC_VEHICLE_SHARE,1.3%,doc_1,States without such regulations had a 1.3% average electric vehicle share.,0.75
+Electric Vehicle Sales,GROWTH_RATE,2.6%,doc_2,Sales in Q1 rose 2.6% year over year,0.9
+Tesla,REPORTED_SALES,-13.3%,doc_2,Tesla sales in the U.S. were down 13.3% year over year,0.95
+Tesla,MARKET_SHARE,51.3%,doc_2,Tesla’s share of the electric vehicle market in Q1 2024 was 51.3%,0.9
+Cadillac,YEAR_OVER_YEAR_GROWTH,499.2%,doc_2,Cadillac achieved a 499.2% year-over-year increase in electric vehicle sales,0.85
+Ford,YEAR_OVER_YEAR_GROWTH,86.1%,doc_2,Ford achieved an 86.1% year-over-year increase in Q1 EV sales,0.85
+Chevy Bolt,SALES_DECLINE,64.3%,doc_2,Bolt sales fell 64.3% year over year in Q1,0.9
+Kelley Blue Book,ANALYZED_DATA,EV Sales Growth,doc_2,according to sales data analyzed by Kelley Blue Book,0.95
+Inflation Reduction Act,OFFERS_INCENTIVE,"$7,500",doc_2,"buyers can qualify for the full $7,500 incentive the Inflation Reduction Act offers",0.9
+Cox Automotive,FORECASTS_SALES,10%,doc_2,Analysts expect EV sales to reach roughly 10% of the market by the end of the year,0.85
+Average Transaction Price,VALUE,"$55,167",doc_2,"The average transaction price for a new EV in Q1 was $55,167",0.9
+Electric Vehicles,IMPROVE_FUEL_ECONOMY,Yes,doc_3,All forms of electric vehicles (EVs) can help improve fuel economy.,0.9
+Electric Vehicles,LOWER_FUEL_COSTS,Yes,doc_3,Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components.,0.85
+All-Electric Vehicles,PRODUCE_TAILPIPE_EMISSIONS,Zero,doc_3,All-electric vehicles produce zero tailpipe emissions.,0.95
+Plug-in Hybrid Electric Vehicles (PHEVs,PRODUCE_TAILPIPE_EMISSIONS,None in electric mode,doc_3,PHEVs produce no tailpipe emissions when operating in all-electric mode.,0.9
+2024 Toyota Corolla Hybrid,EPA_COMBINED_FUEL_ECONOMY,50 MPG,doc_3,The 2024 Toyota Corolla Hybrid at an EPA combined city-and-highway fuel economy estimate of 50 miles per gallon (MPG).,0.8
+2024 Toyota Corolla,EPA_COMBINED_FUEL_ECONOMY,35 MPG,doc_3,"The estimate for the conventional 2024 Corolla (four cylinder, automatic) is 35 MPG.",0.8
+Federal Clean Vehicle Tax Credits,AVAILABLE_TO,"Consumers, fleets, businesses, tax-exempt entities",doc_3,"The federal Clean Vehicle Tax Credits are available to consumers, fleets, businesses, and tax-exempt entities investing in new, used, and commercial clean vehicles.",0.85
+Electric Vehicle Charging Stations,NEEDED_FOR,Charging Electric Vehicles,doc_3,"To safely deliver energy from the electric grid to a vehicle’s battery, an EV charging station is needed.",0.9
+Electric Vehicles,LIFE_CYCLE_EMISSIONS_DEPEND_ON,Source of electricity,doc_3,The life cycle emissions of an electric vehicle depend on the source of the electricity used to charge it.,0.8
+Battery Prices,EXPECTED_TO_DECLINE,Yes,doc_3,Battery prices are expected to continue declining as battery technologies improve and production volumes increase.,0.75
+United States,PROVIDES_DATA_ON,Electric Power Monthly,doc_4,Electric Power Monthly - U.S. Energy Information Administration (EIA),0.9
+Electric Vehicles,CONSUMPTION_TYPE,Light-Duty Electric Vehicle Types,doc_4,Estimated U.S. Consumption of Electricity by Light-Duty Electric Vehicle Types,0.85
+EIA,OFFERS_API,Free and open data,doc_4,"EIA's free and open data available as API, Excel add-in, bulk files, and widgets",0.9
+EIA,PUBLISHES_REPORTS,Congressional reports,doc_4,Reports requested by congress or otherwise deemed important.,0.8
+EIA,PROVIDES_TOOLS_FOR,Energy disruptions and infrastructure,doc_4,"Maps, tools, and resources related to energy disruptions and infrastructure.",0.85
+EIA,OFFERS_SUBSCRIPTIONS_FOR,Email updates on EIA products,doc_4,Sign up for email subscriptions to receive messages about specific EIA products,0.8
+EIA,DEVELOPS_PRODUCTS,Energy analysis tools,doc_4,Come test out some of the products still in development and let us know what you think!,0.75
+EIA,PROVIDES_DATA_ON,Greenhouse gas data,doc_4,"Greenhouse gas data, voluntary reporting, electric power plant emissions.",0.85
+EIA,INCLUDES_ENERGY_SOURCES,"Hydropower, solar, wind, geothermal, biomass, ethanol",doc_4,"Includes hydropower, solar, wind, geothermal, biomass and ethanol.",0.9
+Citi Research,REPORTED_SALES,1.47 million units of new EV sales in 2024,doc_5,"the authors forecast 1.47 million units of new EV sales, or 9.1% penetration in 2024",0.9
+Citi Research,REPORTED_SALES,2.34 million units of new EV sales in 2025,doc_5,"the forecast is for 2.34 million units, or 13.8% penetration",0.9
+Citi Research,FORECASTED_GROWTH,12% growth in global BEV volume in 2024,doc_5,the report forecasts global battery electric vehicle (BEV) volume will grow a modest 12% this year,0.85
+Citi Research,FORECASTED_ADOPTION,33% global EV adoption by 2030,doc_5,Such a pace would lift global EV adoption to 33% by 2030,0.85
+Citi Research,REGULATED_BY,Inflation Reduction Act (IRA,doc_5,price cuts and Inflation Reduction Act (IRA) benefits needed to achieve that penetration,0.8
+China,FORECASTED_GROWTH,PHEV demand growth stronger through 2026,doc_5,note that through 2026 demand growth will likely be stronger for plug-in hybrid electric vehicles (PHEVs),0.8
+United States,CHARACTERIZED_AS,having entered an 'air pocket,doc_5,the authors characterize the U.S. EV market as having entered an 'air pocket',0.75
+Citi Research,PREDICTED_PENETRATION,13% global penetration in 2024,doc_5,Global penetration is seen rising to 13% this year from 12% in 2023,0.85
+United States,FORECASTED_ADOPTION,37% EV adoption by 2030,doc_5,with the U.S. at 37%,0.8
+Europe,FORECASTED_ADOPTION,40% EV adoption by 2030,doc_5,Europe at 40%,0.8
+China,FORECASTED_ADOPTION,48% EV adoption by 2030,doc_5,China at 48%,0.8
+United States,REPORTED_SALES,$188 Billion,doc_6,manufacturers have announced $188 billion in investments in electric vehicle and EV battery manufacturing in the U.S.,0.9
+Inflation Reduction Act,ACCELERATED,United States,doc_6,a year and a half after the passage of the Inflation Reduction Act (IRA) accelerated the U.S. markets for electric vehicle and battery manufacturing,0.95
+Georgia,LEADS_IN,EV investments,doc_6,"Georgia continues to lead the states in both EV investments ($31.2 billion) and announced jobs (38,700)",0.85
+Michigan,ANNOUNCED_INVESTMENTS,> $20 Billion,doc_6,Michigan has more than $20 billion in announced manufacturing investments,0.8
+North Carolina,INCREASED_INVESTMENTS,$19 Billion,doc_6,North Carolina showed a meteoric increase of $9 billion in announced EV investments in the last six months – to more than $19 billion today,0.8
+Environmental Defense Fund,FOUNDED_BY,Ellen Robo,doc_6,"said Ellen Robo, manager of transportation and clean air policy at Environmental Defense Fund",0.7
+United States,CREATED_JOBS,"195,000 direct EV-related U.S. jobs",doc_6,"195,000 direct EV-related U.S. jobs",0.9
+United States,OUTPACED,every other region,doc_6,Recent EV manufacturing investments in the U.S. are outpacing every other region,0.85
+United States,PRODUCE_BY,2027,doc_6,by 2027 U.S. manufacturing facilities will be able to produce,0.75
+Environmental Defense Fund,OPERATES_IN,28 countries,doc_6,"EDF’s scientists, economists, attorneys and policy experts are working in 28 countries",0.8
+China,HAS_LARGEST_EV_MARKET,60% of new vehicle registrations,doc_7,"China is now by far the largest market for EVs, accounting for 60 percent of new vehicle registrations last year.",0.95
+China,PRODUCES_BATTERIES,65% of global battery production,doc_7,"China is also by far the main producer of lithium batteries globally, which are the main component in EVs.",0.9
+Ilaria Mazzocco,TESTIFIED_BEFORE,U.S.-China Economic and Security Review Commission,doc_7,Ilaria Mazzocco testified before the U.S.-China Economic and Security Review Commission about the state of China’s electric vehicle industry.,0.85
+Chinese EV companies,SUPPORTED_BY,local governments,doc_7,Local governments supported companies every step of the way through various types of support mechanisms.,0.88
+NIO,SAVED_BY,Hefei city government,doc_7,The Hefei city government’s intervention to save the startup NIO in early 2020 when it was on the verge of bankruptcy.,0.92
+China,ACCOUNTS_FOR,40% of global electric car stock,doc_7,China accounts for 40 percent of the global electric car stock.,0.9
+Chinese EV industry,GROWTH_FUELED_BY,government interventions and subsidies,doc_7,China’s initiatives targeting the EV industry over the past 15 years are one of the most successful cases of industrial policy.,0.87
+China,LEADS_IN,cathode production (80%,doc_7,China accounts for 80 percent of cathode production.,0.89
+Chinese EV producers,NUMBERED_AT,300 in 2021,doc_7,"China is home to an outsized number of EV producers, as many as 300 in 2021.",0.85
+China,PHASING_OUT,purchase subsidies,doc_7,"The industry should be heading towards consolidation, especially since the phasing out of purchase subsidies this year.",0.8
+Electric Vehicles,HAS_NO_TAILPIPE_EMISSIONS,True,doc_8,Electric vehicles (EVs) have no tailpipe emissions.,0.95
+Electric Vehicles,GENERATE_GHG_EMISSIONS,Lower than gasoline cars,doc_8,research shows that an EV is typically responsible for lower levels of greenhouse gases (GHGs) than an average new gasoline car.,0.9
+Renewable Energy Sources,BECAME_PREVALENT_SOURCE,Second-most prevalent U.S. electricity source in 2020,doc_8,"In 2020, renewables became the second-most prevalent U.S. electricity source.",0.85
+EVs,USE_ENERGY_EFFICIENCY,87%-91%,doc_8,EVs use approximately 87%–91% of the energy from the battery and regenerative braking.,0.92
+Gasoline Vehicles,USE_ENERGY_EFFICIENCY,16%-25%,doc_8,Gasoline vehicles only convert about 16–25% of the energy from gasoline into movement.,0.88
+Argonne National Laboratory,ESTIMATED_EMISSIONS,EV with 300-mile range,doc_8,Researchers at Argonne National Laboratory estimated emissions for both a gasoline car and an EV with a 300-mile electric range.,0.87
+EV Battery Recycling,REDUCES_EMISSIONS,True,doc_8,Recycling EV batteries can reduce the emissions associated with making an EV by reducing the need for new materials.,0.9
+Electric Vehicle Batteries,HAVE_LOW_FAILURE_RATE,2.5% average replacement rate,doc_8,"A recent study of about 15,000 vehicles... showed that electric vehicle battery replacements due to failure have been rare, at an average of 2.5%.",0.93
+EVs (2016 onward,HAVE_LOW_FAILURE_RATE,Less than 0.5%,doc_8,since model year 2016 they have had less than a 0.5% failure rate.,0.91
+Electric Vehicles,INCREASE_ELECTRICITY_DEMAND,True,doc_8,the increasing number of electric vehicles on the road will lead to increased electricity demand.,0.89
+United States,REGULATED_BY,Government Interventions,doc_9,Government interventions have pushed forward and pulled back.,0.85
+Deloitte,FOUNDED_BY,Research Centers,doc_9,Deloitte Insights and our research centers deliver proprietary research.,0.8
+Battery Electric Vehicles (BEVs,ACCOUNTED_FOR,74% of global EV sales in 2019,doc_9,"Looking back at BEVs in 2019, they accounted for 74 per cent of global EV sales.",0.9
+China,LEADS_IN,BEV Market,doc_9,"The advanced state of the BEV market in China, compared to the rest of the world.",0.88
+Europe,EXPERIENCED_GROWTH,93% in BEV sales in 2019,doc_9,"Sales of EVs grew by 15 per cent in 2019 compared to 2018, driven by the growth of BEVs in Europe (+93 per cent).",0.87
+COVID-19,DISRUPTED,Global EV Sales,doc_9,COVID-19 completely disrupted global sales and manufacturing.,0.92
+Norway,ACHIEVED,56% market share in EVs,doc_9,Norway achieved 56 per cent market share.,0.85
+Deloitte,REPORTED_SALES,Over two million EVs in 2019,doc_9,The combined annual sales of battery electric vehicles and plug-in hybrid electric vehicles tipped over the two-million-vehicle mark for the first time in 2019.,0.9
+United Kingdom,REPORTED_GROWTH,Triple-digit growth in 2019,doc_9,The United Kingdom and some other countries reported triple-digit growth for the year.,0.84
+European Emissions Standards,STIMULATED,Production of Zero-emission Vehicles,doc_9,"Partly stimulated by new, stricter European emissions standards.",0.86
+Electric Vehicles (EVs,HAVE_SHARE,2.5% of all new car sales in 2019,doc_9,EVs staked their claim on a 2.5 per cent share of all new car sales last year.,0.89
+Electric Vehicles,DISPLACE_OIL_USAGE,1.7 million barrels per day,doc_10,"EVs of all types are already displacing 1.7 million barrels per day of oil usage, equivalent to about 3% of total road fuel demand.",0.9
+China,DOMINATES_EV_MARKET,Global EV Market,doc_10,"China still dominates the global EV market, but sales are rising quickly elsewhere too.",0.95
+Battery Demand,RISING_QUICKLY,Stationary storage applications,doc_10,Demand for stationary storage applications is rising faster than ever.,0.85
+Electric Commercial Vehicles,SET_FOR_ANOTHER_YEAR,Blistering growth,doc_10,Electric commercial vehicles set for another blistering year.,0.8
+Developing Economies,EXPERIENCING_RECORD_SALES,Electric Vehicles,doc_10,"Developing economies like Thailand, India, Turkey, Brazil and others are all experiencing record sales.",0.9
+Battery Manufacturing,CONCENTRATED_IN,China,doc_10,Manufacturing of battery cells and the production of key battery components is concentrated in China.,0.95
+Net Zero Scenario,INVESTIGATES,Route to carbon neutrality,doc_10,The report includes a 'Net Zero' scenario which investigates what a potential route to carbon neutrality looks like.,0.8
+Electric Vehicle Outlook,PUBLISHED_BY,BloombergNEF,doc_10,The Electric Vehicle Outlook is our annual long-term publication.,0.9
+EV Sales,RISING_GLOBALLY,2024,doc_10,Sales of EVs continue to rise globally.,0.85
+Charging Points,BEING_BUILT,More and more,doc_10,More and more charging points are being built.,0.8
+NVIDIA,REPORTED_SALES,$26.0 billion,doc_11,"NVIDIA today reported revenue for the first quarter ended April 28, 2024, of $26.0 billion",0.95
+NVIDIA,GAAP_EARNINGS_PER_SHARE,$5.98,doc_11,"GAAP earnings per diluted share was $5.98, up 21% from the previous quarter",0.9
+NVIDIA,NON_GAAP_EARNINGS_PER_SHARE,$6.12,doc_11,"Non-GAAP earnings per diluted share was $6.12, up 19% from the previous quarter",0.9
+NVIDIA,PARTNERED_WITH,United States,doc_11,Revealed U.S. and China electric vehicle makers Lucid and IM Motors,0.85
+NVIDIA,INCREASED_DIVIDEND,$0.10 per share,doc_11,NVIDIA is increasing its quarterly cash dividend by 150% from $0.04 per share to $0.10 per share,0.9
+NVIDIA,SPLIT_RATIO,10-for-1,doc_11,NVIDIA also announced a ten-for-one forward stock split,0.9
+NVIDIA,REGULATED_BY,NASDAQ,doc_11,NVIDIA (NASDAQ: NVDA),0.95
+NVIDIA,TECHNOLOGY_PLATFORM,Hopper,doc_11,strong and accelerating demand for generative AI training and inference on the Hopper platform,0.85
+NVIDIA,TECHNOLOGY_PLATFORM,Blackwell,doc_11,The Blackwell platform is in full production,0.85
+NVIDIA,TECHNOLOGY_PLATFORM,Spectrum-X,doc_11,Spectrum-X opens a brand-new market for us to bring large-scale AI to Ethernet-only data centers,0.85
+Polestar,REPORTED_SALES,"41,817",doc_12,"Global volumes for the nine months ended September 30, 2023",0.9
+Polestar,REPORTED_SALES,"60,000",doc_12,"Polestar expects to deliver approximately 60,000 vehicles for this year",0.85
+Polestar,GROSS_MARGIN,2%,doc_12,Polestar expects a gross margin of approximately 2% for the full year,0.8
+Polestar,LOCATED_IN,"Gothenburg, Sweden",doc_12,"Headquartered in Gothenburg, Sweden",0.95
+Polestar,PARTNERED_WITH,Volvo Cars,doc_12,Represents Volvo Cars service centres to provide access to customer service points worldwide,0.9
+Polestar,FOUNDED_BY,"Gores Guggenheim, Inc",doc_12,"Business combination with Gores Guggenheim, Inc. on June 23, 2022",0.75
+Polestar,MARKETS,27,doc_12,Polestar operates in 27 markets globally,0.9
+Polestar 2,LAUNCHED_IN,2019,doc_12,"Polestar 2, the electric performance fastback, launched in 2019",0.85
+Polestar,REPORTED_REVENUE,"1,844.4 million USD",doc_12,"Key unaudited financial results for the nine-months ended September 30, 2023",0.9
+Polestar,COST_OF_SALES,"1,823.2 million USD",doc_12,"Cost of sales for the nine months ended September 30, 2023",0.85
+VinFast,REPORTED_SALES,"21,912 vehicles",doc_13,"VinFast delivered 21,912 electric vehicles in the third quarter of 2024.",0.95
+VinFast,REVENUE,US$511.6 million,doc_13,"Total revenues were VND12,326,537 million (US$511.6 million) in the third quarter of 2024.",0.95
+VinFast,YEAR_OVER_YEAR_INCREASE,115%,doc_13,This represents a significant 115% increase compared to the third quarter of 2023.,0.9
+VinFast,TOP_SELLING_BRAND,Vietnam,doc_13,"VinFast became the top-selling automotive brand in Vietnam for September, October, and for the first ten months of 2024.",0.95
+VinFast,PLANNED_FACTORY,"Ha Tinh, Vietnam",doc_13,"The Company plans to add a new completely knocked down (CKD) factory in Ha Tinh, Vietnam.",0.85
+VinFast,FACTORY_CAPACITY,"300,000 EVs per year",doc_13,"The factory targets a maximum capacity of 300,000 EVs per year.",0.85
+VinFast,GLOBAL_SHOWROOMS,173,doc_13,"As of October 31, 2024, the Company had 173 showrooms globally for EVs.",0.9
+VinFast,NET_LOSS,US$550.0 million,doc_13,"Net loss was VND13,251,944 million (US$550.0 million) in the third quarter of 2024.",0.9
+VinFast,GROSS_MARGIN,negative 24.0%,doc_13,The gross margin in the third quarter of 2024 was negative 24.0%.,0.9
+VinFast,FOUNDED_BY,Vingroup,doc_13,Our overall liquidity position has been enhanced by the recently announced loans from Vingroup.,0.8
+ZEEKR,REPORTED_SALES,"RMB8,174.1 million",doc_14,"Revenues from vehicle sales were RMB8,174.1 million (US$1,132.1 ...",0.95
+ZEEKR,DELIVERED_VEHICLES,"33,059",doc_14,"First quarter deliveries soared to 33,059 vehicles...",0.9
+ZEEKR,LAUNCHED_MODEL,ZEEKR 001 2024,doc_14,"In February 2024, the Company launched the all-new ZEEKR 001 2024 model...",0.85
+ZEEKR,PARTNERED_WITH,Geely Group,doc_14,"the strategic advantages and synergies we derive from our parent company, Geely Group...",0.88
+ZEEKR,REGULATED_BY,NYSE,doc_14,ZEEKR Intelligent Technology Holding Limited (NYSE: ZK)...,0.92
+ZEEKR,INCREASED_DELIVERIES,99% from April 2023,doc_14,"In April 2024, the Company delivered 16,089 vehicles, representing an increase of 99% from April 2023.",0.87
+ZEEKR,GROSS_PROFIT,"RMB1,739.4 million",doc_14,"Gross profit was RMB1,739.4 million...",0.9
+ZEEKR,NET_LOSS,"RMB2,022.1 million",doc_14,"Net loss was RMB2,022.1 million...",0.89
+ZEEKR,TARGET_DELIVERIES,"230,000 vehicles",doc_14,"propelling our progress toward our full-year goal of 230,000 vehicles.",0.91
+ZEEKR,GROSS_MARGIN,11.8%,doc_14,Gross margin was 11.8%...,0.85
+EV_COMPANIES,OUTPERFORMED,GENERAL_STOCK_MARKETS,doc_15,"Since 2019, the stocks of EV companies have consistently outperformed general stock markets.",0.9
+TESLA,MARKET_CAPITALISATION,USD_1_TRILLION,doc_15,The combined market capitalisation of pure play EV makers boomed from USD 100 billion in 2020 to USD 1 trillion at the end of 2023.,0.85
+RUSSIA,INVASION_IMPACT,BATTERY_METAL_PRICES,doc_15,Supply chain disruptions and battery metal price fluctuations notably in the wake of Russia’s invasion of Ukraine.,0.8
+STELLANTIS,PARTNERED_WITH,ARGENTINA,doc_15,"In 2023, Stellantis announced a partnership in Argentina to secure projected copper demand.",0.75
+TESLA,MEETING_WITH,CHILEAN_GOVERNMENT_AGENCIES,doc_15,"In 2024, Tesla and several Korean battery makers met with Chilean government agencies regarding lithium supply.",0.8
+AUSTRALIANSUPER,INVESTED_IN,PILBARA_MINERALS,doc_15,AustralianSuper announced plans to double its exposure to lithium stocks with investments in Pilbara Minerals worth AUD 560 million.,0.7
+LITHIUM_COMPANIES,MARKET_CAPITALISATION_INCREASE,SIXFOLD,doc_15,The market capitalisation of companies involved in the extraction and processing of lithium increased sixfold over the 2015-2022 period.,0.85
+EV_MARKETS,GROWING_IN,INVESTOR_APPETITE,doc_15,"As a result of increasing investor appetite and growing EV markets, the valuation of critical mineral companies has increased significantly.",0.8
+CARMakers,SECURING_DEALS_WITH,BATTERY_MAKERS,doc_15,Carmakers are seeking to secure direct deals with battery makers and companies involved in the mining and processing of critical minerals.,0.75
+EV_COMPANIES,FINANCIAL_PERFORMANCE,ROBUST,doc_15,The financial stock performance of EV companies remained robust despite market volatility.,0.8
+Mercedes-Benz Group AG,REPORTED_SALES,2.49mn,doc_16,Group Unit Sales,0.9
+Mercedes-Benz Group AG,REVENUE,€153.2 billion,doc_16,Revenue,0.95
+Mercedes-Benz Group AG,EBIT,€19.7 billion,doc_16,EBIT,0.95
+Mercedes-Benz Cars,RETURN_ON_SALES,12.6%,doc_16,adjusted Return on Sales,0.85
+Mercedes-Benz Group AG,PARTNERED_WITH,Nevada and California,doc_16,certification for its SAE Level 3 conditionally automated driving system,0.8
+Mercedes-Benz Group AG,DEVELOPED,MB.OS,doc_16,introduction of its operating system MB.OS,0.9
+Mercedes-Benz Group AG,EXPANDED_IN,Thailand,doc_16,continued expanding its direct sales model including most recently in Thailand,0.85
+Mercedes-Benz Cars,ELECTRIC_VEHICLE_SHARE,12%,doc_16,Battery electric vehicles now account for 12% of overall Mercedes-Benz Cars sales,0.9
+Mercedes-Benz Vans,REPORTED_SALES,"447,800 units",doc_16,"unit sales improved 8% to a record 447,800 units",0.9
+Mercedes-Benz Group AG,INVESTED_IN,€10.0 billion,doc_16,Research & Development expenditure amounted to €10.0 billion,0.9
+Mercedes-Benz Group AG,NET_LIQUIDITY,€31.7 billion,doc_16,Net Liquidity of the Industrial Business rose to €31.7 billion,0.9
+Electric Vehicles,IMPROVE,Fuel Economy,doc_17,"All forms of electric vehicles (EVs) can help improve fuel economy, lower fuel costs, and reduce emissions.",0.9
+Electric Vehicles,PRODUCE,Zero Tailpipe Emissions,doc_17,All-electric vehicles produce zero tailpipe emissions.,0.95
+Hybrid Electric Vehicles,HAVE,Variable Emissions Benefits,doc_17,Hybrid electric vehicle (HEV) emissions benefits vary by vehicle model and type of hybrid power system.,0.85
+National Renewable Energy Laboratory,PREDICTS,Battery Life of 12 to 15 Years,doc_17,Predictive modeling by the National Renewable Energy Laboratory indicates that today’s batteries may last 12 to 15 years in moderate climates.,0.9
+Federal Clean Vehicle Tax Credits,AVAILABLE_TO,Consumers and Fleets,doc_17,"The federal Clean Vehicle Tax Credits are available to consumers, fleets, businesses, and tax-exempt entities investing in new, used, and commercial clean vehicles.",0.9
+2024 Toyota Corolla Hybrid,HAS_FUEL_ECONOMY,50 MPG,doc_17,FuelEconomy.gov lists the 2024 Toyota Corolla Hybrid at an EPA combined city-and-highway fuel economy estimate of 50 miles per gallon (MPG).,0.9
+Electric Vehicle Charging Stations,ARE_ESTABLISHED_BY,Automakers and Utilities,doc_17,"Charging equipment manufacturers, automakers, utilities, Clean Cities and Communities coalitions, states, municipalities, and government agencies are rapidly establishing a national network of public charging stations.",0.85
+Electric Vehicles,REDUCE,Fuel Costs,doc_17,Electric vehicles can reduce fuel costs dramatically because of the high efficiency of electric-drive components.,0.9
+Electric Vehicles,DEPEND_ON,Electricity Sources,doc_17,The life cycle emissions of an electric vehicle depend on the source of the electricity used to charge it.,0.85
+Battery Prices,EXPECTED_TO_DECLINE,As Technologies Improve,doc_17,Battery prices are expected to continue declining as battery technologies improve and production volumes increase.,0.8
+Electric Vehicles,KEY_TECHNOLOGY_FOR,Decarbonising Road Transport,doc_18,Electric vehicles are the key technology to decarbonise road transport.,0.9
+Global Electric Car Sales,EXCEEDED,14 million in 2023,doc_18,Global electric car sales exceeded 14 million in 2023.,0.95
+Electric Car Sales Growth,YEAR_ON_YEAR_INCREASE,35% from 2022 to 2023,doc_18,"Electric car sales in 2023 were 3.5 million higher than in 2022, a 35% year-on-year increase.",0.9
+"China, Europe, and the United States",LEADING_MARKETS_FOR,Electric Vehicles,doc_18,"China, Europe and the United States remain the leading electric vehicle markets.",0.85
+Electric Vehicles,DISPLACED_OIL_CONSUMPTION,0.9 Mb/d in 2023,doc_18,The use of EVs displaced around 0.9 Mb/d of oil in 2023.,0.9
+Electric Car Sales,EXPECTED_TO_REACH,65% of total car sales by 2030,doc_18,"In the NZE Scenario, electric car sales reach around 65% of total car sales in 2030.",0.8
+Announced Battery Manufacturing Capacity,COVERS,Over 90% of deployment needs for 2030,doc_18,"Announced battery manufacturing capacity for 2030 would more than fulfil demand for electric vehicle batteries in the NZE Scenario, with existing and committed projects covering over 90% of the deployment needs.",0.85
+Electric Vehicles,ACCOUNT_FOR,18% of new cars sold in 2023,doc_18,We estimate that 18% of new cars sold in 2023 will be electric.,0.9
+Electric Vehicle Sales,NEED_TO_INCREASE_BY,23% per year from 2024 to 2030,doc_18,"To get on track with this scenario, electric car sales must increase by an average of 23% per year from 2024 to 2030.",0.8
+REE Automotive Ltd,FOUNDED_BY,Daniel Barel,doc_19,"Daniel Barel, REE’s Co-Founder and Chief Executive Officer",0.9
+REE Automotive Ltd,PARTNERED_WITH,EAVX,doc_19,"REE signed a strategic collaboration with EAVX, an EV-focused business unit of JB Poindexter & Co.",0.85
+REE Automotive Ltd,DEVELOPED_PLATFORM,P7,doc_19,The P7 platform offers REE’s greatest interior space and volumetric efficiency for class 3-5 vehicles.,0.9
+REE Automotive Ltd,EXPECTED_PRODUCTION_START,2023,doc_19,REE is also building its production capabilities to support serial production in 2023.,0.8
+REEcornerTM,ENABLED_BY,REE Automotive Ltd,doc_19,REEcornerTM technology to enable a new generation of vehicles Powered by REE.,0.9
+REE Automotive Ltd,REGULATED_BY,United States,doc_19,REE to supply its REEcornerTM for a dedicated new EV chassis of the OEM in the U.S. and Canada.,0.75
+REE Automotive Ltd,REPORTED_SALES,Prototypes to EAVX,doc_19,REE started delivering prototypes to EAVX for upfitting advanced top hats for private road validation.,0.8
+REE Automotive Ltd,COLLABORATED_WITH,Navya,doc_19,REE has entered into a strategic collaboration agreement with Navya.,0.85
+P7 Platform,SUPPORTS_PAYLOAD,"8,800 lbs",doc_19,"Supporting up to 8,800 lbs. in maximum payload.",0.9
+REE Automotive Ltd,EXPECTED_VALIDATION,Mid-2022,doc_19,Full vehicle customer validation on private roads in the U.S. mid-2022.,0.8
+Nikola Corporation,REPORTED_SALES,31 Tre battery electric trucks delivered,doc_20,Nikola produced 63 Tre battery electric trucks and delivered 31 to dealers.,0.9
+Nikola Corporation,ORDERED_TRUCKS,140 hydrogen fuel cell trucks,doc_20,Orders for 140 hydrogen fuel cell trucks from customers.,0.95
+Nikola Corporation,PARTNERED_WITH,Voltera Power,doc_20,We announced the execution of a joint development agreement with Voltera Power.,0.85
+Voltera Power,SUPPLIES_CAPITAL_FOR,50 HYLA hydrogen refueling stations,doc_20,Voltera intends to supply the capital for up to 50 HYLA hydrogen refueling stations over the next five years.,0.8
+Nikola Corporation,REGULATED_BY,California Air Resources Board,doc_20,California Air Resources Board (CARB) Advanced Clean Fleets regulation summary.,0.9
+California,MANDATES,zero-emission drayage trucks,doc_20,"Beginning January 1, 2024, only zero-emission drayage trucks may register in the CARB Online System.",0.85
+Nikola Corporation,FOUNDED_BY,Michael Lohscheller,doc_20,Said Nikola CEO Michael Lohscheller.,0.75
+Nikola Corporation,LOCATED_IN,"Phoenix, Arizona",doc_20,"PHOENIX – May 9, 2023.",0.9
+Nikola Corporation,SELLING_STAKE_IN,European manufacturing joint venture,doc_20,We are selling our stake in the European manufacturing joint venture to Iveco Group.,0.8
+Iveco Group,RETURNING_SHARES_TO,Nikola Corporation,doc_20,20.6 million shares of Nikola common stock that will be returned to us by Iveco.,0.8
+Nikola Corporation,COMPLETED,first two gamma hydrogen fuel cell trucks,doc_20,We have completed the first two of 10 gamma hydrogen fuel cell trucks.,0.85
+As Market Uncertainty,RELATED_TO,United States,doc_21,U.S. Automobile Dealer Sentiment Index: As Market Uncertainty ...,0.65
+CADSI,RELATED_TO,Cox Automotive,doc_21,The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.,0.65
+CADSI,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_21,The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.,0.65
+Cox Automotive,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_21,The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.,0.65
+ATLANTA,RELATED_TO,CADSI,doc_21,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+ATLANTA,RELATED_TO,Cox Automotive,doc_21,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+ATLANTA,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_21,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+CADSI,RELATED_TO,Cox Automotive,doc_21,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+CADSI,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_21,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+Cox Automotive,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_21,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+The Q2,RELATED_TO,United States,doc_21,The Q2 current market index score of 42 indicates most U.S. auto dealers see the market as weak.,0.65
+Cox Automotive,RELATED_TO,Cox Automotive Chief Economist Jonathan,doc_21,"Cox Automotive Chief Economist Jonathan Smoke noted, “There is a lot of uncertainty in this market, leaving consumers and dealers alike unsure of the road ahead.",0.65
+CADSI,GREW_OR_INCREASED,Q2. The,doc_21,"In the auto business, uncertainty is the enemy – it negatively impacts sales, hurts consumer sentiment, and leaves auto dealers feeling troubled.” Despite the market’s perceived weakness, the CADSI showed some promising signs in Q2. The profit index, for example, increased for the first time since Q3 2021.",0.65
+Interest Rates,RELATED_TO,Market Conditions,doc_21,"When asked about factors holding back their business, auto dealers in Q2 focused on Interest Rates, the Economy, and Market Conditions, respectively, with minimal change from Q1 and one year ago.",0.65
+Political Climate,GREW_OR_INCREASED,United States,doc_21,"However, as the U.S. presidential election in November approaches, Political Climate continues to increase as a factor impacting business.",0.65
+Interest Rates,GREW_OR_INCREASED,Political Climate,doc_21,"In fact, while concerns about Interest Rates have come down slightly quarter over quarter, concerns over the Political Climate have increased.",0.65
+Market Conditions,GREW_OR_INCREASED,Political Climate,doc_21,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Market Conditions,GREW_OR_INCREASED,Q2. Smoke,doc_21,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Market Conditions,GREW_OR_INCREASED,The Economy,doc_21,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Political Climate,GREW_OR_INCREASED,Q2. Smoke,doc_21,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Political Climate,GREW_OR_INCREASED,The Economy,doc_21,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Q2. Smoke,GREW_OR_INCREASED,The Economy,doc_21,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Cox Automotive,RELATED_TO_SALES,Cox Automotive Dealer Sentiment Index,doc_21,"Cox Automotive Dealer Sentiment Index MethodologyDerived from a quarterly survey that Cox Automotive issues to a representative sample of franchised and independent auto dealers from around the country, the Dealer Sentiment Index measures dealer perceptions of current retail auto sales and sales expectations for the next three months as “strong,” “average,” or “weak.” The survey also asks dealers to rate new-car sales and used-car sales separately, along with various key drivers, including consumer traffic.",0.65
+Cox Automotive,RELATED_TO_SALES,Dealer Sentiment Index,doc_21,"Cox Automotive Dealer Sentiment Index MethodologyDerived from a quarterly survey that Cox Automotive issues to a representative sample of franchised and independent auto dealers from around the country, the Dealer Sentiment Index measures dealer perceptions of current retail auto sales and sales expectations for the next three months as “strong,” “average,” or “weak.” The survey also asks dealers to rate new-car sales and used-car sales separately, along with various key drivers, including consumer traffic.",0.65
+Cox Automotive Dealer Sentiment Index,RELATED_TO_SALES,Dealer Sentiment Index,doc_21,"Cox Automotive Dealer Sentiment Index MethodologyDerived from a quarterly survey that Cox Automotive issues to a representative sample of franchised and independent auto dealers from around the country, the Dealer Sentiment Index measures dealer perceptions of current retail auto sales and sales expectations for the next three months as “strong,” “average,” or “weak.” The survey also asks dealers to rate new-car sales and used-car sales separately, along with various key drivers, including consumer traffic.",0.65
+CADSI,RELATED_TO,The Q2,doc_21,"The Q2 2024 CADSI is based on 1,026 U.S. auto dealer respondents, comprising 550 franchised dealers and 476 independents.",0.65
+CADSI,RELATED_TO,United States,doc_21,"The Q2 2024 CADSI is based on 1,026 U.S. auto dealer respondents, comprising 550 franchised dealers and 476 independents.",0.65
+The Q2,RELATED_TO,United States,doc_21,"The Q2 2024 CADSI is based on 1,026 U.S. auto dealer respondents, comprising 550 franchised dealers and 476 independents.",0.65
+About Cox AutomotiveCox Automotive,RELATED_TO,Cox Automotive,doc_21,About Cox AutomotiveCox Automotive is the world’s largest automotive services and technology provider.,0.65
+About Cox AutomotiveCox Automotive,RELATED_TO,Iveco,doc_21,About Cox AutomotiveCox Automotive is the world’s largest automotive services and technology provider.,0.65
+Cox Automotive,RELATED_TO,Iveco,doc_21,About Cox AutomotiveCox Automotive is the world’s largest automotive services and technology provider.,0.65
+FleetNet America,RELATED_TO,Kelley Blue Book,doc_21,"The company has 29,000+ employees on five continents and a portfolio of industry-leading brands that include Autotrader®, Kelley Blue Book®, Manheim®, vAuto®, Dealertrack®, NextGear Capital™, CentralDispatch® and FleetNet America®.",0.65
+FleetNet America,RELATED_TO,NextGear Capital,doc_21,"The company has 29,000+ employees on five continents and a portfolio of industry-leading brands that include Autotrader®, Kelley Blue Book®, Manheim®, vAuto®, Dealertrack®, NextGear Capital™, CentralDispatch® and FleetNet America®.",0.65
+Kelley Blue Book,RELATED_TO,NextGear Capital,doc_21,"The company has 29,000+ employees on five continents and a portfolio of industry-leading brands that include Autotrader®, Kelley Blue Book®, Manheim®, vAuto®, Dealertrack®, NextGear Capital™, CentralDispatch® and FleetNet America®.",0.65
+Cox Automotive,RELATED_TO,Cox Enterprises Inc,doc_21,"Cox Automotive is a subsidiary of Cox Enterprises Inc., a privately owned, Atlanta-based company with $22 billion in annual revenue.",0.65
+Dara Hailes,RELATED_TO,Mark Schirmer,doc_21,Media Contacts: Mark Schirmer 734 883 6346mark.schirmer@coxautoinc.com Dara Hailes 470 658 0656 dara.hailes@coxautoinc.com Don’t miss out!,0.65
+Dara Hailes,RELATED_TO,Media Contacts,doc_21,Media Contacts: Mark Schirmer 734 883 6346mark.schirmer@coxautoinc.com Dara Hailes 470 658 0656 dara.hailes@coxautoinc.com Don’t miss out!,0.65
+Mark Schirmer,RELATED_TO,Media Contacts,doc_21,Media Contacts: Mark Schirmer 734 883 6346mark.schirmer@coxautoinc.com Dara Hailes 470 658 0656 dara.hailes@coxautoinc.com Don’t miss out!,0.65
+U.S. Automobile Dealer Sentiment Index: As Market Uncertainty ...,MATCHES_SEARCH_QUERY,Investor sentiment towards electric vehicle sector in the US,doc_21,"Jun 10, 2024 ... The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.8
+Zeekr,REPORTED_SALES,Strong US IPO,doc_22,Zeekr's strong US IPO,0.9
+China,TESTS_MARKET,Offshore markets,doc_22,China's EV sector to test offshore markets,0.85
+Hangzhou-based premium car manufacturer,IMPROVING_SENTIMENT,Investor sentiment towards Chinese-linked stocks,doc_22,In a sign of improving investor sentiment towards Chinese-linked stocks,0.8
+Zeekr,FOUNDED_BY,Chinese company,doc_22,US by a Chinese company since 2021,0.75
+EV sector,REGULATED_BY,Chinese policies,doc_22,China's EV sector,0.7
+FT,PROVIDES_ACCESS_TO,Quality journalism,doc_22,Complete digital access to quality FT journalism,0.9
+FT,DELIVERS,FT newspaper Monday-Saturday,doc_22,FT newspaper delivered Monday-Saturday,0.85
+FT,OFFERS_SUBSCRIPTION,Digital access,doc_22,Complete digital access to quality FT journalism with expert analysis,0.8
+Cox Automotive,REPORTED_SALES,Dealer Sentiment Index score of 40 in Q3 2024,doc_23,"The overall Q3 market sentiment index dropped to a score of 40, down from 42 in Q2.",0.9
+United States,VIEWED_AS,weak market,doc_23,U.S. automobile dealers have viewed the overall market as weak.,0.95
+Independent Dealers,ACHIEVED_SCORE,37 in Q3 2024,doc_23,"Independent dealers expressed a very negative outlook, achieving a score of 37.",0.85
+Franchised Dealers,HAD_INDEX_SCORE,49 in Q3 2024,doc_23,Franchised dealers had an index score of 49 in the latest survey.,0.8
+Cost Index,REACHED,77 in Q3 2024,doc_23,The cost index reached a new record high in Q3 at 77.,0.9
+Dealer Profitability Index,SCORED,34 in Q3 2024,doc_23,"The dealer profitability index score in Q3 was 34, lower than the score of 40 one year ago.",0.85
+EV Sales,IMPACTED_BY,Government-supported EV sales incentives,doc_23,A growing majority of dealers feel the government-supported EV sales incentives are having a positive impact on sales.,0.8
+Inflation Reduction Act,CONFIRMED,EV tax credit index score of 58,doc_23,"In the latest survey, the index score was 58, increasing for the fifth consecutive quarter.",0.85
+Political Climate,HOLDING_BACK,44% of dealers in Q3 2024,doc_23,44% of dealers noted Political Climate was a factor holding back business.,0.9
+Credit Availability for Consumers,NOTABLE_FACTOR,holding back business for independent dealers,doc_23,"Credit Availability for Consumers continues to be a notable factor holding back business, especially for independent dealers.",0.8
+Tesla,REPORTED_SALES,$3.1 billion in tax credits,doc_24,Tesla has received US$3.1 billion in tax credits and hundreds of millions of dollars in government loans.,0.9
+Biden Administration,INVESTED_IN,$400 billion in clean energy,doc_24,"Biden’s plan includes a promise to build at least 500,000 charging stations by 2030.",0.85
+Electric Vehicles,SUBSIDIZED_BY,"US$7,500 tax credit",doc_24,"The federal government boosts demand for electric vehicles by offering a US$7,500 tax credit on electric vehicle purchases.",0.9
+Nikola,VALUATION,$34 billion,doc_24,Nikola had a valuation of US$34 billion in June.,0.8
+NIO,REPORTED_SALES,"1,084 percent increase in one year",doc_24,"NIO rose 1,084 percent in one year.",0.85
+Workhorse,REPORTED_SALES,"1,000 percent increase",doc_24,"Workhorse has reached gains as high as 1,000 percent at certain points in the year.",0.8
+Hyliion,VALUATION_CHANGE,rose over 400 percent then lost over 66 percent,doc_24,Hyliion rose over 400 percent then lost over 66 percent of its value in the last 7 months.,0.75
+Deloitte Survey,REPORTED_SENTIMENT,68 percent concerned about carbon footprint,doc_24,"In a survey of 1,500 individuals by Deloitte, 68 percent of respondents were very concerned about their carbon footprint.",0.9
+United States,SUPPORTED_BY,86 percent of respondents,doc_24,86 percent of respondents believing that government should play a role in setting a vision and path for US energy strategy.,0.85
+Electric Vehicle Industry,REGULATED_BY,Biden Administration,doc_24,Part of Biden’s plan includes the EV industry.,0.8
+United States,PUBLISHED,new restrictions on outbound investment to China,doc_25,We expect the US to publish new restrictions on outbound investment to China in early-to-mid May.,0.9
+Joe Biden,DEPLOYED,new investment mechanism,doc_25,This US action will further damage international confidence in China’s market at a time when the country’s leaders are looking to restore investor sentiment.,0.85
+Inflation Reduction Act,PASSED,August 2022,doc_25,The first move was the passage of the US$740bn Inflation Reduction Act (IRA) in August 2022.,0.95
+China,RECEIVED_SUBSIDIES,Rmb150bn (US$22bn) over the last decade,doc_25,China poured in more than Rmb150bn (US$22bn) in subsidies over the last decade.,0.9
+United States,IMPOSED_TAX_CREDIT,"US$7,500 for EV battery production",doc_25,"A maximum tax credit of US$7,500 for EV battery production is only offered to companies that source 40% of battery minerals from the US.",0.88
+Microvast,SCRUTINIZED_FOR_TIES,China,doc_25,The most high-profile case involves scrutiny of a US$200m grant to Microvast over its ties to China.,0.87
+United States,TARGETED,EV manufacturing regulations,doc_25,International companies with exposure to the automotive industry should prepare for future US trade regulations that increasingly target EV manufacturing.,0.85
+China,DOMINATES,new-energy vehicles (NEVs,doc_25,"We do not expect future US rules to weigh on China’s growing clout in the EV manufacturing process, given the latter’s dominance of new-energy vehicles.",0.9
+United States,ENGAGED_IN_DIALOGUE,China,doc_25,China and the US resume dialogue in some areas.,0.8
+Gina Raimondo,VISITED,China,doc_25,"Senior officials from the US Department of Commerce visited China in April, probably to prepare for a visit by the US commerce secretary, Gina Raimondo.",0.8
+Charging Forward,RELATED_TO_CHARGING,Electric Vehicle,doc_26,Charging Forward: Exploring Opportunities in Electric Vehicle ...,0.65
+Charging Forward,RELATED_TO_CHARGING,Exploring Opportunities,doc_26,Charging Forward: Exploring Opportunities in Electric Vehicle ...,0.65
+Electric Vehicle,RELATED_TO_CHARGING,Exploring Opportunities,doc_26,Charging Forward: Exploring Opportunities in Electric Vehicle ...,0.65
+Krane Funds Advisors,INVESTS_IN,KraneShares ETFs,doc_26,"Krane Funds Advisors, LLC is the investment manager for KraneShares ETFs.",0.65
+Krane Funds Advisors,INVESTS_IN,LLC,doc_26,"Krane Funds Advisors, LLC is the investment manager for KraneShares ETFs.",0.65
+KraneShares ETFs,INVESTS_IN,LLC,doc_26,"Krane Funds Advisors, LLC is the investment manager for KraneShares ETFs.",0.65
+CNBC Worldwide Exchange,REGULATED_OR_REQUIRED_BY,China,doc_26,"January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP) View More Our semi-monthly topical research reports.",0.65
+CNBC Worldwide Exchange,REGULATED_OR_REQUIRED_BY,China Internet,doc_26,"January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP) View More Our semi-monthly topical research reports.",0.65
+CNBC Worldwide Exchange,REGULATED_OR_REQUIRED_BY,Covered Call Strategy ETF,doc_26,"January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP) View More Our semi-monthly topical research reports.",0.65
+China,REGULATED_OR_REQUIRED_BY,China Internet,doc_26,"January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP) View More Our semi-monthly topical research reports.",0.65
+China,REGULATED_OR_REQUIRED_BY,Covered Call Strategy ETF,doc_26,"January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP) View More Our semi-monthly topical research reports.",0.65
+China Internet,REGULATED_OR_REQUIRED_BY,Covered Call Strategy ETF,doc_26,"January 22, 2025 – Talk Your Book: Moneyball Meets Private Equity January 14, 2025 – CNBC Worldwide Exchange: Derek Yan on Palantir’s Future January 13, 2025 – KraneShares To Extend Outcome Period For Buffer Strategies KPRO & KBUF On Strong China Internet Sector Momentum December 31, 2024 – KraneShares Announces Reverse Split and Distribution Policy Change for China Internet and Covered Call Strategy ETF (KLIP) View More Our semi-monthly topical research reports.",0.65
+CARB,RELATED_TO,Carbon Markets,doc_26,"January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts January 22, 2025 – The Outlook for Private Equity in 2025 January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?",0.65
+CARB,RELATED_TO,China,doc_26,"January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts January 22, 2025 – The Outlook for Private Equity in 2025 January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?",0.65
+CARB,RELATED_TO,Could China Stocks Be The,doc_26,"January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts January 22, 2025 – The Outlook for Private Equity in 2025 January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?",0.65
+Carbon Markets,RELATED_TO,China,doc_26,"January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts January 22, 2025 – The Outlook for Private Equity in 2025 January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?",0.65
+Carbon Markets,RELATED_TO,Could China Stocks Be The,doc_26,"January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts January 22, 2025 – The Outlook for Private Equity in 2025 January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?",0.65
+China,RELATED_TO,Could China Stocks Be The,doc_26,"January 23, 2025 – Carbon Markets in 2025: Top 5 Developments to Watch January 23, 2025 – KMLM: Interest Rate Shifts and Election Impacts January 22, 2025 – The Outlook for Private Equity in 2025 January 21, 2025 – Could China Stocks Be The Ultimate Trump Trade?",0.65
+China,INVESTS_IN,KraneShares ETFs,doc_26,"View More Information about KraneShares ETFs, China's markets and culture, and general investing resources.",0.65
+China,INVESTS_IN,View More Information,doc_26,"View More Information about KraneShares ETFs, China's markets and culture, and general investing resources.",0.65
+KraneShares ETFs,INVESTS_IN,View More Information,doc_26,"View More Information about KraneShares ETFs, China's markets and culture, and general investing resources.",0.65
+China,GREW_OR_INCREASED,View More Our,doc_26,"View More Our market update is a collaboration between the KraneShares internal research department, our local Chinese partners, and select China thought leaders from around the world.",0.65
+Embarcadero Center,GREW_OR_INCREASED,FloorNew York,doc_26,"+1 (855) 8KRANE8 [email protected] 280 Park Avenue, 32nd FloorNew York, NY 10017 +1 (212) 933-0393 1 Embarcadero Center, Suite 2350San Francisco, CA 94111 181 Queen Victoria Street London EC4V 4EG +44 203 955 5230 [email protected] [email protected] [email protected] Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates.",0.65
+Embarcadero Center,GREW_OR_INCREASED,Park Avenue,doc_26,"+1 (855) 8KRANE8 [email protected] 280 Park Avenue, 32nd FloorNew York, NY 10017 +1 (212) 933-0393 1 Embarcadero Center, Suite 2350San Francisco, CA 94111 181 Queen Victoria Street London EC4V 4EG +44 203 955 5230 [email protected] [email protected] [email protected] Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates.",0.65
+Embarcadero Center,GREW_OR_INCREASED,Queen Victoria Street London EC4V,doc_26,"+1 (855) 8KRANE8 [email protected] 280 Park Avenue, 32nd FloorNew York, NY 10017 +1 (212) 933-0393 1 Embarcadero Center, Suite 2350San Francisco, CA 94111 181 Queen Victoria Street London EC4V 4EG +44 203 955 5230 [email protected] [email protected] [email protected] Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates.",0.65
+FloorNew York,GREW_OR_INCREASED,Park Avenue,doc_26,"+1 (855) 8KRANE8 [email protected] 280 Park Avenue, 32nd FloorNew York, NY 10017 +1 (212) 933-0393 1 Embarcadero Center, Suite 2350San Francisco, CA 94111 181 Queen Victoria Street London EC4V 4EG +44 203 955 5230 [email protected] [email protected] [email protected] Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates.",0.65
+FloorNew York,GREW_OR_INCREASED,Queen Victoria Street London EC4V,doc_26,"+1 (855) 8KRANE8 [email protected] 280 Park Avenue, 32nd FloorNew York, NY 10017 +1 (212) 933-0393 1 Embarcadero Center, Suite 2350San Francisco, CA 94111 181 Queen Victoria Street London EC4V 4EG +44 203 955 5230 [email protected] [email protected] [email protected] Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates.",0.65
+Park Avenue,GREW_OR_INCREASED,Queen Victoria Street London EC4V,doc_26,"+1 (855) 8KRANE8 [email protected] 280 Park Avenue, 32nd FloorNew York, NY 10017 +1 (212) 933-0393 1 Embarcadero Center, Suite 2350San Francisco, CA 94111 181 Queen Victoria Street London EC4V 4EG +44 203 955 5230 [email protected] [email protected] [email protected] Despite global EV sales growing 40% last year, performance in related equities dragged.2 The disconnect between sales growth and stock performance stems partly from more conservative growth estimates.",0.65
+Li Auto,RELATED_TO,Pure EV,doc_26,"Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023.",0.65
+Li Auto,RELATED_TO,Rivian,doc_26,"Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023.",0.65
+Li Auto,RELATED_TO,Tesla,doc_26,"Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023.",0.65
+Pure EV,RELATED_TO,Rivian,doc_26,"Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023.",0.65
+Pure EV,RELATED_TO,Tesla,doc_26,"Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023.",0.65
+Rivian,RELATED_TO,Tesla,doc_26,"Pure EV companies such as Tesla, Li Auto, Xpeng, and Rivian proved their ability to compete with legacy automotive companies in 2023.",0.65
+Ford,RELATED_TO,General Motors,doc_26,"Traditional ICE car companies like Ford and GM, who have introduced EVs to their existing business model, failed to show any considerable improvements last year across the board.",0.65
+Ford,RELATED_TO,Traditional ICE,doc_26,"Traditional ICE car companies like Ford and GM, who have introduced EVs to their existing business model, failed to show any considerable improvements last year across the board.",0.65
+General Motors,RELATED_TO,Traditional ICE,doc_26,"Traditional ICE car companies like Ford and GM, who have introduced EVs to their existing business model, failed to show any considerable improvements last year across the board.",0.65
+COVID-19,INVESTS_IN,China,doc_26,"On a country level, China-based EV makers sold off the most due to negative investor sentiment following two challenging years of COVID-19 closures and regulations.",0.65
+COVID-19,INVESTS_IN,China-based EV,doc_26,"On a country level, China-based EV makers sold off the most due to negative investor sentiment following two challenging years of COVID-19 closures and regulations.",0.65
+China,INVESTS_IN,China-based EV,doc_26,"On a country level, China-based EV makers sold off the most due to negative investor sentiment following two challenging years of COVID-19 closures and regulations.",0.65
+BYD,GREW_OR_INCREASED,China,doc_26,"Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.",0.65
+BYD,GREW_OR_INCREASED,Tesla,doc_26,"Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.",0.65
+BYD,GREW_OR_INCREASED,Tesla.6 It,doc_26,"Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.",0.65
+China,GREW_OR_INCREASED,Tesla,doc_26,"Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.",0.65
+China,GREW_OR_INCREASED,Tesla.6 It,doc_26,"Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.",0.65
+Tesla,GREW_OR_INCREASED,Tesla.6 It,doc_26,"Despite it all, EV sales grew by 40%, and EV-related industrial production growth surpassed 30%.5 BYD, China’s leading EV maker, became the top global EV seller in Q4 of 2023, surpassing Tesla.6 It is unsurprising that BYD, like Alibaba, Tencent, JD.com, LONGi, and other pioneering Chinese companies, is taking the lead in another future industry: the electrification of transport.",0.65
+China,FORECASTS,Europe,doc_26,"In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10 Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases.",0.65
+China,FORECASTS,IRA,doc_26,"In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10 Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases.",0.65
+China,FORECASTS,Inflation Reduction Act,doc_26,"In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10 Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases.",0.65
+Europe,FORECASTS,IRA,doc_26,"In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10 Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases.",0.65
+Europe,FORECASTS,Inflation Reduction Act,doc_26,"In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10 Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases.",0.65
+IRA,FORECASTS,Inflation Reduction Act,doc_26,"In 2024, we expect global EV sales to grow by 20% to 16.5 million units.7 Most of the sales are expected to be in China, which is estimated to account for about 10 million of the EVs sold globally.8 The US is expected to sell nearly 2 million EVs, representing more modest growth over 2023.9 On the other hand, European sales growth is expected to be in the single digits for the year, with around 3.8 million units.10 Excitement in the US over EVs began to weaken following the revision of the Inflation Reduction Act (IRA) to limit the number of brands that qualify for the full $7,500 credit for EV purchases.",0.65
+BYD,DECLINED_OR_SLOWED,Tesla,doc_26,"Many of these companies are trading at a price-to-sales (P/S) level between 1 and 2.11 BYD’s P/S is 0.9.12 Meanwhile, Tesla's P/S has declined from 10 to 6 after a recent earnings miss.13 Also, positioning in the sector is the lowest it has been in many years, and sentiment is bearish.",0.65
+China,RELATED_TO_SALES,United States,doc_26,"Any signs of improvement in EV sales, China’s macroeconomics, or rate cuts in the US could change sentiment quickly.",0.65
+BEV,RELATED_TO_BATTERY,Battery EVs,doc_26,"The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc.",0.65
+BEV,RELATED_TO_BATTERY,General Motors,doc_26,"The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc.",0.65
+BEV,RELATED_TO_BATTERY,PHEV,doc_26,"The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc.",0.65
+Battery EVs,RELATED_TO_BATTERY,General Motors,doc_26,"The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc.",0.65
+Battery EVs,RELATED_TO_BATTERY,PHEV,doc_26,"The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc.",0.65
+General Motors,RELATED_TO_BATTERY,PHEV,doc_26,"The Cell price reached an all-time low with a weighted volume average of $107/kWh.14 Pack prices hit $32/kWh.15 This price includes inputs from all electrification segments, including Plug-In Hybrids (PHEV), Battery EVs (BEV), Stationary, E-Busses, etc.",0.65
+BEV,FORECASTS,ICE,doc_26,"BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16 Prices are expected to ease further in 2024, bringing us closer to ICE parity.",0.65
+BEV,FORECASTS,KWH,doc_26,"BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16 Prices are expected to ease further in 2024, bringing us closer to ICE parity.",0.65
+BEV,FORECASTS,PHEV,doc_26,"BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16 Prices are expected to ease further in 2024, bringing us closer to ICE parity.",0.65
+ICE,FORECASTS,KWH,doc_26,"BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16 Prices are expected to ease further in 2024, bringing us closer to ICE parity.",0.65
+ICE,FORECASTS,PHEV,doc_26,"BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16 Prices are expected to ease further in 2024, bringing us closer to ICE parity.",0.65
+KWH,FORECASTS,PHEV,doc_26,"BEV battery prices in 2023 were observed at $128/KWH, while PHEV battery prices were $343/kWh.16 Prices are expected to ease further in 2024, bringing us closer to ICE parity.",0.65
+China,FORECASTS,ICE,doc_26,"Absent a major technology improvement in batteries, ICE parity is expected to be reached for specific models, such as lightweight vehicles, in certain countries, such as China, in 2025.",0.65
+CATL,RELATED_TO,Samsung SDI,doc_26,"Many companies, including CATL and Samsung SDI, were operating below capacity and delivered revenues and earnings that were below Wall Street's expectations.",0.65
+CATL,RELATED_TO,Wall Street,doc_26,"Many companies, including CATL and Samsung SDI, were operating below capacity and delivered revenues and earnings that were below Wall Street's expectations.",0.65
+Samsung SDI,RELATED_TO,Wall Street,doc_26,"Many companies, including CATL and Samsung SDI, were operating below capacity and delivered revenues and earnings that were below Wall Street's expectations.",0.65
+Bloomberg New Energy Finance,HAS_MARKET_SHARE,BloombergNEF,doc_26,"According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share.",0.65
+Bloomberg New Energy Finance,HAS_MARKET_SHARE,LFP,doc_26,"According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share.",0.65
+Bloomberg New Energy Finance,HAS_MARKET_SHARE,Lithium Price Survey,doc_26,"According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share.",0.65
+BloombergNEF,HAS_MARKET_SHARE,LFP,doc_26,"According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share.",0.65
+BloombergNEF,HAS_MARKET_SHARE,Lithium Price Survey,doc_26,"According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share.",0.65
+LFP,HAS_MARKET_SHARE,Lithium Price Survey,doc_26,"According to Bloomberg New Energy Finance's (BNEF) yearly Lithium Price Survey released last November, Lithium-Ion Phosphate (LFP) share versus Nickel-based chemistries continues to rise, reaching an estimated 46% of the total market share.",0.65
+Ford,RELATED_TO_BATTERY,LFP,doc_26,"LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year.",0.65
+Ford,RELATED_TO_BATTERY,North America,doc_26,"LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year.",0.65
+Ford,RELATED_TO_BATTERY,North American,doc_26,"LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year.",0.65
+LFP,RELATED_TO_BATTERY,North America,doc_26,"LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year.",0.65
+LFP,RELATED_TO_BATTERY,North American,doc_26,"LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year.",0.65
+North America,RELATED_TO_BATTERY,North American,doc_26,"LFP is becoming more popular for battery EVs, with many North American manufacturers like Rivian and Ford switching to LFP this year.",0.65
+IRA,SUPPORTED_BY_INCENTIVE,Inflation Reduction Act,doc_26,A Republican victory could mean repealing some of the subsidies in the Inflation Reduction Act (IRA).,0.65
+Ford,RELATED_TO_BATTERY,General Motors,doc_26,"Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states.",0.65
+Ford,RELATED_TO_BATTERY,Hyundai,doc_26,"Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states.",0.65
+Ford,RELATED_TO_BATTERY,Rivian,doc_26,"Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states.",0.65
+General Motors,RELATED_TO_BATTERY,Hyundai,doc_26,"Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states.",0.65
+General Motors,RELATED_TO_BATTERY,Rivian,doc_26,"Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states.",0.65
+Hyundai,RELATED_TO_BATTERY,Rivian,doc_26,"Examples of this include Rivian and Hyundai building new EV factories in Georgia, Fisker taking over the abandoned auto plant in Ohio, and Ford and GM planning to build battery factories in Michigan and other states.",0.65
+China,FORECASTS,Europe,doc_26,"Some of these factors include better-than-expected sales in Q2 and Q3, potential rate cuts in the US and Europe, a potential technological advancement, especially in batteries or autonomous driving, an improvement in consumer sentiment in China, more subsidies, and policies to encourage EV buying, especially in the EU, and the emergence of lower-priced EVs.",0.65
+China,FORECASTS,United States,doc_26,"Some of these factors include better-than-expected sales in Q2 and Q3, potential rate cuts in the US and Europe, a potential technological advancement, especially in batteries or autonomous driving, an improvement in consumer sentiment in China, more subsidies, and policies to encourage EV buying, especially in the EU, and the emergence of lower-priced EVs.",0.65
+Europe,FORECASTS,United States,doc_26,"Some of these factors include better-than-expected sales in Q2 and Q3, potential rate cuts in the US and Europe, a potential technological advancement, especially in batteries or autonomous driving, an improvement in consumer sentiment in China, more subsidies, and policies to encourage EV buying, especially in the EU, and the emergence of lower-priced EVs.",0.65
+Future Mobility Index ETF,INVESTS_IN,KARS,doc_26,Investors can gain exposure to companies engaged in the production of electric vehicles and/or their components through the KraneShares Electric Vehicles & Future Mobility Index ETF (Ticker: KARS).,0.65
+Future Mobility Index ETF,INVESTS_IN,KraneShares Electric Vehicles,doc_26,Investors can gain exposure to companies engaged in the production of electric vehicles and/or their components through the KraneShares Electric Vehicles & Future Mobility Index ETF (Ticker: KARS).,0.65
+KARS,INVESTS_IN,KraneShares Electric Vehicles,doc_26,Investors can gain exposure to companies engaged in the production of electric vehicles and/or their components through the KraneShares Electric Vehicles & Future Mobility Index ETF (Ticker: KARS).,0.65
+Bloomberg Electric Vehicles Index,RELATED_TO_CHARGING,KARS,doc_26,"KARS is benchmarked to the Bloomberg Electric Vehicles Index, which provides exposure to companies engaged in electric vehicle production, autonomous driving, shared mobility, lithium and/or copper production, lithium-ion/lead acid batteries, hydrogen fuel cell manufacturing, and electric infrastructure businesses.",0.65
+Cash Flow,RELATED_TO,FCF LT,doc_26,"Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues.",0.65
+Cash Flow,RELATED_TO,Free Cash Flow LT,doc_26,"Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues.",0.65
+Cash Flow,RELATED_TO,The Long Term Average Free,doc_26,"Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues.",0.65
+FCF LT,RELATED_TO,Free Cash Flow LT,doc_26,"Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues.",0.65
+FCF LT,RELATED_TO,The Long Term Average Free,doc_26,"Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues.",0.65
+Free Cash Flow LT,RELATED_TO,The Long Term Average Free,doc_26,"Free Cash Flow LT: The Long Term Average Free Cash Flow to Assets, or FCF LT / Assets, is a measure of how effectively a company generates surplus Cash Flow from Revenues.",0.65
+Average Free Cash Flow,RELATED_TO,Total Assets,doc_26,"It is the Average Free Cash Flow over the last five years, divided by Total Assets.",0.65
+Follow Us,INVESTS_IN,Krane Funds Advisors,doc_26,"View All ©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017 Follow Us: Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing.",0.65
+Follow Us,INVESTS_IN,LLC280 Park Avenue,doc_26,"View All ©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017 Follow Us: Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing.",0.65
+Follow Us,INVESTS_IN,New York,doc_26,"View All ©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017 Follow Us: Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing.",0.65
+Krane Funds Advisors,INVESTS_IN,LLC280 Park Avenue,doc_26,"View All ©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017 Follow Us: Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing.",0.65
+Krane Funds Advisors,INVESTS_IN,New York,doc_26,"View All ©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017 Follow Us: Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing.",0.65
+LLC280 Park Avenue,INVESTS_IN,New York,doc_26,"View All ©2025 Krane Funds Advisors, LLC280 Park Avenue, 32nd Floor, New York, NY 10017 Follow Us: Carefully consider the Funds’ investment objectives, risk factors, charges and expenses before investing.",0.65
+Charging Forward: Exploring Opportunities in Electric Vehicle ...,MATCHES_SEARCH_QUERY,Investor sentiment towards electric vehicle sector in the US,doc_26,"Feb 15, 2024 ... Looking ahead to 2024, global EV sales are projected to increase by 20%1, with China expected to continue to dominate the market. Despite ...",0.8
+Joint Office of Energy and Transportation,PARTNERED_WITH,Private Sector,doc_27,The Joint Office helps leverage to develop effective zero-emission fueling programs and resources.,0.9
+Joint Office of Energy and Transportation,SUPPORTED_BY,Federal Government,doc_27,The federal government does not build zero-emission EV charging and refueling infrastructure alone.,0.85
+National Electric Vehicle Infrastructure (NEVI) Formula Program,REPORTED_SALES,Private Sector Bids,doc_27,Private sector companies are invited to bid into the National Electric Vehicle Infrastructure (NEVI) Formula Program.,0.8
+Joint Office of Energy and Transportation,REGULATED_BY,National Zero-Emission Freight Corridor Strategy,doc_27,The Joint Office has created new models for how government works with industry.,0.75
+Zero-Emission Transportation Investments,CREATES,Good-Paying Jobs,doc_27,Investments in zero-emission transportation and clean energy are creating good-paying jobs.,0.9
+Joint Office of Energy and Transportation,DEVELOPS,Electric Vehicle Working Group (EVWG,doc_27,The Joint Office regularly convenes the Electric Vehicle Working Group (EVWG).,0.8
+Joint Office of Energy and Transportation,FUNDED_BY,Government Funding,doc_27,"Government funding complements private investment, filling in gaps in the national charging network.",0.85
+Electric Vehicle Supply Equipment (EVSE,MAINTAINED_BY,Technicians,doc_27,The Joint Office is supporting workforce development efforts covering positions from electrician apprenticeships to EVSE maintenance technicians.,0.8
+Joint Office of Energy and Transportation,ACCELERATES,Zero-Emission Fueling Projects,doc_27,The Joint Office is your partner in government to accelerate zero-emission fueling and transportation projects.,0.9
+Curbside Level 2 Charging,SUPPORTED_BY,Public Sector,doc_27,Public sector support for approaches such as curbside Level 2 charging is crucial.,0.75
+Battery Electric Vehicles,REPORTED_SALES,2 million vehicles,doc_28,The sales of battery electric and plug-in hybrid electric cars tipped over the two-million-vehicle mark for the first time in 2019.,0.9
+Deloitte,FOUNDED_BY,Research Centers,doc_28,Deloitte Insights and our research centers deliver proprietary research designed to help organizations turn their aspirations into action.,0.8
+European Emissions Standards,REGULATED_BY,Manufacturers,doc_28,"This rise was partly stimulated by new, stricter European emissions standards that persuaded manufacturers to favour the production and sale of zero-emission vehicles.",0.85
+China,DOMINATES_MARKET,BEV technology,doc_28,"Although BEVs are still the dominant EV technology in the United States and Europe, they command a smaller share of the market than in China.",0.9
+Norway,ACHIEVED_MARKET_SHARE,56%,doc_28,Norway achieved 56 per cent market share.,0.9
+United Kingdom,REPORTED_GROWTH,Triple-digit growth,doc_28,The United Kingdom and some other countries reported triple-digit growth for the year.,0.8
+COVID-19,DISRUPTED,Global sales and manufacturing,doc_28,But then COVID-19 completely disrupted global sales and manufacturing.,0.95
+Electric Vehicles,MARKET_SHARE,2.5%,doc_28,EVs staked their claim on a 2.5 per cent share of all new car sales last year.,0.85
+BEVs,ACCOUNTED_FOR,74% of global EV sales,doc_28,"Looking back at BEVs in 2019, they accounted for 74 per cent of global EV sales.",0.9
+Deloitte,PROVIDED_FORECAST,EV sales,doc_28,"Since Deloitte last presented a forecast for electric vehicle (EV) sales, in January 2019, the EV market has made great strides.",0.8
+Joint Office of Energy and Transportation,PARTNERED_WITH,Private Sector,doc_29,The Joint Office is your partner in government to accelerate zero-emission fueling and transportation projects.,0.9
+Joint Office of Energy and Transportation,SUPPORTED_BY,Federal Government,doc_29,The federal government does not build zero-emission EV charging and refueling infrastructure alone.,0.85
+National Electric Vehicle Infrastructure (NEVI) Formula Program,REPORTED_SALES,Private Sector Bids,doc_29,Private sector companies are invited to bid into the National Electric Vehicle Infrastructure (NEVI) Formula Program.,0.8
+Joint Office of Energy and Transportation,REGULATED_BY,National Zero-Emission Freight Corridor Strategy,doc_29,"The Joint Office has created new models for how government works with industry, including the National Zero-Emission Freight Corridor Strategy.",0.75
+Zero-Emission Transportation Investments,CREATES_JOBS,Good-Paying Jobs,doc_29,Investments in zero-emission transportation and clean energy are creating good-paying jobs.,0.9
+Joint Office of Energy and Transportation,FUNDED_BY,Government Funding,doc_29,"Government funding complements private investment, filling in gaps in the national charging network.",0.8
+Electric Vehicle Working Group (EVWG,CONVENED_BY,Joint Office of Energy and Transportation,doc_29,The Joint Office regularly convenes the Electric Vehicle Working Group (EVWG).,0.85
+Joint Office of Energy and Transportation,SUPPORTED_BY,Workforce Development Efforts,doc_29,The Joint Office is supporting workforce development efforts across the spectrum.,0.8
+Charging Projects,SUPPORTED_BY,Public Funding,doc_29,Public funding can also support charging projects before the financial break-even point.,0.75
+Joint Office of Energy and Transportation,ACCELERATES,Zero-Emission Infrastructure,doc_29,The Joint Office is here to catalyze and help scale new mobility and energy technologies.,0.85
+United States,REPORTED_SALES,1.2 million,doc_30,"In 2023, a remarkable nearly 1.2 million US vehicle buyers opted for electric vehicles.",0.95
+Cox Automotive,PREDICTED_SALES,1 million,doc_30,"In early 2023, Cox Automotive anticipated that EV sales in the US would surpass the 1 million mark.",0.9
+Tesla,MARKET_SHARE,55%,doc_30,"Tesla maintains its stronghold in the US EV market, accounting for 55% of electric vehicle purchases in 2023.",0.95
+Tesla Model Y,SOLD_UNITS,"394,000",doc_30,"The Model Y, with over 394,000 units sold, emerged as the top-selling EV.",0.92
+Hyundai Ioniq5,INCENTIVES,18%,doc_30,"In January 2024, the Hyundai Ioniq5's incentives had surpassed 18%.",0.88
+BMW,EV_SALES_SHARE,12.5%,doc_30,"In 2023, BMW saw 12.5% of its total sales come from EVs.",0.9
+Rivian,SOLD_UNITS,"24,783",doc_30,"Rivian gained significant traction, selling 24,783 R1S electric SUVs in 2023.",0.85
+Volkswagen,EV_SALES_SHARE,11.5%,doc_30,"Volkswagen leads among non-luxury brands, with EVs representing 11.5% of its sales for the year.",0.9
+Tesla Model 3,SOLD_UNITS,"220,910",doc_30,"The Model 3 secured the second position with 220,910 units sold.",0.92
+Ford,SOLD_UNITS,"40,771",doc_30,"Ford's Mustang Mach-E and F-150 Lightning also saw record-breaking sales figures, with 40,771 electric crossovers sold.",0.85
+Donald Trump,REVERSED_POLICY_ON,Green New Deal,doc_31,"Trump declared his intention to dismantle the eco-friendly policies of the Biden administration, known as the Green New Deal.",0.9
+Donald Trump,REVOKED,electric vehicle mandate,doc_31,"He emphasized, 'We will end the Green New Deal and we will revoke the electric vehicle mandate.'",0.9
+EcoPro BM,REPORTED_SALES_DECLINE,"126,100 won",doc_31,"EcoPro BM closed at 126,100 won, down 11,900 won (-8.62%) from the previous trading day.",0.85
+EcoPro,REPORTED_SALES_DECLINE,-5.87%,doc_31,Kosdaq-listed companies EcoPro (-5.87%) and Enchem (-8.39%)...could not avoid the sharp downturn.,0.85
+LG Energy Solution,REPORTED_SALES_DECLINE,-4.32%,doc_31,the leading domestic secondary battery company LG Energy Solution (-4.32%),0.85
+Trump Administration,WITHDREW,subsidies and tax credits for electric vehicles,doc_31,President Trump's remarks were interpreted by the market as a signal to withdraw subsidies and tax credits for electric vehicle purchases.,0.8
+Green New Deal,SUPPORTED_BY,Biden Administration,doc_31,"The Green New Deal, supported by the Biden administration, aimed to address climate change.",0.9
+Electric Vehicle Market,GROWTH_TIED_TO,government incentives,doc_31,The electric vehicle market...benefited from government incentives like tax credits and subsidies.,0.85
+Secondary Battery Industry,AFFECTED_BY,withdrawal of support for electric vehicles,doc_31,The potential withdrawal of support for electric vehicles not only affects the secondary battery industry.,0.8
+Trump Administration,MARKED_BY,deregulatory agenda,doc_31,Donald Trump's previous term as President was marked by a deregulatory agenda.,0.85
+Citi Research,REPORTED_SALES,1.47 million units of new EV sales in 2024,doc_32,"the authors forecast 1.47 million units of new EV sales, or 9.1% penetration in 2024",0.9
+Citi Research,REPORTED_SALES,2.34 million units of new EV sales in 2025,doc_32,"the forecast is for 2.34 million units, or 13.8% penetration",0.9
+Citi Research,FORECASTED_GROWTH,12% growth in global BEV volume in 2024,doc_32,the report forecasts global battery electric vehicle (BEV) volume will grow a modest 12% this year,0.85
+Citi Research,FORECASTED_ADOPTION,33% global EV adoption by 2030,doc_32,Such a pace would lift global EV adoption to 33% by 2030,0.85
+Citi Research,REGULATED_BY,Inflation Reduction Act (IRA,doc_32,price cuts and Inflation Reduction Act (IRA) benefits needed to achieve that penetration,0.8
+China,FORECASTED_GROWTH,48% EV adoption by 2030,doc_32,with China at 48% by 2030,0.8
+United States,CHARACTERIZED_AS,having entered an 'air pocket,doc_32,the authors characterize the U.S. EV market as having entered an 'air pocket',0.75
+Citi Research,ANALYZED,EV penetration matrix,doc_32,the report presents Citi’s recently developed EV penetration matrix,0.8
+PHEVs and EREVs,VIEWED_AS,investment in future EV share,doc_32,PHEVs and EREVs can be viewed as an investment in future EV share,0.75
+United States,CURRENT_PENETRATION,8% EV adoption,doc_32,"it looks like EV adoption continued to progress, with new sales penetration rising close to ~8%",0.8
+Electric Vehicle (EV) market,EXPECTED_GROWTH,2022,doc_33,"The Electric Vehicle (EV) market is expected to really take off in 2022, driven by innovation in battery manufacturing.",0.9
+EV sales,REPORTED_SALES,6.3M vehicles in 2021,doc_33,"6.3M vehicles have been sold globally in 2021, almost twice as much as in 2020.",0.95
+China,EXHIBITED_GROWTH,154%,doc_33,China exhibited a 154% growth compared to last year with more than 3 millions vehicles sold vs. 1.4 millions in 2020.,0.9
+Germany,CLOSED_YEAR_WITH_MARKET_SHARE,26%,doc_33,"Germany, who closed the year with a 26% market shares.",0.85
+IDTechEx,PREDICTS_INCREASE,9.6-fold increase in BEV & PHEV car sales by 2031,doc_33,IDTechEx predicts a 9.6-fold increase in BEV & PHEV car sales by 2031 compared to 2020.,0.9
+Battery Capacity,INCREASED_BY,"81% in China and Europe, 71% in the US",doc_33,the average pack capacity for BEV and PHEV cars has increased by 81% in China and Europe and by 71% in the US.,0.85
+Silicon,EXPECTED_SURGE_IN_DEMAND,over 100× by 2031,doc_33,IDTechEx forecast silicon demand to surge by over 100× by 2031.,0.9
+Aluminum demand,EXPECTED_INCREASE,11.9-fold by 2031,doc_33,IDTechEx predicts an 11.9-fold increase in aluminum demand for battery pack materials in 2031 compared to 2020.,0.85
+Copper demand,EXPECTED_INCREASE,15.3-fold by 2031,doc_33,IDTechEx predicts a 15.3-fold increase in copper demand for battery pack materials in 2031 compared to 2020.,0.85
+ACC,INVESTIGATING_USE_OF,silicon in NMC cathodes,doc_33,"As for ACC, we are investigating the use of silicon in our NMC cathodes.",0.8
+United States,REPORTED_SALES,weak market sentiment,doc_34,"U.S. automobile dealers view the market as increasingly weak, with the overall sentiment score dropping to 40.",0.85
+Cox Automotive Dealer Sentiment Index,MEASURED,40,doc_34,The latest Q3 2024 Cox Automotive Dealer Sentiment Index (CADSI) reveals that U.S. automobile dealers view the market as increasingly weak.,0.9
+Franchised dealers,SCORED,50,doc_34,Franchised dealers showed a slightly improved sentiment with a score of 50.,0.8
+Independent dealers,SCORED,37,doc_34,"Independent dealers remain highly pessimistic, scoring only 37, the second-lowest in the survey’s history.",0.8
+Japan,INVESTED,$2.4 billion,doc_34,Japan invests $2.4 billion in subsidies to boost EV battery production.,0.85
+Hyundai,OFFERED,free level 2 home charger,doc_34,Hyundai offers free level 2 home charger for 2025 Ioniq 5 N buyers.,0.9
+EV sentiment,SAW_UPTICK,Q3 2024,doc_34,Electric vehicle (EV) sentiment saw a slight uptick in Q3 but remained below last year’s levels.,0.75
+Government-backed EV incentives,POSITIVELY_IMPACTED,sales,doc_34,A growing number of dealers report that government-backed EV incentives are positively impacting sales.,0.8
+Cost index,HIT,77,doc_34,"Dealers cite rising operational costs as a key factor, as the cost index hit a record high of 77.",0.85
+Political climate concerns,NOTED_BY,44% of dealers,doc_34,"Political climate concerns saw a significant rise, with 44% of dealers noting it as a key factor.",0.8
+United States,REPORTED_SALES,"800,000 EVs in 2022",doc_35,"sales of EVs in the US have grown – from nearly 65,000 vehicles sold in 2017, to more than 800,000 vehicles in 2022",0.9
+Tesla,MARKET_SHARE,more than 50% of all EV sales,doc_35,"Tesla, which leads the market with more than half of all EV sales",0.95
+General Motors,GOAL,phase out internal combustion engines by 2035,doc_35,General Motors – which two years ago announced a goal of phasing out internal combustion engines by 2035,0.85
+Ford,DELAYED_INVESTMENT,billions of dollars in EV investment,doc_35,executives are delaying billions of dollars in EV investment,0.8
+United States,SUBSIDY,"$7,500 federal subsidy for EV purchase",doc_35,"There's a federal subsidy of $7,500 towards the purchase price",0.9
+Tesla,AVERAGE_PRICE,"over $60,000 in 2022",doc_35,"the average electric car in 2022 cost more than $60,000",0.9
+J.D. Power,SURVEY_RESULT,29.2% of new vehicle shoppers likely to consider EVs,doc_35,the percentage of new vehicle shoppers very likely to consider a full-battery electric vehicle reached an all-time high of 29.2%,0.85
+United States,INCOME,"$70,000 median income for a family of four",doc_35,"The median income for a family of four is somewhere around $70,000",0.9
+Electric Vehicles,BARRIER,affordability and charging infrastructure,doc_35,a few core reasons have slowed the progress of EV adoption for US drivers – barriers that need solutions,0.8
+Electric Vehicle Owners,AVERAGE_INCOME,"$150,000 in 2022",doc_35,"the average Tesla owner had a household income near $150,000 in 2022",0.85
+United States,REPORTED_SALES,1 million,doc_36,the year 2023 also marked the first time annual U.S. EV sales surpassed 1 million,0.95
+California,PARTNERED_WITH,EV Sales,doc_36,California leads the country and EVs were nearly 27% of sales in the state through September 2023,0.9
+Hyundai,REPORTED_SALES,150%-180% increase,doc_36,Q3 sales from 2022 to 2023 increased by about 150%-180% for Hyundai,0.85
+Inflation Reduction Act of 2022,PROVIDES_TAX_CREDITS,"$7,500 for new EVs",doc_36,"new tax credits from the Inflation Reduction Act of 2022 will provide up to $7,500 for new EVs",0.95
+United States,INVESTED_AMOUNT,$21 billion,doc_36,new public and private sector announcements sum up to more than $21 billion in investments,0.9
+EV Market Share,GROWN_AT_RATE,10% by Q3 2023,doc_36,the share of new sales that are plug-in electric increased... and then reached more than 10% in Q3 2023,0.85
+Ford,SCALED_BACK_PRODUCTION,due to slowing demand,doc_36,Ford and General Motors are scaling back near-term production because of slowing demand,0.8
+McKinsey and J.D. Power,CONDUCTED_SURVEY,intent to purchase EVs is increasing,doc_36,the latest consumer survey data by McKinsey and J.D. Power show that intent to purchase EVs is increasing,0.9
+United States,REGULATED_BY,Automotive Trends Report,doc_36,data from the U.S. Environmental Protection Agency’s Automotive Trends Report shows that EV sales shares have grown,0.85
+Tesla,REPORTED_SALES,40%-60% increase,doc_36,Q3 sales from 2022 to 2023 increased by 40%-60% for Tesla,0.85
+Electric Vehicles,SLOW_ADOPTION,Gradual adoption despite technology strides,doc_37,"Despite strides in technology and infrastructure, the adoption of electric vehicles has been more gradual than anticipated.",0.85
+Inflation Reduction Act,IMPACT_ON,EV demand and margins,doc_37,"With tax credits and other provisions, the Inflation Reduction Act is expected to impact EV demand and margins.",0.8
+UAW,NEGOTIATED_WAGE_INCREASE,60% for new hires,doc_37,"UAW labor agreement negotiations, resulting in wages increases upward of 60% for new hires.",0.75
+Auto Loan Rates,AVERAGE_RATE,8% in March 2024,doc_37,The average rate for a 48-month auto loan rose to nearly 8% in March 2024.,0.9
+Auto Industry,EMPLOYS,More than 1 million people,doc_37,More than 1 million people work in the auto sector.,0.85
+Car Chip Shortage,ORIGINATED_FROM,COVID-19 pandemic,doc_37,"The ongoing car chip shortage, which originated during the COVID-19 pandemic.",0.8
+Used Car Prices,DECLINED_FROM,Pandemic peaks,doc_37,While used car prices have declined from their pandemic peaks.,0.75
+Auto Industry,CONTRIBUTES_TO,3% of real GDP growth in the U.S,doc_37,"Vehicle purchases are also a driving force of overall consumer spending, providing about 3% of real GDP growth in the U.S.",0.85
+Interest Rates,EXPECTED_TO_REMAIN_HIGH,Into 2025,doc_37,The elevated interest rate environment is not expected to fade soon with average auto loan rates likely to remain high into 2025.,0.8
+Auto Industry,FACES_CHALLENGES,Inflation and supply chain disruptions,doc_37,"Inflation continues to challenge the auto industry, driving up the costs of materials, and consequently, vehicle prices.",0.75
+Electric Vehicles,NEGATIVELY_IMPACTED_BY,Anti-EV Sentiment,doc_38,The increasing hostility toward battery-powered cars is without question negatively impacting the adoption curve of EVs in the US.,0.9
+Republican Party,OPPOSES,Electric Vehicles,doc_38,"Opposition to EVs, along with the government subsidies and emissions goals designed to encourage their adoption, are becoming a key part of the Republican Party platform.",0.85
+Donald Trump,CRITICIZED,Electric Vehicles,doc_38,Donald Trump has said in the past that EV fans should 'rot in hell.',0.9
+J.D. Vance,CRITICIZED,Electric Vehicles,doc_38,J.D. Vance has also been an outspoken critic of EVs.,0.8
+Gas Prices,INCREASED_BY,46 Percent,doc_38,"In July of this year, the average was $3.52, an increase of 46 percent from January 2021.",0.9
+United States,SOARED_UNDER,Biden Administration,doc_38,U.S. oil production soaring to new heights under the Biden administration.,0.85
+Hyundai Ioniq 6,EPA_RATED_RANGE,361 miles,doc_38,"In Long Range trim, it can do an EPA-rated 361 miles to a charge.",0.9
+Electricity Cost,AVERAGE_PRICE,$0.16 per kWh,doc_38,Americans pay on average about $0.16 per kWh.,0.9
+Gasoline Cost,AVERAGE_PRICE,$3.52 per gallon,doc_38,Gas is now $3.52 per gallon.,0.9
+Electric Vehicles,REDUCE_FUEL_COSTS_BY,Upward of two-thirds,doc_38,"There's a simple way everyone can reduce their fuel costs by upward of two-thirds. That is, of course, to buy an EV.",0.85
+Electric Vehicles,REPORTED_SALES,$388 billion,doc_39,global spending on passenger EVs reaching $388 billion in 2022,0.9
+Electric Vehicles,EXPECTED_MARKET_SHARE,23%,doc_39,EVs are expected to account for 23% of all new car sales worldwide by 2025,0.85
+Kantar,SURVEYED,"4,000 people",doc_39,"Kantar recently surveyed 4,000 people online across four countries",0.9
+United States,ADOPTION_RATE,3%,doc_39,"The US has the lowest adoption of EVs, with only 3% of car owners driving an EV",0.9
+Singapore,ADOPTION_RATE,10%,doc_39,"Singapore has the highest adoption, with 10% of its drivers using EVs",0.9
+Germany,PREFERRED_CAR_TYPE,22% EVs,doc_39,"In Germany, the second most popular option is an EV (22%)",0.8
+UK,PREFERRED_CAR_TYPE,35% Hybrid,doc_39,"Hybrid cars are the preferred option for the next purchase among current car owners in the UK, with 35%",0.85
+EV Owners in Singapore,MOTIVATED_BY,44% Charging Stations,doc_39,citing the availability of charging stations (44%),0.8
+Potential EV Buyers in US,CONCERNED_ABOUT,49% Charging Stations,doc_39,potential buyers in the US are most concerned about the availability of charging stations (49%),0.85
+EV Owners in Germany,MOTIVATED_BY,31% Government Incentives,doc_39,one-third of EV owners in Germany were motivated by government incentives,0.75
+Gen-Z in Singapore,PERCENTAGE_CONSIDERING_EVS,42%,doc_39,42% in Singapore are Gen-Z (aged between 18-25),0.8
+Goldman Sachs,REPORTED_SALES,EV sales slowing globally,doc_40,Sales momentum for electric vehicles (EVs) is slowing globally.,0.9
+Kota Yuzawa,PREDICTS,bear case for EV sales becoming more likely,doc_40,Goldman Sachs Research analyst Kota Yuzawa says the team’s bear case for EV sales is becoming more likely.,0.85
+UK,EXPERIENCED,falling used EV prices,doc_40,"In the UK, for example, EV used car prices have fallen sharply in recent months.",0.8
+China,AIMS_TO,expand domestic EV uptake and export EVs,doc_40,China aims both to expand domestic EV uptake and export EVs to overseas markets.,0.9
+Chinese EV makers,POSES_THREAT_TO,Japanese brands,doc_40,Chinese EV makers do pose a major threat to Japanese brands.,0.85
+HEVs,ADVANTAGE_IN,payback period compared to EVs,doc_40,HEVs have a significant advantage in payback period compared to EVs.,0.8
+Southeast Asia,MAJOR_EXPORT_DESTINATION_FOR,Chinese EVs,doc_40,The Southeast Asia market has been a major export destination for Chinese EVs since 2023.,0.75
+Goldman Sachs,PROVIDED,educational purposes only,doc_40,This article is being provided for educational purposes only.,0.7
+EV sales volume,EXPECTED_TO_RISE,21% year-over-year in 2024,doc_40,"Despite the current slowdown in EVs, our base-case scenario still calls for EV sales volume to rise 21% year-over-year in 2024.",0.8
+Investment opportunities,FOCUSED_ON,automakers with strong balance sheets,doc_40,"At the same time, he sees investment opportunities in automakers with strong balance sheets.",0.75
+SEIA,FOUNDED_IN,1974,doc_41,"Founded in 1974, SEIA is the national trade association for the solar and solar + storage industries.",0.95
+Texas,REPORTED_SALES,$29.5 billion,doc_41,pay Texas landowners $29.5 billion over the projects’...,0.9
+United States,GENERATED_REVENUE,$60 billion,doc_41,"In 2023, the solar industry generated over $60 billion of private investment in the American economy.",0.92
+California,LEADING_MARKET,Largest state solar market,doc_41,"Historically, California been the largest state solar market...",0.88
+Solar+Storage,EXPECTED_GROWTH,28% by 2028,doc_41,"By 2028, 28% of all new distributed solar capacity will be paired with storage...",0.87
+Solar Industry,INSTALLED_CAPACITY,219 GW,doc_41,There are now over 219 gigawatts (GW) of solar capacity installed nationwide...,0.93
+Solar Prices,DECLINED_BY,40%,doc_41,The cost to install solar has dropped by nearly 40% over the last decade...,0.9
+Texas,INSTALLED_CAPACITY,2.4 GW,doc_41,Texas led all states in new installations in Q3 2024 with 2.4 GW of new installed capacity.,0.89
+Solar Industry,ANNUAL_GROWTH_RATE,26%,doc_41,"In the last decade, solar deployments have experienced an average annual growth rate of 26%.",0.91
+United States,MARKET_SHARE,6%,doc_41,Solar’s increasing competitiveness... from just 0.1% in 2010 to over 6% today.,0.94
+China,TOP_EV_MANUFACTURER,TRUE,doc_42,China is currently the world's top EV manufacturer.,0.9
+United States,LOW_EV_MARKET_PENETRATION,China,doc_42,Chinese companies' market penetration in the US remains low compared to other regions.,0.85
+Biden Administration,REGULATED_BY,UFLPA,doc_42,The UFLPA serves as a key tool in the Biden-Harris administration’s efforts to combat alleged forced labor.,0.8
+DHS,ADDED_ENTITIES_TO_LIST,29 China-based companies,doc_42,DHS announced the addition of 29 China-based companies to the Uyghur Forced Labor Prevention Act (UFLPA) Entity List.,0.9
+Biden,MET_WITH,Xi Jinping,doc_42,"Biden and Xi Meet at the APEC Summit in Lima, Peru.",0.85
+United States,EXPANDED_CHIP_EXPORT_CONTROL,140 additions to the Entity List,doc_42,US further expands chip export control with 140 additions to the Entity List.,0.9
+China,ANNOUNCED_RETALIATORY_EXPORT_CONTROLS,"gallium, germanium, and antimony",doc_42,"China announced retaliatory export controls on gallium, germanium, and antimony to the US.",0.85
+Biden Administration,ENGAGED_IN_TRADE_TENSIONS,China,doc_42,The four years witnessed escalating trade tensions culminating in a trade war and sanctions on Chinese technology companies.,0.8
+Biden,ADDRESSING_KEY_ISSUES,US-China relations,doc_42,Biden and Xi engaged in a candid two-hour discussion addressing key issues in US-China relations.,0.85
+United States,IMPOSED_SANCTIONS_ON,Chinese technology companies,doc_42,The four years witnessed escalating trade tensions culminating in a trade war and sanctions on Chinese technology companies.,0.8
+China,PRODUCES,62% of global EVs,doc_43,"In 2022, China accounted for 62 percent of global EV production.",0.95
+China,PRODUCES,75% of the world’s lithium-ion batteries,doc_43,Chinese manufacturers produce 75 percent of the world’s lithium-ion batteries.,0.95
+CATL,ACCOUNTS_FOR,over 50% of global EV battery production,doc_43,China’s two largest EV battery producers—CATL and FDB—alone account for over one-half of global EV battery production.,0.9
+China,SUBSIDIZED_BY,$230 billion,doc_43,China’s lavish expenditure of over $230 billion in subsidies to the sector from 2009 to 2023.,0.9
+Chinese EV manufacturers,INNOVATE_IN,battery chemistry,doc_43,Chinese enterprises have made important breakthroughs in battery chemistry.,0.85
+Chinese EV manufacturers,LEAD_IN,vehicle technology,doc_43,Chinese enterprises are leading in other aspects of vehicle technology.,0.85
+China,HAS_POLICY,EV competitiveness as a national priority,doc_43,The Chinese government has made EV competitiveness a national priority.,0.9
+China,EXPECTED_TO_MANUFACTURE,26.8 million passenger vehicles in 2024,doc_43,"In 2024, they will manufacture a total of 26.8 million—21 percent of global production.",0.9
+China,EXPECTED_TO_REACH,one-third of global production by 2030,doc_43,A share automotive analysts expect will reach one-third by 2030.,0.85
+Chinese EV manufacturers,PRODUCE,10 million EV units in 2024,doc_43,The now more than 200 EV manufacturers operating in China will produce an estimated 10 million EV units in 2024.,0.9
+Biden Administration,ANNOUNCED_MEASURES,EV adoption measures including tax credits and emissions limits,doc_44,"Over the past year, the Biden administration has announced a range of measures aimed at increasing EV adoption, including tax credits for EV buyers and emissions limits for car manufacturers.",0.9
+United States,SHARE_OF_EV_SALES,8.5%,doc_44,"Electric vehicles’ share of all new U.S. car sales rose sharply over the past two years, to 8.5%.",0.85
+Biden Administration,SET_ASIDE_FUNDING,$5 billion for EV charging stations,doc_44,"In September 2022, the Biden administration set aside $5 billion to create a network of EV charging stations.",0.9
+United States,OWN_EV_OR_HYBRID,9%,doc_44,The 9% of U.S. adults who currently own a hybrid or electric vehicle are also particularly likely to consider an EV for their next purchase.,0.8
+Americans,OPPOSE_PHASE_OUT_GAS_VEHICLES,59%,doc_44,About six-in-ten Americans (59%) say they oppose this [phasing out gas-powered vehicles].,0.85
+Democrats,FAVOR_PHASE_OUT_GAS_VEHICLES,64%,doc_44,"Currently, a majority of Democrats (64%) favor phasing out production of gas-powered vehicles by 2035.",0.8
+Republicans,OPPOSE_PHASE_OUT_GAS_VEHICLES,84%,doc_44,"Currently, 84% of Republicans oppose phasing out production of gas-powered vehicles by 2035.",0.8
+Public Confidence,CONFIDENCE_IN_EV_INFRASTRUCTURE,17% extremely or very confident,doc_44,Some 17% say they are extremely or very confident this will happen [building necessary infrastructure for EVs].,0.75
+EV Owners,CHARGE_AT_HOME,Most,doc_44,"Currently, most EV owners charge their vehicles at home.",0.8
+Pew Research Center,CONDUCTED_SURVEY,"10,329 U.S. adults",doc_44,"Pew Research Center conducted this study to understand Americans’ views on electric vehicles. We surveyed 10,329 U.S. adults from May 30 to June 4, 2023.",0.9
+Robert Heppenstall,WORKED_AT,American Airlines,doc_45,"I am a versatile leader with over 15 years of experience spanning loyalty program design,… · Experience: American Airlines",0.9
+Robert Heppenstall,EDUCATED_AT,The University of Texas,doc_45,Education: The University of Texas,0.8
+Delta Air Lines,PARTNERED_WITH,Customer Experience Design,doc_45,Customer Experience Design at Delta Air Lines,0.7
+Airline Industry,REGULATED_BY,Federal Aviation Administration,doc_45,The airline industry's perception is pretty bad.,0.6
+Airlines,REPORTED_SALES,Personalized Marketing,doc_45,Airlines Looking to Use Personalized Marketing in Seatbacks and In-Flight Apps.,0.7
+Airline Industry,HAS_PERCEPTION,Negative,doc_45,The perception of your business or industry directly affects your advertising costs and effectiveness.,0.8
+Robert Heppenstall,RECOMMENDED_BY,4 people,doc_45,4 people have recommended Robert,0.9
+Rob,DESCRIBED_AS,Incredible leader,doc_45,"Rob is a great strategist, thinker, doer and leader.",0.85
+United States,PUBLISHED,Total Energy Monthly Data,doc_46,A publication of recent and historical U.S. energy statistics.,0.9
+Electric Vehicles,USED_IN,Transportation Sector,doc_46,Electricity end use and electric vehicle use.,0.85
+EIA,PROVIDES,Open Data,doc_46,"EIA's free and open data available as API, Excel add-in, bulk files, and widgets.",0.9
+EIA,REGULATED_BY,Congress,doc_46,Reports requested by congress or otherwise deemed important.,0.8
+Energy Consumption,INCLUDES,Electric Power Sector,doc_46,"Energy use in homes, commercial buildings, manufacturing, and transportation.",0.75
+Renewable Energy,INCLUDES,"Hydropower, Solar, Wind, Geothermal, Biomass, Ethanol",doc_46,"Includes hydropower, solar, wind, geothermal, biomass and ethanol.",0.85
+EIA,OFFERS,Financial Market Analysis,doc_46,Financial market analysis and financial data for major energy companies.,0.8
+Greenhouse Gas Data,REPORTED_BY,EIA,doc_46,"Greenhouse gas data, voluntary reporting, electric power plant emissions.",0.75
+Energy Prices,INCLUDES,"Petroleum, Natural Gas, Coal, Electricity, Nuclear Energy",doc_46,"This publication includes total energy production, consumption, stocks, and trade; energy prices; overviews of petroleum, natural gas, coal, electricity, nuclear energy, and renewable energy.",0.8
+EIA,PROVIDES,Tools for Data Customization,doc_46,"Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.",0.85
+As Market Uncertainty,RELATED_TO,United States,doc_47,U.S. Automobile Dealer Sentiment Index: As Market Uncertainty ...,0.65
+ATLANTA,RELATED_TO,Cox Automotive,doc_47,"ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer ...",0.65
+ATLANTA,RELATED_TO,Cox Automotive Dealer,doc_47,"ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer ...",0.65
+Cox Automotive,RELATED_TO,Cox Automotive Dealer,doc_47,"ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer ...",0.65
+ATLANTA,RELATED_TO,CADSI,doc_47,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+ATLANTA,RELATED_TO,Cox Automotive,doc_47,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+ATLANTA,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_47,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+CADSI,RELATED_TO,Cox Automotive,doc_47,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+CADSI,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_47,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+Cox Automotive,RELATED_TO,Cox Automotive Dealer Sentiment Index,doc_47,"Monday June 10, 2024 ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer Sentiment Index (CADSI) remained stable from Q1 to Q2 2024 despite dealer uncertainty in the market and economy.",0.65
+The Q2,RELATED_TO,United States,doc_47,The Q2 current market index score of 42 indicates most U.S. auto dealers see the market as weak.,0.65
+Cox Automotive,RELATED_TO,Cox Automotive Chief Economist Jonathan,doc_47,"Cox Automotive Chief Economist Jonathan Smoke noted, “There is a lot of uncertainty in this market, leaving consumers and dealers alike unsure of the road ahead.",0.65
+CADSI,GREW_OR_INCREASED,Q2. The,doc_47,"In the auto business, uncertainty is the enemy – it negatively impacts sales, hurts consumer sentiment, and leaves auto dealers feeling troubled.” Despite the market’s perceived weakness, the CADSI showed some promising signs in Q2. The profit index, for example, increased for the first time since Q3 2021.",0.65
+Interest Rates,RELATED_TO,Market Conditions,doc_47,"When asked about factors holding back their business, auto dealers in Q2 focused on Interest Rates, the Economy, and Market Conditions, respectively, with minimal change from Q1 and one year ago.",0.65
+Political Climate,GREW_OR_INCREASED,United States,doc_47,"However, as the U.S. presidential election in November approaches, Political Climate continues to increase as a factor impacting business.",0.65
+Interest Rates,GREW_OR_INCREASED,Political Climate,doc_47,"In fact, while concerns about Interest Rates have come down slightly quarter over quarter, concerns over the Political Climate have increased.",0.65
+Market Conditions,GREW_OR_INCREASED,Political Climate,doc_47,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Market Conditions,GREW_OR_INCREASED,Q2. Smoke,doc_47,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Market Conditions,GREW_OR_INCREASED,The Economy,doc_47,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Political Climate,GREW_OR_INCREASED,Q2. Smoke,doc_47,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Political Climate,GREW_OR_INCREASED,The Economy,doc_47,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Q2. Smoke,GREW_OR_INCREASED,The Economy,doc_47,"The Economy and Market Conditions also slightly increased quarter over quarter in Q2. Smoke commented, “In many ways, the Political Climate is a surrogate for ‘uncertainty.’ Many dealers and consumers believe the election outcome will impact the economy and the auto market in some way – either good or bad – and that expectation of change is causing paralysis in the market and hurting sentiment.” More than independents, franchised dealers feel that Political Climate is holding back business, at 41%, and it is now ranked No.",0.65
+Cox Automotive,RELATED_TO_SALES,Cox Automotive Dealer Sentiment Index,doc_47,"Cox Automotive Dealer Sentiment Index MethodologyDerived from a quarterly survey that Cox Automotive issues to a representative sample of franchised and independent auto dealers from around the country, the Dealer Sentiment Index measures dealer perceptions of current retail auto sales and sales expectations for the next three months as “strong,” “average,” or “weak.” The survey also asks dealers to rate new-car sales and used-car sales separately, along with various key drivers, including consumer traffic.",0.65
+Cox Automotive,RELATED_TO_SALES,Dealer Sentiment Index,doc_47,"Cox Automotive Dealer Sentiment Index MethodologyDerived from a quarterly survey that Cox Automotive issues to a representative sample of franchised and independent auto dealers from around the country, the Dealer Sentiment Index measures dealer perceptions of current retail auto sales and sales expectations for the next three months as “strong,” “average,” or “weak.” The survey also asks dealers to rate new-car sales and used-car sales separately, along with various key drivers, including consumer traffic.",0.65
+Cox Automotive Dealer Sentiment Index,RELATED_TO_SALES,Dealer Sentiment Index,doc_47,"Cox Automotive Dealer Sentiment Index MethodologyDerived from a quarterly survey that Cox Automotive issues to a representative sample of franchised and independent auto dealers from around the country, the Dealer Sentiment Index measures dealer perceptions of current retail auto sales and sales expectations for the next three months as “strong,” “average,” or “weak.” The survey also asks dealers to rate new-car sales and used-car sales separately, along with various key drivers, including consumer traffic.",0.65
+CADSI,RELATED_TO,The Q2,doc_47,"The Q2 2024 CADSI is based on 1,026 U.S. auto dealer respondents, comprising 550 franchised dealers and 476 independents.",0.65
+CADSI,RELATED_TO,United States,doc_47,"The Q2 2024 CADSI is based on 1,026 U.S. auto dealer respondents, comprising 550 franchised dealers and 476 independents.",0.65
+The Q2,RELATED_TO,United States,doc_47,"The Q2 2024 CADSI is based on 1,026 U.S. auto dealer respondents, comprising 550 franchised dealers and 476 independents.",0.65
+About Cox AutomotiveCox Automotive,RELATED_TO,Cox Automotive,doc_47,About Cox AutomotiveCox Automotive is the world’s largest automotive services and technology provider.,0.65
+About Cox AutomotiveCox Automotive,RELATED_TO,Iveco,doc_47,About Cox AutomotiveCox Automotive is the world’s largest automotive services and technology provider.,0.65
+Cox Automotive,RELATED_TO,Iveco,doc_47,About Cox AutomotiveCox Automotive is the world’s largest automotive services and technology provider.,0.65
+FleetNet America,RELATED_TO,Kelley Blue Book,doc_47,"The company has 29,000+ employees on five continents and a portfolio of industry-leading brands that include Autotrader®, Kelley Blue Book®, Manheim®, vAuto®, Dealertrack®, NextGear Capital™, CentralDispatch® and FleetNet America®.",0.65
+FleetNet America,RELATED_TO,NextGear Capital,doc_47,"The company has 29,000+ employees on five continents and a portfolio of industry-leading brands that include Autotrader®, Kelley Blue Book®, Manheim®, vAuto®, Dealertrack®, NextGear Capital™, CentralDispatch® and FleetNet America®.",0.65
+Kelley Blue Book,RELATED_TO,NextGear Capital,doc_47,"The company has 29,000+ employees on five continents and a portfolio of industry-leading brands that include Autotrader®, Kelley Blue Book®, Manheim®, vAuto®, Dealertrack®, NextGear Capital™, CentralDispatch® and FleetNet America®.",0.65
+Cox Automotive,RELATED_TO,Cox Enterprises Inc,doc_47,"Cox Automotive is a subsidiary of Cox Enterprises Inc., a privately owned, Atlanta-based company with $22 billion in annual revenue.",0.65
+Dara Hailes,RELATED_TO,Mark Schirmer,doc_47,Media Contacts: Mark Schirmer 734 883 6346mark.schirmer@coxautoinc.com Dara Hailes 470 658 0656 dara.hailes@coxautoinc.com Don’t miss out!,0.65
+Dara Hailes,RELATED_TO,Media Contacts,doc_47,Media Contacts: Mark Schirmer 734 883 6346mark.schirmer@coxautoinc.com Dara Hailes 470 658 0656 dara.hailes@coxautoinc.com Don’t miss out!,0.65
+Mark Schirmer,RELATED_TO,Media Contacts,doc_47,Media Contacts: Mark Schirmer 734 883 6346mark.schirmer@coxautoinc.com Dara Hailes 470 658 0656 dara.hailes@coxautoinc.com Don’t miss out!,0.65
+U.S. Automobile Dealer Sentiment Index: As Market Uncertainty ...,MATCHES_SEARCH_QUERY,Region-specific sentiment analysis of US electric vehicle industry,doc_47,"Jun 10, 2024 ... However, one significant indicator of progress is the effectiveness of EV tax credits. ATLANTA, June 10, 2024 – The latest Cox Automotive Dealer ...",0.8
+United States,FUNDED_BY,2021 Infrastructure Investment and Jobs Act,doc_48,The 2021 Infrastructure Investment and Jobs Act — which funds $7.5 billion in EV charging infrastructure.,0.9
+Inflation Reduction Act,PROVIDES_TAX_CREDITS_FOR,Electric passenger vehicles,doc_48,The Inflation Reduction Act provided tax credits for both new and used electric passenger vehicles.,0.85
+California,BAN_ON,Sale of new internal combustion engine-powered vehicles,doc_48,California announced it will ban the sale of new internal combustion engine-powered vehicles by 2035.,0.9
+United States,FORECASTED_TO_REACH,27 million by 2030,doc_48,We forecast that the number of EVs in the US will climb a steep hockey-stick trajectory to 27 million by 2030.,0.9
+Charge Points in the US,FORECASTED_TO_RISE_TO,35 million by 2030,doc_48,The number of charge points in the US is forecast to rise from about 4 million currently to 35 million in 2030.,0.85
+CPOs,ESTIMATED_TO_ACCOUNT_FOR,65% of market value by 2040,doc_48,CPOs are estimated to account for the bulk of the market’s value from roughly half currently to 65% in 2040.,0.8
+Residential Chargers,FORECASTED_TO_BE_SOLD_BY,EV sellers by 2030,doc_48,"By 2030, 70% of residential chargers will be sold by EV sellers.",0.8
+EV Charging Market,EXPECTED_TO_GROW,Tenfold by 2030,doc_48,The EV charging market could — and will need to — grow nearly tenfold to satisfy the charging needs of an estimated 27 million EVs on the road by 2030.,0.85
+At-work Charging Segment,EXPECTED_TO_GROW_TO,17% of the market by 2030,doc_48,"The fastest-growing charging segment is expected to be the at-work segment, set to grow from nearly zero percent to about 17% by 2030.",0.75
+EVSE Startups,SIGNALING,Rapid maturation of the industry,doc_48,The proliferation of EVSE startups and the growth of the sector is signaling that we’re entering a period of a rapid maturation of the industry.,0.8
+United Kingdom,REGULATED_BY,European Union,doc_49,"Brexit, which concluded on January 31, 2020, marked the end of the UK’s longstanding 47-year alliance with the European Union.",0.9
+COVID-19,IMPACTED,UK Economy,doc_49,"The convergence of Brexit and COVID-19 has raised concerns among experts, who predict substantial economic consequences for the UK.",0.85
+UK,EXPERIENCED_UNEMPLOYMENT_RATE,Spike in 2021,doc_49,The unemployment rate displayed a downward trend until 2020 but experienced a spike in 2021.,0.8
+Trade,SUFFERED_DECLINE,Post-Brexit and COVID-19,doc_49,"Notably, trade experienced the most significant decline following both Brexit and the COVID-19 pandemic.",0.9
+Wales,AFFECTED_BY,Brexit and COVID-19,doc_49,Wales and Northern Ireland emerged as the regions most affected by Brexit and COVID-19.,0.85
+Finance Industry,CONTRIBUTED_TO,UK GDP,doc_49,"Industries such as finance, science, and health demonstrated an increased contribution to the UK’s total GDP in the post-Brexit period.",0.8
+UK Government,RECEIVED_INSIGHTS_FROM,Economic Research,doc_49,The findings of this research carry significant value for the UK government and businesses.,0.75
+British Pound,ANTICIPATED_DEPRECIATION,Near Future,doc_49,"The British currency, the pound, is anticipated to face significant depreciation in the near future.",0.8
+UK Economy,EXPERIENCED_INFLATION,Shortages and Bottlenecks,doc_49,"Economic demand rebounded at a faster pace than supply, leading to shortages, bottlenecks, and inflation.",0.75
+EU,REGULATED_BY,Inflation Reduction Act,doc_50,EU-US relations after the Inflation Reduction Act,0.8
+Americans,EMPLOYED_IN,auto parts and repairing cars,doc_50,Far more Americans are employed making auto parts and repairing cars than in assembling vehicles.,0.9
+auto industry,TRANSITION_TO,electric vehicles,doc_50,The needed transition from an auto industry based on gas...,0.85
+EU,PARTNERED_WITH,United States,doc_50,EU-US relations after the Inflation Reduction Act,0.75
+auto parts,MARKET_SIZE,increased employment,doc_50,Far more Americans are employed making auto parts...,0.7
+Inflation Reduction Act,IMPACT_ON,auto industry,doc_50,"EU-US relations after the Inflation Reduction Act, and the challenges...",0.65
+electric vehicles,REPLACED_BY,gas vehicles,doc_50,The needed transition from an auto industry based on gas...,0.8
+United States,SUPPORTS,electric vehicle transition,doc_50,"EU-US relations after the Inflation Reduction Act, and the challenges...",0.7
+China,REGULATED_BY,Chinese policymakers,doc_51,Chinese policymakers do not seem intent on generating strong growth.,0.8
+Japan,PARTNERED_WITH,corporate governance reforms,doc_51,"Japan’s corporate governance reforms, leading to record-high buyback announcements.",0.85
+India,EXPECTED_GROWTH,strong earnings momentum,doc_51,India is expected to maintain strong earnings momentum due to falling rates and robust services export growth.,0.9
+Mexico,REGULATED_BY,United States,doc_51,The U.S. may intensify efforts to limit the passage of Chinese products through Mexico.,0.75
+Taiwan,BENEFITS_FROM,AI infrastructure build-out,doc_51,"Taiwanese companies, as key beneficiaries of the AI infrastructure build-out.",0.8
+United States,IMPACT_ON,global economy,doc_51,"The impact of tariffs on the already fragile global economy will hinge on the timing, scope and execution by the incoming U.S. administration.",0.85
+European Central Bank,SUPPORTS,businesses relying on bank lending,doc_51,"Additional European Central Bank (ECB) easing should eventually provide some support, especially for businesses that rely more on bank lending.",0.8
+Electric Vehicle Supply Chain,LINKED_TO,renewable energy,doc_51,"Pockets of opportunities do exist, particularly among private companies prioritizing shareholder returns and belonging to innovative sectors linked to business technology or the renewable energy and electric vehicle supply chain.",0.75
+United States,TARIFFS_IMPACT,trade partners,doc_51,"A universal tariff could have significant repercussions for major U.S. trade partners with which it has trade deficits, including Mexico, Europe, Canada and Vietnam.",0.8
+China,FISCAL_POLICY,accommodative,doc_51,Policy will likely remain accommodative until economic momentum stabilizes.,0.7
+Bitcoin ETPs,REPORTED_SALES,First-year market demand,doc_52,"Discover the first-year market demand and investor trends of bitcoin ETPs, and what the future may hold.",0.9
+United States,PARTNERED_WITH,Global equities,doc_52,"Explore key investment directions for 2025 and make informed decisions with our analysis on U.S. growth, global equities, and strategic risk management.",0.85
+Fed outlook 2025,REGULATED_BY,Monetary policies,doc_52,Explore the Fed outlook for 2025. Gain insights into expected monetary policies and market projections to help guide your investments.,0.88
+AI and geopolitics,FORGE_NEW_PATHS,Investment opportunities,doc_52,"Dive into thematic ETFs and learn how AI, geopolitics, and recent rate cuts are reshaping investment opportunities.",0.87
+Gold and oil,EFFECTIVE_HEDGING_TOOLS,Investors,doc_52,Discover gold and oil’s potential as hedging tools amid market volatility and geopolitical uncertainty.,0.82
+BlackRock Flexible Income ETF (BINC,ENHANCES_PORTFOLIO_PERFORMANCE,Active ETFs,doc_52,"Discover the potential benefits of the BlackRock Flexible Income ETF (BINC), and how it seeks to manage risks and capitalize on market opportunities.",0.9
+United States,POISED_FOR_RENAISSANCE,Growth and innovation,doc_52,"Discover how U.S. manufacturing could be poised for a renaissance, driven by a reshaping of supply chains and changing political and economic priorities.",0.85
+Bitcoin volatility,TRENDS_INSIGHTS,Long-term investing,doc_52,"Explore the journey of bitcoin's volatility, from turbulent beginnings to a promising decline. Learn how these trends affect long-term investing.",0.8
+Neuroscience and AI,FINDING_INVESTMENT_OPPORTUNITIES,Healthcare sector,doc_52,We analyze the ways in which innovation and digitization come together to brighten the outlook for the healthcare sector.,0.84
+Energy Sector Stocks,INVESTS_IN,Is Now,doc_53,Energy Sector Stocks: Is Now the Time to Invest?,0.65
+Rob Haworth,GREW_OR_INCREASED,S&P,doc_53,"Energy stocks significantly lagged the broader S&P 500, which gained 25% in 2024.1 On the strength of standout performance prior to 2023, the energy sector is up more than 20% per year for the three-year period ending December 2024, and 12.14% per year over the previous five years.1 “As 2024 came to a close, markets responded to the environment for energy prices,” says Rob Haworth, senior investment strategy director with U.S. Bank Asset Management.",0.65
+Rob Haworth,GREW_OR_INCREASED,United States,doc_53,"Energy stocks significantly lagged the broader S&P 500, which gained 25% in 2024.1 On the strength of standout performance prior to 2023, the energy sector is up more than 20% per year for the three-year period ending December 2024, and 12.14% per year over the previous five years.1 “As 2024 came to a close, markets responded to the environment for energy prices,” says Rob Haworth, senior investment strategy director with U.S. Bank Asset Management.",0.65
+S&P,GREW_OR_INCREASED,United States,doc_53,"Energy stocks significantly lagged the broader S&P 500, which gained 25% in 2024.1 On the strength of standout performance prior to 2023, the energy sector is up more than 20% per year for the three-year period ending December 2024, and 12.14% per year over the previous five years.1 “As 2024 came to a close, markets responded to the environment for energy prices,” says Rob Haworth, senior investment strategy director with U.S. Bank Asset Management.",0.65
+OPEC,GREW_OR_INCREASED,Oil Petroleum Exporting Countries,doc_53,"“In part, it reflects concern that Oil Petroleum Exporting Countries+ (OPEC+) may soon boost production, which would add to an already solid supply situation.” Haworth notes that energy demand remains an issue.",0.65
+China,RELATED_TO,Europe,doc_53,"“Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges.",0.65
+China,RELATED_TO,United States,doc_53,"“Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges.",0.65
+Europe,RELATED_TO,United States,doc_53,"“Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges.",0.65
+Change Year-to-Date Crude Oil,GREW_OR_INCREASED,End Price Recent Price,doc_53,"Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2 Category 2022 Peak Price 2023 End Price Recent Price % Change from Peak % Change Year-to-Date Crude Oil (barrel) $123.64 $71.89 $72.44 -41.4% 0.8% Gasoline (gallon) $5.01 $3.12 $3.00 -40.0% -3.7% Natural Gas (mil.",0.65
+Change Year-to-Date Crude Oil,GREW_OR_INCREASED,Natural Gas,doc_53,"Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2 Category 2022 Peak Price 2023 End Price Recent Price % Change from Peak % Change Year-to-Date Crude Oil (barrel) $123.64 $71.89 $72.44 -41.4% 0.8% Gasoline (gallon) $5.01 $3.12 $3.00 -40.0% -3.7% Natural Gas (mil.",0.65
+Change Year-to-Date Crude Oil,GREW_OR_INCREASED,Peak Price,doc_53,"Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2 Category 2022 Peak Price 2023 End Price Recent Price % Change from Peak % Change Year-to-Date Crude Oil (barrel) $123.64 $71.89 $72.44 -41.4% 0.8% Gasoline (gallon) $5.01 $3.12 $3.00 -40.0% -3.7% Natural Gas (mil.",0.65
+End Price Recent Price,GREW_OR_INCREASED,Natural Gas,doc_53,"Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2 Category 2022 Peak Price 2023 End Price Recent Price % Change from Peak % Change Year-to-Date Crude Oil (barrel) $123.64 $71.89 $72.44 -41.4% 0.8% Gasoline (gallon) $5.01 $3.12 $3.00 -40.0% -3.7% Natural Gas (mil.",0.65
+End Price Recent Price,GREW_OR_INCREASED,Peak Price,doc_53,"Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2 Category 2022 Peak Price 2023 End Price Recent Price % Change from Peak % Change Year-to-Date Crude Oil (barrel) $123.64 $71.89 $72.44 -41.4% 0.8% Gasoline (gallon) $5.01 $3.12 $3.00 -40.0% -3.7% Natural Gas (mil.",0.65
+Natural Gas,GREW_OR_INCREASED,Peak Price,doc_53,"Oil prices moved above $80/barrel by mid-March 2024, then held between $70 and $80/barrel for much of 2024’s summer months but have hovered in the $70/barrel range since September.2 Natural gas prices rose more than 30% in 2024, but prices for all key energy products remain significantly below 2022 peaks.2 Category 2022 Peak Price 2023 End Price Recent Price % Change from Peak % Change Year-to-Date Crude Oil (barrel) $123.64 $71.89 $72.44 -41.4% 0.8% Gasoline (gallon) $5.01 $3.12 $3.00 -40.0% -3.7% Natural Gas (mil.",0.65
+Category Crude Oil,RELATED_TO,Category Gasoline,doc_53,Btu) $9.48 $2.53 $3.40 -65.5% 34.4% Heating Oil (gallon) $5.15 $2.44 $2.10 -58.5% -12.3 % Category Crude Oil (barrel) 2022 Peak Price $123.64 2023 End Price $71.89 Recent Price $72.44 % Change from Peak -41.4% % Change Year-to-Date 0.8% Category Gasoline (gallon) 2022 Peak Price $5.01 2023 End Price $3.12 Recent Price $3.00 % Change from Peak -40.0% % Change Year-to-Date -3.7% Category Natural Gas (mil.,0.65
+Category Crude Oil,RELATED_TO,Category Natural Gas,doc_53,Btu) $9.48 $2.53 $3.40 -65.5% 34.4% Heating Oil (gallon) $5.15 $2.44 $2.10 -58.5% -12.3 % Category Crude Oil (barrel) 2022 Peak Price $123.64 2023 End Price $71.89 Recent Price $72.44 % Change from Peak -41.4% % Change Year-to-Date 0.8% Category Gasoline (gallon) 2022 Peak Price $5.01 2023 End Price $3.12 Recent Price $3.00 % Change from Peak -40.0% % Change Year-to-Date -3.7% Category Natural Gas (mil.,0.65
+Category Crude Oil,RELATED_TO,Change Year-to-Date,doc_53,Btu) $9.48 $2.53 $3.40 -65.5% 34.4% Heating Oil (gallon) $5.15 $2.44 $2.10 -58.5% -12.3 % Category Crude Oil (barrel) 2022 Peak Price $123.64 2023 End Price $71.89 Recent Price $72.44 % Change from Peak -41.4% % Change Year-to-Date 0.8% Category Gasoline (gallon) 2022 Peak Price $5.01 2023 End Price $3.12 Recent Price $3.00 % Change from Peak -40.0% % Change Year-to-Date -3.7% Category Natural Gas (mil.,0.65
+Category Gasoline,RELATED_TO,Category Natural Gas,doc_53,Btu) $9.48 $2.53 $3.40 -65.5% 34.4% Heating Oil (gallon) $5.15 $2.44 $2.10 -58.5% -12.3 % Category Crude Oil (barrel) 2022 Peak Price $123.64 2023 End Price $71.89 Recent Price $72.44 % Change from Peak -41.4% % Change Year-to-Date 0.8% Category Gasoline (gallon) 2022 Peak Price $5.01 2023 End Price $3.12 Recent Price $3.00 % Change from Peak -40.0% % Change Year-to-Date -3.7% Category Natural Gas (mil.,0.65
+Category Gasoline,RELATED_TO,Change Year-to-Date,doc_53,Btu) $9.48 $2.53 $3.40 -65.5% 34.4% Heating Oil (gallon) $5.15 $2.44 $2.10 -58.5% -12.3 % Category Crude Oil (barrel) 2022 Peak Price $123.64 2023 End Price $71.89 Recent Price $72.44 % Change from Peak -41.4% % Change Year-to-Date 0.8% Category Gasoline (gallon) 2022 Peak Price $5.01 2023 End Price $3.12 Recent Price $3.00 % Change from Peak -40.0% % Change Year-to-Date -3.7% Category Natural Gas (mil.,0.65
+Category Natural Gas,RELATED_TO,Change Year-to-Date,doc_53,Btu) $9.48 $2.53 $3.40 -65.5% 34.4% Heating Oil (gallon) $5.15 $2.44 $2.10 -58.5% -12.3 % Category Crude Oil (barrel) 2022 Peak Price $123.64 2023 End Price $71.89 Recent Price $72.44 % Change from Peak -41.4% % Change Year-to-Date 0.8% Category Gasoline (gallon) 2022 Peak Price $5.01 2023 End Price $3.12 Recent Price $3.00 % Change from Peak -40.0% % Change Year-to-Date -3.7% Category Natural Gas (mil.,0.65
+Category Heating Oil,RELATED_TO,Change Year-to-Date,doc_53,Btu) 2022 Peak Price $9.48 2023 End Price $2.53 Recent Price $3.40 % Change from Peak -65.5% % Change Year-to-Date 34.4% Category Heating Oil (gallon) 2022 Peak Price $5.15 2023 End Price $2.44 Recent Price $2.10 % Change from Peak -58.5% % Change Year-to-Date -12.3 % All prices published by U.S. Energy Information Administration.,0.65
+Category Heating Oil,RELATED_TO,End Price,doc_53,Btu) 2022 Peak Price $9.48 2023 End Price $2.53 Recent Price $3.40 % Change from Peak -65.5% % Change Year-to-Date 34.4% Category Heating Oil (gallon) 2022 Peak Price $5.15 2023 End Price $2.44 Recent Price $2.10 % Change from Peak -58.5% % Change Year-to-Date -12.3 % All prices published by U.S. Energy Information Administration.,0.65
+Category Heating Oil,RELATED_TO,Peak Price,doc_53,Btu) 2022 Peak Price $9.48 2023 End Price $2.53 Recent Price $3.40 % Change from Peak -65.5% % Change Year-to-Date 34.4% Category Heating Oil (gallon) 2022 Peak Price $5.15 2023 End Price $2.44 Recent Price $2.10 % Change from Peak -58.5% % Change Year-to-Date -12.3 % All prices published by U.S. Energy Information Administration.,0.65
+Change Year-to-Date,RELATED_TO,End Price,doc_53,Btu) 2022 Peak Price $9.48 2023 End Price $2.53 Recent Price $3.40 % Change from Peak -65.5% % Change Year-to-Date 34.4% Category Heating Oil (gallon) 2022 Peak Price $5.15 2023 End Price $2.44 Recent Price $2.10 % Change from Peak -58.5% % Change Year-to-Date -12.3 % All prices published by U.S. Energy Information Administration.,0.65
+Change Year-to-Date,RELATED_TO,Peak Price,doc_53,Btu) 2022 Peak Price $9.48 2023 End Price $2.53 Recent Price $3.40 % Change from Peak -65.5% % Change Year-to-Date 34.4% Category Heating Oil (gallon) 2022 Peak Price $5.15 2023 End Price $2.44 Recent Price $2.10 % Change from Peak -58.5% % Change Year-to-Date -12.3 % All prices published by U.S. Energy Information Administration.,0.65
+End Price,RELATED_TO,Peak Price,doc_53,Btu) 2022 Peak Price $9.48 2023 End Price $2.53 Recent Price $3.40 % Change from Peak -65.5% % Change Year-to-Date 34.4% Category Heating Oil (gallon) 2022 Peak Price $5.15 2023 End Price $2.44 Recent Price $2.10 % Change from Peak -58.5% % Change Year-to-Date -12.3 % All prices published by U.S. Energy Information Administration.,0.65
+Crude Oil,RELATED_TO,WTI,doc_53,"Crude Oil price per barrel: West Texas Intermediate (WTI) – Cushing, Oklahoma as of Dec.",0.65
+Crude Oil,RELATED_TO,West Texas Intermediate,doc_53,"Crude Oil price per barrel: West Texas Intermediate (WTI) – Cushing, Oklahoma as of Dec.",0.65
+WTI,RELATED_TO,West Texas Intermediate,doc_53,"Crude Oil price per barrel: West Texas Intermediate (WTI) – Cushing, Oklahoma as of Dec.",0.65
+BTU,RELATED_TO,Henry Hub Natural Gas Spot,doc_53,Natural Gas price per million BTU: Henry Hub Natural Gas Spot Price as of Dec.,0.65
+BTU,RELATED_TO,Natural Gas,doc_53,Natural Gas price per million BTU: Henry Hub Natural Gas Spot Price as of Dec.,0.65
+Henry Hub Natural Gas Spot,RELATED_TO,Natural Gas,doc_53,Natural Gas price per million BTU: Henry Hub Natural Gas Spot Price as of Dec.,0.65
+Heating Oil Prices,RELATED_TO,New York Harbor,doc_53,2 Heating Oil Prices: New York Harbor as of Dec.,0.65
+Rob Haworth,GREW_OR_INCREASED,S&P,doc_53,"Natural gas companies make up roughly one-third of the S&P 500 Energy index.1 “The oil market is one that remains well supplied but isn’t well demanded,” says Rob Haworth, senior investment strategy director for U.S. Bank Asset Management.",0.65
+Rob Haworth,GREW_OR_INCREASED,United States,doc_53,"Natural gas companies make up roughly one-third of the S&P 500 Energy index.1 “The oil market is one that remains well supplied but isn’t well demanded,” says Rob Haworth, senior investment strategy director for U.S. Bank Asset Management.",0.65
+S&P,GREW_OR_INCREASED,United States,doc_53,"Natural gas companies make up roughly one-third of the S&P 500 Energy index.1 “The oil market is one that remains well supplied but isn’t well demanded,” says Rob Haworth, senior investment strategy director for U.S. Bank Asset Management.",0.65
+China,RELATED_TO,Europe,doc_53,"“Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges.",0.65
+China,RELATED_TO,United States,doc_53,"“Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges.",0.65
+Europe,RELATED_TO,United States,doc_53,"“Although the U.S. economy is strong, other major oil users like China and Europe are experiencing economic challenges.",0.65
+OPEC,GREW_OR_INCREASED,The U.S,doc_53,"As a result, global demand is lagging.” The U.S. is now the world’s largest oil producer, with current production reaching record levels.3 Supply interruptions occurred worldwide as OPEC+ trimmed production levels to boost oil prices.",0.65
+OPEC,GREW_OR_INCREASED,United States,doc_53,"As a result, global demand is lagging.” The U.S. is now the world’s largest oil producer, with current production reaching record levels.3 Supply interruptions occurred worldwide as OPEC+ trimmed production levels to boost oil prices.",0.65
+The U.S,GREW_OR_INCREASED,United States,doc_53,"As a result, global demand is lagging.” The U.S. is now the world’s largest oil producer, with current production reaching record levels.3 Supply interruptions occurred worldwide as OPEC+ trimmed production levels to boost oil prices.",0.65
+Increased U.S,GREW_OR_INCREASED,United States,doc_53,Increased U.S. oil production helped overcome supply shortfalls.,0.65
+The U.S,GREW_OR_INCREASED,United States,doc_53,"The U.S. is now a net oil exporter.4 Nevertheless, oil consumption worldwide is still on the rise, though the pace of growth has slowed.5 Despite the potential push for increased oil production, it isn’t clear how quickly that might occur.",0.65
+CARB,RELATED_TO,S&P,doc_53,"“From an earnings (profit) perspective, energy stocks play a more prominent role in today's S&P 500 than their index weighting would indicate.” Renewable energy sources such as wind and solar are part of the energy picture today as efforts are made to reduce fossil fuels’ carbon footprint.",0.65
+Energy Index,GREW_OR_INCREASED,S&P,doc_53,"But renewables make up less than 25% of U.S. electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Haworth.",0.65
+Energy Index,GREW_OR_INCREASED,United States,doc_53,"But renewables make up less than 25% of U.S. electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Haworth.",0.65
+S&P,GREW_OR_INCREASED,United States,doc_53,"But renewables make up less than 25% of U.S. electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Haworth.",0.65
+ETF,INVESTS_IN,Index.1 Choosing,doc_53,"Investors gain modest exposure to the energy sector through investments in an S&P 500 index fund or ETF, though the energy sector today represents 3.2% of the S&P 500 Index.1 Choosing to invest in specific energy stocks or an energy sector fund or ETF offers potential to more directly capitalize on this sector.",0.65
+ETF,INVESTS_IN,S&P,doc_53,"Investors gain modest exposure to the energy sector through investments in an S&P 500 index fund or ETF, though the energy sector today represents 3.2% of the S&P 500 Index.1 Choosing to invest in specific energy stocks or an energy sector fund or ETF offers potential to more directly capitalize on this sector.",0.65
+Index.1 Choosing,INVESTS_IN,S&P,doc_53,"Investors gain modest exposure to the energy sector through investments in an S&P 500 index fund or ETF, though the energy sector today represents 3.2% of the S&P 500 Index.1 Choosing to invest in specific energy stocks or an energy sector fund or ETF offers potential to more directly capitalize on this sector.",0.65
+Rob Haworth,GREW_OR_INCREASED,United States,doc_53,"Rob Haworth, senior investment strategy director at U.S. Bank Asset Management says bottom line results for companies can hold up even if oil prices don’t.",0.65
+Energy Index,GREW_OR_INCREASED,Rob Haworth,doc_53,"In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management.",0.65
+Energy Index,GREW_OR_INCREASED,S&P,doc_53,"In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management.",0.65
+Energy Index,GREW_OR_INCREASED,United States,doc_53,"In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management.",0.65
+Rob Haworth,GREW_OR_INCREASED,S&P,doc_53,"In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management.",0.65
+Rob Haworth,GREW_OR_INCREASED,United States,doc_53,"In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management.",0.65
+S&P,GREW_OR_INCREASED,United States,doc_53,"In the U.S., renewables make up less than 25% of all electricity generation.6 “Alternatives like wind and solar are not a factor in the S&P 500 Energy Index to this point,” says Rob Haworth, senior investment strategy director at U.S. Bank Asset Management.",0.65
+Crude Oil,RELATED_TO_CHARGING,Petroleum Products,doc_53,"U.S. Energy Information Administration, “U.S. Net Imports of Crude Oil and Petroleum Products,” as of Dec.",0.65
+Crude Oil,RELATED_TO_CHARGING,United States,doc_53,"U.S. Energy Information Administration, “U.S. Net Imports of Crude Oil and Petroleum Products,” as of Dec.",0.65
+Petroleum Products,RELATED_TO_CHARGING,United States,doc_53,"U.S. Energy Information Administration, “U.S. Net Imports of Crude Oil and Petroleum Products,” as of Dec.",0.65
+Other Liquids Consumption,RELATED_TO,Short Term Energy Outlook,doc_53,"U.S. Energy Information Administration, “Short Term Energy Outlook,” Petroleum and Other Liquids Consumption, December 10, 2024.",0.65
+Other Liquids Consumption,RELATED_TO,United States,doc_53,"U.S. Energy Information Administration, “Short Term Energy Outlook,” Petroleum and Other Liquids Consumption, December 10, 2024.",0.65
+Short Term Energy Outlook,RELATED_TO,United States,doc_53,"U.S. Energy Information Administration, “Short Term Energy Outlook,” Petroleum and Other Liquids Consumption, December 10, 2024.",0.65
+Electric Power Monthly,RELATED_TO,Energy Source,doc_53,"U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.",0.65
+Electric Power Monthly,RELATED_TO,Net Generation,doc_53,"U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.",0.65
+Electric Power Monthly,RELATED_TO,United States,doc_53,"U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.",0.65
+Energy Source,RELATED_TO,Net Generation,doc_53,"U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.",0.65
+Energy Source,RELATED_TO,United States,doc_53,"U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.",0.65
+Net Generation,RELATED_TO,United States,doc_53,"U.S. Energy Information Administration, “Electric Power Monthly, Net Generation by Energy Source,” as of October 2024.",0.65
+Energy Sector Stocks: Is Now the Time to Invest? | U.S. Bank,MATCHES_SEARCH_QUERY,Electric vehicle financial sentiment comparison between US and global market,doc_53,"Unlike the oil market, where prices move on a global level, natural gas prices are affected by regional factors. Europe's demand for liquid natural gas to ...",0.8
+European Commission,TARGETS,30 million zero-emission vehicles by 2030,doc_54,The European Commission hopes to redress some of the damage by putting at least 30 million zero-emission vehicles on Europe’s roads by 2030.,0.9
+Biden Administration,ANNOUNCED_PLANS_FOR,50%–52% reduction in GHG emissions by 2030,doc_54,the new Biden Administration is showing its intent by announcing plans for a 50%–52% reduction in GHG emissions by 2030 against 2005 levels.,0.85
+Road transport,ACCOUNTS_FOR,23% of total GHG emissions in the US,doc_54,"it is a similar story in the US, where road transport makes up 23% of total GHG emissions.",0.8
+European cities,AIM_FOR,100 climate-neutral cities by 2030,doc_54,It aims for 100 climate-neutral European cities and large-scale deployment of automated mobility.,0.9
+COVID-19 pandemic,RESULTED_IN,10% year-on-year decline in emissions in the US in 2020,doc_54,The US reported a 10% year-on-year decline in emissions in 2020.,0.75
+European EV sales,OUTSTRIPPED,China for the first time in 2020,doc_54,"In fact, in the first nine months of 2020, European EV sales outstripped those in China for the first time.",0.8
+New carbon dioxide emission standards,CAME_INTO_EFFECT,for automakers in Europe,doc_54,new carbon dioxide (CO2) emission standards for automakers came into effect.,0.85
+COVID-19 economic recovery packages,FOCUSED_ON,carbon-neutral and renewable energy solutions,doc_54,accompanied by COVID-19 economic recovery packages focused on carbon-neutral and renewable energy solutions.,0.8
+Road transport,ACCOUNTS_FOR,one-quarter of Europe’s total greenhouse gas emissions,doc_54,"Right now, road transport accounts for almost one-quarter of Europe’s total greenhouse gas (GHG) emissions.",0.9
+Electric vehicles (EVs,PREFERRED_OVER,internal combustion engine (ICE) vehicles,doc_54,"there is enthusiasm for, and commitment to, the difference that electrification will make.",0.75
+AB,FOUNDED_BY,Columbia Climate School,doc_55,AB is the Founding Member of the Corporate Affiliate Program at the newly launched Columbia Climate School,0.9
+AB,PARTNERED_WITH,Columbia University’s Earth Institute,doc_55,AB has partnered with Columbia University’s Earth Institute to develop a Climate Science and Investing curriculum,0.85
+United States,REGULATED_BY,Central Banks,doc_55,central banks have started to ease their exceptionally tight monetary policies,0.8
+China,REGULATED_BY,Communist Party,doc_55,China surprised markets by cutting short- and long-term interest rates immediately after the Communist Party’s t,0.75
+China,REPORTED_SALES,5% growth target,doc_55,A key challenge for policymakers is maintaining growth around the official 5% target while rebalancing the economy,0.8
+United States,REPORTED_SALES,household spending,doc_55,US household spending has been a key growth engine,0.85
+Global Manufacturing,REPORTED_SALES,improving conditions,doc_55,Global manufacturing is also on the mend after several years of drag from excess inventories,0.8
+Inflation,REPORTED_SALES,2% to 3% range,doc_55,Inflation is now in the 2% to 3% range across many developed economies,0.9
+China,PARTNERED_WITH,property sector,doc_55,"Growth in China remains lackluster, dragged down by the continued contraction in the sizeable property sector",0.7
+Labor Markets,REPORTED_SALES,strong job creation,doc_55,labor markets are now less tight—even with strong job creation,0.75
+China,LEADING_EXPORTER,passenger cars,doc_56,"Today, the country is the world’s leading exporter of passenger cars.",0.9
+Tesla,EXPORTED_VEHICLES,one million vehicles,doc_56,Tesla (which recently exported its millionth vehicle from its Chinese manufacturing facility),0.85
+Chengdu-Chongqing Economic Circle,LOCATED_IN,China,doc_56,The Chengdu-Chongqing Economic Circle is central to China’s ambitions of achieving energy independence.,0.95
+GCL Technology,MANUFACTURES,polysilicon,doc_56,"GCL Technology, for example, manufactures polysilicon for use in photovoltaic solar panels.",0.9
+China,LEADING_IN,solar and wind power,doc_56,"China is now the world leader in solar and wind power, with installed capacity massively outstripping other major economies.",0.9
+Chinese-made autos,PROJECTED_SHARE,27% in Southeast Asia by 2030,doc_56,The share of Chinese-made autos in the region is projected to grow from 13% in 2023 to 27% in 2030.,0.8
+FBR process,USED_BY,GCL Technology,doc_56,The acquisition of SunEdison’s solar business enabled GCL to commercialize a polysilicon manufacturing process called FBR.,0.85
+China,INVESTED_IN,low-carbon technologies,doc_56,This desire for energy security has prompted huge investment in low-carbon technologies in recent years.,0.8
+United States,IMPOSED_TARIFFS,on Chinese EV exports,doc_56,The imposition of trade tariffs by the US and EU has complicated the export route map.,0.75
+Chongqing,HOME_TO,major auto players,doc_56,Speaking with one of the major Chongqing-based auto players.,0.8
+China,REPORTED_SALES,9.49 million EV units,doc_57,"Electric Vehicle sales soared, with China leading at 9.49 million units",0.9
+United States,EXPECTED_RATE_CUTS,2 in 2025,doc_57,The Fed will likely hold rates steady. Two rate cuts are expected in 2025.,0.85
+Allianz Global Investors,PARTNERED_WITH,Bloomberg TV,doc_57,"It was a pleasure to appear on Bloomberg TV, as always, with insightful and thoughtful discussion.",0.8
+Eurozone,REPORTED_GDP_GROWTH,0.4%,doc_57,Eurozone GDP growth surprised with 0.4% (vs. expected recession),0.9
+China,REPORTED_GDP_GROWTH,5.2%,doc_57,China's GDP growth exceeded projections at 5.2%,0.9
+United States,EXPECTED_END_2025,4.75%,doc_57,U.S. 10-year yield to end 2025 at 4.75%,0.8
+Private Markets,OFFER_STABILITY,high returns,doc_57,Private equity offers high returns. Hedge funds and private credit provide stability.,0.85
+China,REGULATED_BY,new measures for short-term activity,doc_57,China issues new measures that aim to enhance short-term activity.,0.75
+United States,GREY_SWAN_RISK,overexposure,doc_57,Watch for low-probability but impactful events: Overexposure to U.S. tech—diversify to reduce risk.,0.8
+Private Investments,SURGING_IN,Asia,doc_57,Demand for private investments is surging in Asia.,0.85
+Auto Sales,SOFTENED,Interest Rates Jumped,doc_58,Auto sales softened as interest rates jumped,0.85
+China,SPELLS_UNCERTAINTY_FOR,Luxury Goods,doc_58,A spending slump in China spells uncertainty for luxury goods,0.8
+Capital Group,MANAGES,Equity Assets,doc_58,Capital Group manages equity assets through three investment groups,0.9
+Federal Reserve Bank of St. Louis,PROVIDED_DATA_ON,Auto Sales,doc_58,"Sources: Capital Group, Federal Reserve Bank of St. Louis. As of 30 September 2024.",0.75
+S&P Global Luxury Index,COMPARED_TO,MSCI AC World Index,doc_58,Relative return represented by the difference in annualised cumulative total return between the S&P Global Luxury Index and the MSCI AC World Index,0.7
+Carl Kawaja,IS_CHAIR_OF,Capital Research and Management Company,doc_58,Carl Kawaja is chair of Capital Research and Management Company,0.85
+Irfan Furniturewala,HAS_EXPERIENCE_OF,24 years,doc_58,Irfan Furniturewala is an equity portfolio manager with 24 years of industry experience,0.8
+Drew Macklis,HAS_EXPERIENCE_OF,7 years,doc_58,Drew Macklis is an equity investment analyst with seven years of industry experience,0.75
+Julie Wang Chou,COVERS,European Luxury Goods and Telecoms,doc_58,Julie Wang Chou is an equity investment analyst who covers European luxury goods and telecoms,0.8
+Earnings Growth,REFERS_TO,Annual Change in Earnings per Share,doc_58,Earnings growth refers to annual change in earnings per share,0.75
+UK Equities,DISCOUNTED_BY,30%,doc_59,the UK's discount to global equities is approaching 30%,0.85
+OPEC+ Countries,EXTENDED_PRODUCTION_CUTS_UNTIL,End of 2024,doc_59,OPEC+ countries’ agreement to extend production cuts until the end of 2024,0.9
+China,SENTIMENT,Mixed,doc_59,Has China bottomed out?,0.75
+Japan,POSITIVE_MACRO_REFORMS,Yes,doc_59,Positive macro and governance reforms in Japan,0.8
+Interest Rates,EXPECTED_TO_BE_HOLDING_HIGH,Longer Period,doc_59,Investors now anticipate that most central banks will need to hold rates at higher levels for a longer period of time,0.85
+Energy Prices,EXPECTED_TO_REMAIN_ELEVATED,Yes,doc_59,oil prices are expected to remain elevated,0.8
+Latin America,OPTIMISM,Continues,doc_59,Optimism for Latin America continues,0.7
+Turkey,MANAGERS_INTEREST,Increased,doc_59,Managers once again looking at Turkey,0.75
+EVs,COMPETITIVE_LANDSCAPE,Early Signs,doc_59,Early signs of EVs’ competitive landscape,0.8
+Healthcare,OPPORTUNITIES,Yes,doc_59,Opportunities in healthcare and consumer staples,0.75
+Global Economy,REGULATED_BY,Japanese Government,doc_60,Outlook of the Global Economy and the Japanese Economy for the ...,0.85
+Financial Markets,REPORTED_SALES,Bullish Sentiment,doc_60,Financial Markets : Bullish Sentiment Continues to Overcome.,0.9
+Investors,INCREASED_RISK_APPETITE,Strong Economy,doc_60,"Under the strong economy, the risk appetite of investors has ...",0.8
+Japanese Economy,IMPACTED_BY,Global Economic Trends,doc_60,Outlook of the Global Economy and the Japanese Economy for the ...,0.75
+Financial Markets,EXHIBITED,Overcoming Uncertainties,doc_60,Bullish Sentiment Continues to Overcome Uncertainties.,0.88
+Investors,INFLUENCED_BY,Market Sentiment,doc_60,"Under the strong economy, the risk appetite of investors has ...",0.82
+Economic Outlook,FOUNDED_ON,Market Conditions,doc_60,Outlook of the Global Economy and the Japanese Economy for the ...,0.78
+Bullish Sentiment,INDICATES,Positive Market Trends,doc_60,Financial Markets : Bullish Sentiment Continues to Overcome.,0.85
+Tesla,FOUNDED_BY,Engineers in Silicon Valley,doc_61,Founded in 2003 by a group of engineers in Silicon Valley,0.95
+Tesla,DELIVERED_VEHICLES,1.8 million cars,doc_61,"In 2023, Tesla delivered its highest total of vehicles yet, 1.8 million cars worldwide",0.9
+Tesla,MARKET_CAP,$692.79B,doc_61,"From 2010 to Aug. 1, 2024, Tesla's market cap increased from $2.23B to $692.79B",0.92
+BYD,FOUNDED_IN,1995,doc_61,Founded in 1995 as a battery manufacturer,0.93
+BYD,COMPETES_WITH,Tesla,doc_61,BYD has rapidly emerged as one of Tesla's most formidable competitors in the global EV market,0.88
+Tesla,PRODUCT_LINE,"Model S, Model X, Model 3, Model Y, Cybertruck, Tesla Semi",doc_61,"Tesla has five vehicles on the market: the Model S, Model X, Model 3, Model Y, and the Cybertruck",0.89
+Tesla,REPORTED_SALES,6.7% market share in China,doc_61,"In China, where Tesla is a well-known brand, it holds just 6.7% of EV market share",0.87
+EV Industry,CAGR,13.8%,doc_61,Fortune Business Insights estimates a compound annual growth rate (CAGR) of 13.8% for the worldwide EV industry,0.85
+Tesla,AUTOMOTIVE_REVENUES,85% of total revenues,doc_61,"However, automotive-related revenues are about 85% of its total in 2024",0.9
+Elon Musk,CEO_OF,Tesla,doc_61,Since serial entrepreneur Elon Musk became CEO in 2008,0.94
+United States,PROTECTED_BY,EV Transition,doc_62,The EV transition can protect the U.S. economy from recessions by reducing our oil use.,0.9
+Gasoline Prices,IMPACT_ON,Consumer Sentiment,doc_62,Rising gas prices undermine the economy via their impact on consumer sentiment.,0.85
+United States,POWERED_BY,"Natural Gas, Coal, Nuclear, Renewables",doc_62,"The U.S. electric grid is powered by a mix of natural gas (39%), coal (20%), nuclear (18%), and renewables (23%).",0.9
+EV Owners,SAVE_ON,Fuel Costs,doc_62,EV owners who charged at home would have saved an average of $81 per month compared with owning a traditional ICE vehicle.,0.95
+United States,PROJECTED_SHARE,Fossil Fuels 29% in 2040,doc_62,The fossil fuel share of U.S. net electricity generation will shrink from 59% in 2023 to 29% in 2040.,0.8
+EV Adoption,EXPECTED_TO_REACH,50% of Vehicles by 2040,doc_62,Current policies and reasonable forecasts of EV adoption suggest that 50% of the vehicles on the road in 2040 will be EVs.,0.85
+United States,STATUS,Net Exporter,doc_62,"In dollar terms, the U.S. is already a net exporter of oil and oil products.",0.9
+EV Transition,REDUCES,Vulnerability to Oil Price Shocks,doc_62,EVs can break the link between oil prices and the health of the U.S. economy.,0.8
+United States,PROJECTS,Renewables 59% in 2040,doc_62,The share of renewables mounts from 23% in 2022 to 59% in 2040.,0.75
+Higher Gas Prices,ELEVATE_RISK_OF,Recession,doc_62,"High gas prices depress consumer sentiment, weaken consumption, and elevate the risk of a recession.",0.85
+China,DOMINATES,EV Market,doc_63,China became a world leader in making and buying EVs.,0.95
+China,REPORTED_SALES,6.8 million EVs in 2022,doc_63,The number of EVs sold annually in the country grew from 1.3 million to a whopping 6.8 million.,0.9
+China,REGULATED_BY,Government Subsidies,doc_63,Generous government subsidies to support lithium batteries.,0.85
+Wan Gang,APPOINTED_AS,Minister of Science and Technology,doc_63,"In 2007, Wan Gang became China’s minister of science and technology.",0.88
+China,INVESTED_IN,EV Technology,doc_63,EV technology was introduced as a priority science research project in China’s Five-Year Plan.,0.92
+China,SUBSIDIZED,EV Companies,doc_63,"From 2009 to 2022, the government poured over 200 billion RMB into relevant subsidies.",0.87
+Tesla,PARTNERED_WITH,Chinese Battery Tech Researchers,doc_63,The story includes Tesla and Chinese battery tech researchers.,0.8
+China,BOOSTED_BY,EV Sector Growth,doc_63,This dominance in the EV sector has given China’s auto industry sustained growth during the pandemic.,0.9
+Toyota,BETTING_ON,Plug-in Hybrids,doc_63,Toyota is betting they’ll stay in the mix for a while.,0.75
+China,AIMING_FOR,Climate Policy Leadership,doc_63,Boosted China in its quest to become one of the world’s leaders in climate policy.,0.85
+BYD Company,TOP_SELLING_ELECTRIC_CAR_SELLER,Tesla,doc_64,BYD has surpassed Tesla in the last Quarter 2024 as top-selling electric car seller.,0.9
+Global sales of battery electric vehicles (BEVs,PROJECTED_SALES,13.3 million units in 2024,doc_64,Global sales of battery electric vehicles (BEVs) are projected to reach 13.3 million units in 2024.,0.85
+China,LEADING_MARKET_SHARE,60% of global electric car sales,doc_64,China leading the way with 60% of global electric car sales.,0.9
+"Tesla, Inc",PIONEER_IN,electric car innovation and production,doc_64,"Tesla, Inc. stands out for its pioneering role and continued leadership in electric car innovation and production.",0.9
+Electric Vehicles,GROWTH_RATE,35% in 2024,doc_64,Electric cars’ sales expected to grow by 35% in 2024.,0.8
+Tesla,MARKET_SHARE,50.9% in the United States,doc_64,"Tesla holds a significant portion of the EV market share in the United States, with approximately 50.9% of the EV market.",0.85
+Norway,TAX_EXEMPTION_POLICY,exempts electric cars from most taxes,doc_64,Norway exempts electric cars from most taxes.,0.8
+California,REGULATED_BY,federal tax credits for EV buyers,doc_64,The U.S. offers federal tax credits for EV buyers.,0.75
+Volkswagen AG,ELECTRIFICATION_STRATEGY,ambitious electrification strategy,doc_64,"Volkswagen AG, with its ambitious electrification strategy, aims to become a major player in the electric market.",0.8
+Ford Motor Company,ACCELERATING_EV_PRODUCTION,Chevrolet Bolt and Ford Mustang Mach-E,doc_64,"Ford and General Motors (GM) are accelerating their EV production, with notable models like the Chevrolet Bolt and Ford Mustang Mach-E.",0.75
+China,HAS_LARGEST_EV_MARKET,60% of new vehicle registrations,doc_65,"China is now by far the largest market for EVs, accounting for 60 percent of new vehicle registrations last year.",0.95
+China,PRODUCES_BATTERIES,65% of global battery production,doc_65,"China is also by far the main producer of lithium batteries globally, which are the main component in EVs. According to the International Energy Agency (IEA), the country accounts for 65 percent of battery production.",0.9
+China,REGULATED_BY,government subsidies,doc_65,A cornerstone of EV policy was the deployment of subsidies that helped lower the cost of vehicles to consumers.,0.85
+NIO,SUPPORTED_BY,Hefei city government,doc_65,The Hefei city government’s intervention to save the startup NIO in early 2020 when it was on the verge of bankruptcy is a good example of how this works.,0.88
+China,HAS_EV_PRODUCERS,300 EV producers,doc_65,"As a result of policies supporting the industry, China is home to an outsized number of EV producers, as many as 300 in 2021.",0.92
+China,EXPORTS_EV_VEHICLES,growing number of exported vehicles,doc_65,"Most of the EVs sold in the country are produced there, as is a growing number of exported vehicles.",0.87
+China,HAS_CATHODE_PRODUCTION,80% of global cathode production,doc_65,China accounts for 80 percent of cathode production.,0.9
+Chinese EV companies,FACING_CONSOLIDATION,phasing out of purchase subsidies,doc_65,"The industry should be heading towards consolidation, especially since the phasing out of purchase subsidies this year.",0.85
+China,LEADS_IN_EV_INNOVATION,technological advancements in battery technology,doc_65,The timing of the policies was crucial because they coincided with and magnified technological advancements in battery technology.,0.88
+United States,CHALLENGED_BY,growing Chinese EV exports,doc_65,The challenge posed to the United States by growing Chinese EV exports primarily pertains to cost.,0.9
+China,PRODUCES,62% of global EVs,doc_66,"In 2022, China accounted for 62 percent of global EV production.",0.95
+China,PRODUCES,75% of global lithium-ion batteries,doc_66,Chinese manufacturers produce 75 percent of the world’s lithium-ion batteries.,0.95
+CATL and FDB,ACCOUNT_FOR,over 50% of global EV battery production,doc_66,China’s two largest EV battery producers—CATL and FDB—alone account for over one-half of global EV battery production.,0.9
+China,SUBSIDIZED_BY,$230 billion,doc_66,China’s lavish expenditure of over $230 billion in subsidies to the sector from 2009 to 2023.,0.9
+Chinese EV industry,SUPPORTED_BY,aggressive industrial policy,doc_66,China’s EV industry has benefited greatly from aggressive industrial policy.,0.85
+Chinese government,REGULATED_BY,national EV competitiveness priority,doc_66,The Chinese government has made EV competitiveness a national priority.,0.85
+Chinese EV manufacturers,INNOVATE_IN,battery chemistry,doc_66,Chinese enterprises have made important breakthroughs in battery chemistry.,0.8
+Chinese EV manufacturers,LEAD_IN,vehicle technology,doc_66,Chinese enterprises are leading in other aspects of vehicle technology.,0.8
+China,EXPECTED_TO_MANUFACTURE,26.8 million vehicles in 2024,doc_66,"In 2024, they will manufacture a total of 26.8 million—21 percent of global production.",0.9
+China,EXPECTED_TO_REACH,one-third of global production by 2030,doc_66,a share automotive analysts expect will reach one-third by 2030.,0.85
+Electric Vehicle Sales Review Q2-2024,GREW_OR_INCREASED,Europe,doc_67,Electric Vehicle Sales Review Q2-2024 | PwC and Strategy& Growth of electrified vehicles year-on-year in the top five European ...,0.65
+Electric Vehicle Sales Review Q2-2024,GREW_OR_INCREASED,Strategy& Growth,doc_67,Electric Vehicle Sales Review Q2-2024 | PwC and Strategy& Growth of electrified vehicles year-on-year in the top five European ...,0.65
+Europe,GREW_OR_INCREASED,Strategy& Growth,doc_67,Electric Vehicle Sales Review Q2-2024 | PwC and Strategy& Growth of electrified vehicles year-on-year in the top five European ...,0.65
+Back Back Back Back Back,GREW_OR_INCREASED,Back Back Loading,doc_67,"More Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Loading results No match found Global growth in electromobility continues, but it is increasingly shifting towards PHEVs Viewpoint Looking at the sum of sales in all 21 analyzed markets, the electrified vehicle market share reached a new height.",0.65
+Back Back Back Back Back,GREW_OR_INCREASED,More Back Back Back Back,doc_67,"More Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Loading results No match found Global growth in electromobility continues, but it is increasingly shifting towards PHEVs Viewpoint Looking at the sum of sales in all 21 analyzed markets, the electrified vehicle market share reached a new height.",0.65
+Back Back Back Back Back,GREW_OR_INCREASED,PHEVs Viewpoint Looking,doc_67,"More Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Loading results No match found Global growth in electromobility continues, but it is increasingly shifting towards PHEVs Viewpoint Looking at the sum of sales in all 21 analyzed markets, the electrified vehicle market share reached a new height.",0.65
+Back Back Loading,GREW_OR_INCREASED,More Back Back Back Back,doc_67,"More Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Loading results No match found Global growth in electromobility continues, but it is increasingly shifting towards PHEVs Viewpoint Looking at the sum of sales in all 21 analyzed markets, the electrified vehicle market share reached a new height.",0.65
+Back Back Loading,GREW_OR_INCREASED,PHEVs Viewpoint Looking,doc_67,"More Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Loading results No match found Global growth in electromobility continues, but it is increasingly shifting towards PHEVs Viewpoint Looking at the sum of sales in all 21 analyzed markets, the electrified vehicle market share reached a new height.",0.65
+More Back Back Back Back,GREW_OR_INCREASED,PHEVs Viewpoint Looking,doc_67,"More Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Back Loading results No match found Global growth in electromobility continues, but it is increasingly shifting towards PHEVs Viewpoint Looking at the sum of sales in all 21 analyzed markets, the electrified vehicle market share reached a new height.",0.65
+China,GREW_OR_INCREASED,PHEV,doc_67,"Much of the recent growth in all analyzed markets can be put down to PHEV sales in China, up by 98% in Q2 2024 vs.",0.65
+Analyst Insights,RELATED_TO_CHARGING,Chinese OEMs,doc_67,"Indeed, our Analyst Insights section details the surge in Chinese exports to Europe and the strengthening grip of Chinese OEMs over their own domestic market.",0.65
+Analyst Insights,RELATED_TO_CHARGING,Europe,doc_67,"Indeed, our Analyst Insights section details the surge in Chinese exports to Europe and the strengthening grip of Chinese OEMs over their own domestic market.",0.65
+Chinese OEMs,RELATED_TO_CHARGING,Europe,doc_67,"Indeed, our Analyst Insights section details the surge in Chinese exports to Europe and the strengthening grip of Chinese OEMs over their own domestic market.",0.65
+Europe,GREW_OR_INCREASED,UK Growth,doc_67,"Register here to download the study France, Germany, Italy, Spain, and UK Growth of electrified vehicles year-on-year in the top five European markets outperformed the total vehicle market in the second quarter of 2024.",0.65
+Europe,GREW_OR_INCREASED,Other European,doc_67,Other European markets While full and mild hybrid sales growth was the greatest in Norway with 69% in Q2 2024 vs.,0.65
+Total EV,GREW_OR_INCREASED,United States,doc_67,Total EV sales grew in the US by 14% in the second quarter of 2024 when compared with the same period last year.,0.65
+China,GREW_OR_INCREASED,China Domestic PHEV,doc_67,"China Domestic PHEV sales including REEV in China almost doubled in Q2 2024 when compared to the same period last year, up by 98%.",0.65
+China,GREW_OR_INCREASED,REEV,doc_67,"China Domestic PHEV sales including REEV in China almost doubled in Q2 2024 when compared to the same period last year, up by 98%.",0.65
+China Domestic PHEV,GREW_OR_INCREASED,REEV,doc_67,"China Domestic PHEV sales including REEV in China almost doubled in Q2 2024 when compared to the same period last year, up by 98%.",0.65
+ICE,GREW_OR_INCREASED,PHEV,doc_67,"This significant PHEV sales increase enabled the total EV market to grow by 35% in Q2 2024 YoY, whereas the ICE market declined by 21%.",0.65
+BEV,GREW_OR_INCREASED,Q2 YoY,doc_67,BEV sales were up 13% in Q2 YoY.,0.65
+BEV,HAS_MARKET_SHARE,PHEV,doc_67,The combined BEV and PHEV market share now stands at 43% (25% and 18% respectively).,0.65
+ICE,DECLINED_OR_SLOWED,Japan BEV,doc_67,Japan BEV and ICE sales decreased by 32% and 13% respectively in Q2 2024 vs.,0.65
+ICE,DECLINED_OR_SLOWED,Q2. South Korea BEV,doc_67,"The EV market is dominated by the sale of hybrids, with a market share of 59% in Q2. South Korea BEV and ICE sales in South Korea fell by 3% and 18% respectively in Q2 2024 in comparison with the same period last year.",0.65
+ICE,DECLINED_OR_SLOWED,South Korea,doc_67,"The EV market is dominated by the sale of hybrids, with a market share of 59% in Q2. South Korea BEV and ICE sales in South Korea fell by 3% and 18% respectively in Q2 2024 in comparison with the same period last year.",0.65
+ICE,DECLINED_OR_SLOWED,The EV,doc_67,"The EV market is dominated by the sale of hybrids, with a market share of 59% in Q2. South Korea BEV and ICE sales in South Korea fell by 3% and 18% respectively in Q2 2024 in comparison with the same period last year.",0.65
+Q2. South Korea BEV,DECLINED_OR_SLOWED,South Korea,doc_67,"The EV market is dominated by the sale of hybrids, with a market share of 59% in Q2. South Korea BEV and ICE sales in South Korea fell by 3% and 18% respectively in Q2 2024 in comparison with the same period last year.",0.65
+Q2. South Korea BEV,DECLINED_OR_SLOWED,The EV,doc_67,"The EV market is dominated by the sale of hybrids, with a market share of 59% in Q2. South Korea BEV and ICE sales in South Korea fell by 3% and 18% respectively in Q2 2024 in comparison with the same period last year.",0.65
+South Korea,DECLINED_OR_SLOWED,The EV,doc_67,"The EV market is dominated by the sale of hybrids, with a market share of 59% in Q2. South Korea BEV and ICE sales in South Korea fell by 3% and 18% respectively in Q2 2024 in comparison with the same period last year.",0.65
+Electric Vehicle Sales Review Q2-2024,DECLINED_OR_SLOWED,PwC Autofacts,doc_67,Register to download Electric Vehicle Sales Review Q2-2024 PwC Autofacts® and Strategy& have analyzed electric vehicle sales worldwide in the second quarter of 2024.,0.65
+Automotive Leader,PARTNERED_WITH,Felix Kuhnert Partner,doc_67,"Felix Kuhnert Partner, Automotive Leader, PwC Germany Dr.",0.65
+Automotive Leader,PARTNERED_WITH,PwC Germany Dr,doc_67,"Felix Kuhnert Partner, Automotive Leader, PwC Germany Dr.",0.65
+Felix Kuhnert Partner,PARTNERED_WITH,PwC Germany Dr,doc_67,"Felix Kuhnert Partner, Automotive Leader, PwC Germany Dr.",0.65
+Neuhausen Director,RELATED_TO,Strategy& Germany,doc_67,"Jörn Neuhausen Director, Strategy& Germany © 2019 - 2025 PwC.",0.65
+Electric Vehicle Sales Review Q2-2024 | PwC and Strategy&,MATCHES_SEARCH_QUERY,Reviews and sentiment analysis on top US electric vehicle stocks,doc_67,Growth of electrified vehicles year-on-year in the top five European ... The analytics cookies enable us to store data in an aggregated form about ...,0.8
+The Motley Fool,FOUNDED_BY,1993,doc_68,"Founded in 1993, The Motley Fool is a financial services company.",0.9
+Ford,PARTNERED_WITH,Hyundai,doc_68,"The few that didn’t, like Ford and Hyundai, had fresh products in their showrooms.",0.7
+Automotive Industry,REGULATED_BY,Economic Cycles,doc_68,It’s important to understand how economic cycles affect automotive companies.,0.8
+EV Companies,REPORTED_SALES,High Growth,doc_68,"EV companies might see high growth, which is also exciting for investors.",0.85
+Tesla,DISCOUNTED_BY,Traditional Internal Combustion Engine Manufacturers,doc_68,"Investors are willing to pay a premium for car companies with powerful electric vehicle brands, such as Tesla.",0.9
+Automakers,INVESTING_IN,EV Technologies,doc_68,Virtually all automakers are making big investments in future technologies such as EVs.,0.8
+Automotive Stocks,PART_OF,Consumer Durables Sector,doc_68,Automotive stocks are part of the consumer durables sector.,0.75
+Automakers,CUT_PRODUCT_SPENDING,2008-09 Recession,doc_68,Most automotive companies sharply cut future product spending during the 2008-09 recession.,0.85
+Automotive Companies,PAY_DIVIDENDS,Shareholders,doc_68,Many automotive companies also pay dividends to their shareholders.,0.8
+Competition,INTENSIFIED_BY,High Interest Rates,doc_68,The competition has intensified as a combination of relatively high interest rates has slowed demand growth.,0.75
+Tesla,REPORTED_SALES,77% of US electric auto sales in November,doc_69,Tesla scores 77% of US electric auto sales in November,0.9
+Battery Electric Vehicles (BEVs,ACCOUNTED_FOR,74% of global EV sales in 2019,doc_69,"Looking back at BEVs in 2019, they accounted for 74 per cent of global EV sales",0.85
+Electric Vehicle Market,TIPPED_OVER,two-million-vehicle mark in 2019,doc_69,The sales of battery electric and plug-in hybrid electric cars tipped over the two-million-vehicle mark for the first time in 2019,0.9
+European Emissions Standards,STIMULATED,production and sale of zero-emission vehicles,doc_69,"This rise was partly stimulated by new, stricter European emissions standards",0.8
+China,DOMINATED,BEV market compared to the rest of the world,doc_69,"the advanced state of the BEV market in China, compared to the rest of the world",0.85
+United Kingdom,REPORTED_GROWTH,triple-digit growth for the year,doc_69,The United Kingdom and some other countries reported triple-digit growth for the year,0.8
+COVID-19,SLOWED_DOWN,growth rate of EV sales,doc_69,"COVID-19 slowed down the growth rate of EV sales, or sent it into decline",0.9
+Norway,ACHIEVED,56% market share in EVs,doc_69,Norway achieved 56 per cent market share,0.85
+Deloitte,PUBLISHED_REPORT,on electric vehicle sales,doc_69,"In this Deloitte report, we take a new approach to market segmentation",0.9
+Electric Vehicle Market,EXPECTED_GROWTH,throughout the 2020s,doc_69,"a pattern of continued growth, which is expected to be sustained throughout the 2020s",0.8
+ELECTRIFIED_PASSENGER_VEHICLES,REPORTED_SALES,10_MILLION_UNITS,doc_70,annual sales of electrified passenger vehicles exceeded ten million units in 2022,0.9
+ELECTRIFIED_PASSENGER_VEHICLES,PROJECTED_SALES,40_MILLION_UNITS_BY_2030,doc_70,McKinsey projects that they will reach roughly 40 million in 2030,0.85
+UNITED_STATES,CURRENT_CHARGING_PORTS,2.6_MILLION_PORTS,doc_70,about 2.6 million ports were available in 2022,0.9
+UNITED_STATES,NEEDED_CHARGING_PORTS_BY_2025,9.5_MILLION_PORTS,doc_70,the country will need approximately 9.5 million ports by 2025,0.85
+UNITED_STATES,NEEDED_CHARGING_PORTS_BY_2030,28.0_MILLION_PORTS,doc_70,the country will need approximately 28.0 million ports by 2030,0.85
+PROSPECTIVE_EV_BUYERS,REQUIREMENTS_FOR_BATTERY_RANGE,400_MILES_OR_MORE,doc_70,40 percent state they would prefer to see a driving range of 400 miles or more,0.8
+CURRENT_EV_OWNERS,DISSATISFACTION_WITH_INFRASTRUCTURE,70_PERCENT,doc_70,70 percent stating that they are dissatisfied with the current infrastructure,0.9
+EV_OWNERS,HOME_CHARGING_RATE,48_PERCENT,doc_70,about 48 percent have their own parking spot and a power outlet suitable for home charging,0.85
+EV_OWNERS,PUBLIC_CHARGING_RATE,23_TO_33_PERCENT,doc_70,the percentage of sessions occurring at these locations ranging from 23 percent (Europe) to 33 percent (United States),0.8
+MCF_CENTER_FOR_FUTURE_MOBILITY,FOUNDED_BY,MCKINSEY,doc_70,developed by the McKinsey Center for Future Mobility (MCFM),0.9

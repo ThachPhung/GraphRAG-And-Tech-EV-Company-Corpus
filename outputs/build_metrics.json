@@ -1,0 +1,21 @@
+{
+  "documents": 70,
+  "triples": 936,
+  "graph_nodes": 997,
+  "graph_edges": 936,
+  "corpus_characters": 3553906,
+  "estimated_corpus_tokens": 888476,
+  "build_time_seconds": 770.101,
+  "llm_extraction_enabled": true,
+  "openai_model": "gpt-4o-mini",
+  "api_requests": 70,
+  "api_failed_requests": 5,
+  "api_fallback_documents": 5,
+  "api_input_tokens": 95758,
+  "api_output_tokens": 47204,
+  "api_total_tokens": 142962,
+  "input_cost_per_1m_tokens_usd": 0.15,
+  "output_cost_per_1m_tokens_usd": 0.6,
+  "estimated_api_cost_usd": 0.042686,
+  "note": "OpenAI token usage is collected from API responses."
+}

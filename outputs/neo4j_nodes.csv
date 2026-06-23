@@ -1,0 +1,998 @@
+id:ID,label,type:LABEL
+"United States","United States",LOCATION
+"315,000 electric vehicles sold annually","315,000 electric vehicles sold annually",ORGANIZATION_OR_ENTITY
+"2020","2020",ORGANIZATION_OR_ENTITY
+"2.4%","2.4%",ORGANIZATION_OR_ENTITY
+"States with ZEV regulations","States with ZEV regulations",POLICY
+"two-thirds of 2020 U.S. electric vehicle sales","two-thirds of 2020 U.S. electric vehicle sales",TOPIC
+"Top 11 metropolitan areas","Top 11 metropolitan areas",ORGANIZATION_OR_ENTITY
+"$1,500 to more than $5,500","$1,500 to more than $5,500",ORGANIZATION_OR_ENTITY
+"Ten areas with highest electric vehicle uptake","Ten areas with highest electric vehicle uptake",ORGANIZATION_OR_ENTITY
+"935","935",ORGANIZATION_OR_ENTITY
+"Metropolitan areas with lowest electric vehicle uptake","Metropolitan areas with lowest electric vehicle uptake",ORGANIZATION_OR_ENTITY
+"20% of the top-ten markets","20% of the top-ten markets",TOPIC
+"430","430",ORGANIZATION_OR_ENTITY
+"States with zero-emission vehicle regulations","States with zero-emission vehicle regulations",POLICY
+"5%","5%",ORGANIZATION_OR_ENTITY
+"States without ZEV regulations","States without ZEV regulations",POLICY
+"1.3%","1.3%",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Sales","Electric Vehicle Sales",TOPIC
+"2.6%","2.6%",ORGANIZATION_OR_ENTITY
+"Tesla","Tesla",ORGANIZATION_OR_ENTITY
+"-13.3%","-13.3%",ORGANIZATION_OR_ENTITY
+"51.3%","51.3%",ORGANIZATION_OR_ENTITY
+"Cadillac","Cadillac",ORGANIZATION_OR_ENTITY
+"499.2%","499.2%",ORGANIZATION_OR_ENTITY
+"Ford","Ford",ORGANIZATION_OR_ENTITY
+"86.1%","86.1%",ORGANIZATION_OR_ENTITY
+"Chevy Bolt","Chevy Bolt",ORGANIZATION_OR_ENTITY
+"64.3%","64.3%",ORGANIZATION_OR_ENTITY
+"Kelley Blue Book","Kelley Blue Book",ORGANIZATION_OR_ENTITY
+"EV Sales Growth","EV Sales Growth",TOPIC
+"Inflation Reduction Act","Inflation Reduction Act",POLICY
+"$7,500","$7,500",ORGANIZATION_OR_ENTITY
+"Cox Automotive","Cox Automotive",ORGANIZATION_OR_ENTITY
+"10%","10%",ORGANIZATION_OR_ENTITY
+"Average Transaction Price","Average Transaction Price",POLICY
+"$55,167","$55,167",ORGANIZATION_OR_ENTITY
+"Electric Vehicles","Electric Vehicles",ORGANIZATION_OR_ENTITY
+"Yes","Yes",ORGANIZATION_OR_ENTITY
+"All-Electric Vehicles","All-Electric Vehicles",ORGANIZATION_OR_ENTITY
+"Zero","Zero",ORGANIZATION_OR_ENTITY
+"Plug-in Hybrid Electric Vehicles (PHEVs","Plug-in Hybrid Electric Vehicles (PHEVs",ORGANIZATION_OR_ENTITY
+"None in electric mode","None in electric mode",ORGANIZATION_OR_ENTITY
+"2024 Toyota Corolla Hybrid","2024 Toyota Corolla Hybrid",ORGANIZATION_OR_ENTITY
+"50 MPG","50 MPG",ORGANIZATION_OR_ENTITY
+"2024 Toyota Corolla","2024 Toyota Corolla",ORGANIZATION_OR_ENTITY
+"35 MPG","35 MPG",ORGANIZATION_OR_ENTITY
+"Federal Clean Vehicle Tax Credits","Federal Clean Vehicle Tax Credits",ORGANIZATION_OR_ENTITY
+"Consumers, fleets, businesses, tax-exempt entities","Consumers, fleets, businesses, tax-exempt entities",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Charging Stations","Electric Vehicle Charging Stations",TECHNOLOGY
+"Charging Electric Vehicles","Charging Electric Vehicles",TECHNOLOGY
+"Source of electricity","Source of electricity",ORGANIZATION_OR_ENTITY
+"Battery Prices","Battery Prices",TECHNOLOGY
+"Electric Power Monthly","Electric Power Monthly",ORGANIZATION_OR_ENTITY
+"Light-Duty Electric Vehicle Types","Light-Duty Electric Vehicle Types",ORGANIZATION_OR_ENTITY
+"EIA","EIA",ORGANIZATION_OR_ENTITY
+"Free and open data","Free and open data",ORGANIZATION_OR_ENTITY
+"Congressional reports","Congressional reports",ORGANIZATION_OR_ENTITY
+"Energy disruptions and infrastructure","Energy disruptions and infrastructure",ORGANIZATION_OR_ENTITY
+"Email updates on EIA products","Email updates on EIA products",ORGANIZATION_OR_ENTITY
+"Energy analysis tools","Energy analysis tools",ORGANIZATION_OR_ENTITY
+"Greenhouse gas data","Greenhouse gas data",ORGANIZATION_OR_ENTITY
+"Hydropower, solar, wind, geothermal, biomass, ethanol","Hydropower, solar, wind, geothermal, biomass, ethanol",ORGANIZATION_OR_ENTITY
+"Citi Research","Citi Research",ORGANIZATION_OR_ENTITY
+"1.47 million units of new EV sales in 2024","1.47 million units of new EV sales in 2024",TOPIC
+"2.34 million units of new EV sales in 2025","2.34 million units of new EV sales in 2025",TOPIC
+"12% growth in global BEV volume in 2024","12% growth in global BEV volume in 2024",ORGANIZATION_OR_ENTITY
+"33% global EV adoption by 2030","33% global EV adoption by 2030",ORGANIZATION_OR_ENTITY
+"Inflation Reduction Act (IRA","Inflation Reduction Act (IRA",POLICY
+"China","China",LOCATION
+"PHEV demand growth stronger through 2026","PHEV demand growth stronger through 2026",ORGANIZATION_OR_ENTITY
+"having entered an 'air pocket","having entered an 'air pocket",ORGANIZATION_OR_ENTITY
+"13% global penetration in 2024","13% global penetration in 2024",ORGANIZATION_OR_ENTITY
+"37% EV adoption by 2030","37% EV adoption by 2030",ORGANIZATION_OR_ENTITY
+"Europe","Europe",LOCATION
+"40% EV adoption by 2030","40% EV adoption by 2030",ORGANIZATION_OR_ENTITY
+"48% EV adoption by 2030","48% EV adoption by 2030",ORGANIZATION_OR_ENTITY
+"$188 Billion","$188 Billion",ORGANIZATION_OR_ENTITY
+"Georgia","Georgia",ORGANIZATION_OR_ENTITY
+"EV investments","EV investments",ORGANIZATION_OR_ENTITY
+"Michigan","Michigan",ORGANIZATION_OR_ENTITY
+"> $20 Billion","> $20 Billion",ORGANIZATION_OR_ENTITY
+"North Carolina","North Carolina",ORGANIZATION_OR_ENTITY
+"$19 Billion","$19 Billion",ORGANIZATION_OR_ENTITY
+"Environmental Defense Fund","Environmental Defense Fund",ORGANIZATION_OR_ENTITY
+"Ellen Robo","Ellen Robo",ORGANIZATION_OR_ENTITY
+"195,000 direct EV-related U.S. jobs","195,000 direct EV-related U.S. jobs",ORGANIZATION_OR_ENTITY
+"every other region","every other region",ORGANIZATION_OR_ENTITY
+"2027","2027",ORGANIZATION_OR_ENTITY
+"28 countries","28 countries",ORGANIZATION_OR_ENTITY
+"60% of new vehicle registrations","60% of new vehicle registrations",ORGANIZATION_OR_ENTITY
+"65% of global battery production","65% of global battery production",TECHNOLOGY
+"Ilaria Mazzocco","Ilaria Mazzocco",ORGANIZATION_OR_ENTITY
+"U.S.-China Economic and Security Review Commission","U.S.-China Economic and Security Review Commission",LOCATION
+"Chinese EV companies","Chinese EV companies",ORGANIZATION_OR_ENTITY
+"local governments","local governments",ORGANIZATION_OR_ENTITY
+"NIO","NIO",ORGANIZATION_OR_ENTITY
+"Hefei city government","Hefei city government",ORGANIZATION_OR_ENTITY
+"40% of global electric car stock","40% of global electric car stock",ORGANIZATION_OR_ENTITY
+"Chinese EV industry","Chinese EV industry",ORGANIZATION_OR_ENTITY
+"government interventions and subsidies","government interventions and subsidies",ORGANIZATION_OR_ENTITY
+"cathode production (80%","cathode production (80%",ORGANIZATION_OR_ENTITY
+"Chinese EV producers","Chinese EV producers",ORGANIZATION_OR_ENTITY
+"300 in 2021","300 in 2021",ORGANIZATION_OR_ENTITY
+"purchase subsidies","purchase subsidies",ORGANIZATION_OR_ENTITY
+"True","True",ORGANIZATION_OR_ENTITY
+"Lower than gasoline cars","Lower than gasoline cars",ORGANIZATION_OR_ENTITY
+"Renewable Energy Sources","Renewable Energy Sources",ORGANIZATION_OR_ENTITY
+"Second-most prevalent U.S. electricity source in 2020","Second-most prevalent U.S. electricity source in 2020",ORGANIZATION_OR_ENTITY
+"EVs","EVs",ORGANIZATION_OR_ENTITY
+"87%-91%","87%-91%",ORGANIZATION_OR_ENTITY
+"Gasoline Vehicles","Gasoline Vehicles",ORGANIZATION_OR_ENTITY
+"16%-25%","16%-25%",ORGANIZATION_OR_ENTITY
+"Argonne National Laboratory","Argonne National Laboratory",ORGANIZATION_OR_ENTITY
+"EV with 300-mile range","EV with 300-mile range",ORGANIZATION_OR_ENTITY
+"EV Battery Recycling","EV Battery Recycling",TECHNOLOGY
+"Electric Vehicle Batteries","Electric Vehicle Batteries",ORGANIZATION_OR_ENTITY
+"2.5% average replacement rate","2.5% average replacement rate",ORGANIZATION_OR_ENTITY
+"EVs (2016 onward","EVs (2016 onward",ORGANIZATION_OR_ENTITY
+"Less than 0.5%","Less than 0.5%",ORGANIZATION_OR_ENTITY
+"Government Interventions","Government Interventions",ORGANIZATION_OR_ENTITY
+"Deloitte","Deloitte",ORGANIZATION_OR_ENTITY
+"Research Centers","Research Centers",ORGANIZATION_OR_ENTITY
+"Battery Electric Vehicles (BEVs","Battery Electric Vehicles (BEVs",TECHNOLOGY
+"74% of global EV sales in 2019","74% of global EV sales in 2019",TOPIC
+"BEV Market","BEV Market",TOPIC
+"93% in BEV sales in 2019","93% in BEV sales in 2019",TOPIC
+"COVID-19","COVID-19",ORGANIZATION_OR_ENTITY
+"Global EV Sales","Global EV Sales",TOPIC
+"Norway","Norway",ORGANIZATION_OR_ENTITY
+"56% market share in EVs","56% market share in EVs",TOPIC
+"Over two million EVs in 2019","Over two million EVs in 2019",ORGANIZATION_OR_ENTITY
+"United Kingdom","United Kingdom",ORGANIZATION_OR_ENTITY
+"Triple-digit growth in 2019","Triple-digit growth in 2019",ORGANIZATION_OR_ENTITY
+"European Emissions Standards","European Emissions Standards",LOCATION
+"Production of Zero-emission Vehicles","Production of Zero-emission Vehicles",ORGANIZATION_OR_ENTITY
+"Electric Vehicles (EVs","Electric Vehicles (EVs",ORGANIZATION_OR_ENTITY
+"2.5% of all new car sales in 2019","2.5% of all new car sales in 2019",TOPIC
+"1.7 million barrels per day","1.7 million barrels per day",ORGANIZATION_OR_ENTITY
+"Global EV Market","Global EV Market",TOPIC
+"Battery Demand","Battery Demand",TECHNOLOGY
+"Stationary storage applications","Stationary storage applications",ORGANIZATION_OR_ENTITY
+"Electric Commercial Vehicles","Electric Commercial Vehicles",ORGANIZATION_OR_ENTITY
+"Blistering growth","Blistering growth",ORGANIZATION_OR_ENTITY
+"Developing Economies","Developing Economies",ORGANIZATION_OR_ENTITY
+"Battery Manufacturing","Battery Manufacturing",POLICY
+"Net Zero Scenario","Net Zero Scenario",ORGANIZATION_OR_ENTITY
+"Route to carbon neutrality","Route to carbon neutrality",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Outlook","Electric Vehicle Outlook",ORGANIZATION_OR_ENTITY
+"BloombergNEF","BloombergNEF",ORGANIZATION_OR_ENTITY
+"EV Sales","EV Sales",TOPIC
+"2024","2024",ORGANIZATION_OR_ENTITY
+"Charging Points","Charging Points",TECHNOLOGY
+"More and more","More and more",ORGANIZATION_OR_ENTITY
+"NVIDIA","NVIDIA",ORGANIZATION_OR_ENTITY
+"$26.0 billion","$26.0 billion",ORGANIZATION_OR_ENTITY
+"$5.98","$5.98",ORGANIZATION_OR_ENTITY
+"$6.12","$6.12",ORGANIZATION_OR_ENTITY
+"$0.10 per share","$0.10 per share",ORGANIZATION_OR_ENTITY
+"10-for-1","10-for-1",ORGANIZATION_OR_ENTITY
+"NASDAQ","NASDAQ",ORGANIZATION_OR_ENTITY
+"Hopper","Hopper",ORGANIZATION_OR_ENTITY
+"Blackwell","Blackwell",ORGANIZATION_OR_ENTITY
+"Spectrum-X","Spectrum-X",ORGANIZATION_OR_ENTITY
+"Polestar","Polestar",ORGANIZATION_OR_ENTITY
+"41,817","41,817",ORGANIZATION_OR_ENTITY
+"60,000","60,000",ORGANIZATION_OR_ENTITY
+"2%","2%",ORGANIZATION_OR_ENTITY
+"Gothenburg, Sweden","Gothenburg, Sweden",ORGANIZATION_OR_ENTITY
+"Volvo Cars","Volvo Cars",ORGANIZATION_OR_ENTITY
+"Gores Guggenheim, Inc","Gores Guggenheim, Inc",ORGANIZATION_OR_ENTITY
+"27","27",ORGANIZATION_OR_ENTITY
+"Polestar 2","Polestar 2",ORGANIZATION_OR_ENTITY
+"2019","2019",ORGANIZATION_OR_ENTITY
+"1,844.4 million USD","1,844.4 million USD",ORGANIZATION_OR_ENTITY
+"1,823.2 million USD","1,823.2 million USD",ORGANIZATION_OR_ENTITY
+"VinFast","VinFast",ORGANIZATION_OR_ENTITY
+"21,912 vehicles","21,912 vehicles",ORGANIZATION_OR_ENTITY
+"US$511.6 million","US$511.6 million",ORGANIZATION_OR_ENTITY
+"115%","115%",ORGANIZATION_OR_ENTITY
+"Vietnam","Vietnam",ORGANIZATION_OR_ENTITY
+"Ha Tinh, Vietnam","Ha Tinh, Vietnam",ORGANIZATION_OR_ENTITY
+"300,000 EVs per year","300,000 EVs per year",ORGANIZATION_OR_ENTITY
+"173","173",ORGANIZATION_OR_ENTITY
+"US$550.0 million","US$550.0 million",ORGANIZATION_OR_ENTITY
+"negative 24.0%","negative 24.0%",ORGANIZATION_OR_ENTITY
+"Vingroup","Vingroup",ORGANIZATION_OR_ENTITY
+"ZEEKR","ZEEKR",ORGANIZATION_OR_ENTITY
+"RMB8,174.1 million","RMB8,174.1 million",ORGANIZATION_OR_ENTITY
+"33,059","33,059",ORGANIZATION_OR_ENTITY
+"ZEEKR 001 2024","ZEEKR 001 2024",ORGANIZATION_OR_ENTITY
+"Geely Group","Geely Group",ORGANIZATION_OR_ENTITY
+"NYSE","NYSE",ORGANIZATION_OR_ENTITY
+"99% from April 2023","99% from April 2023",ORGANIZATION_OR_ENTITY
+"RMB1,739.4 million","RMB1,739.4 million",ORGANIZATION_OR_ENTITY
+"RMB2,022.1 million","RMB2,022.1 million",ORGANIZATION_OR_ENTITY
+"230,000 vehicles","230,000 vehicles",ORGANIZATION_OR_ENTITY
+"11.8%","11.8%",ORGANIZATION_OR_ENTITY
+"EV_COMPANIES","EV_COMPANIES",ORGANIZATION_OR_ENTITY
+"GENERAL_STOCK_MARKETS","GENERAL_STOCK_MARKETS",TOPIC
+"TESLA","TESLA",ORGANIZATION_OR_ENTITY
+"USD_1_TRILLION","USD_1_TRILLION",ORGANIZATION_OR_ENTITY
+"RUSSIA","RUSSIA",ORGANIZATION_OR_ENTITY
+"BATTERY_METAL_PRICES","BATTERY_METAL_PRICES",TECHNOLOGY
+"STELLANTIS","STELLANTIS",ORGANIZATION_OR_ENTITY
+"ARGENTINA","ARGENTINA",ORGANIZATION_OR_ENTITY
+"CHILEAN_GOVERNMENT_AGENCIES","CHILEAN_GOVERNMENT_AGENCIES",ORGANIZATION_OR_ENTITY
+"AUSTRALIANSUPER","AUSTRALIANSUPER",ORGANIZATION_OR_ENTITY
+"PILBARA_MINERALS","PILBARA_MINERALS",ORGANIZATION_OR_ENTITY
+"LITHIUM_COMPANIES","LITHIUM_COMPANIES",ORGANIZATION_OR_ENTITY
+"SIXFOLD","SIXFOLD",ORGANIZATION_OR_ENTITY
+"EV_MARKETS","EV_MARKETS",TOPIC
+"INVESTOR_APPETITE","INVESTOR_APPETITE",ORGANIZATION_OR_ENTITY
+"CARMakers","CARMakers",ORGANIZATION_OR_ENTITY
+"BATTERY_MAKERS","BATTERY_MAKERS",TECHNOLOGY
+"ROBUST","ROBUST",ORGANIZATION_OR_ENTITY
+"Mercedes-Benz Group AG","Mercedes-Benz Group AG",ORGANIZATION_OR_ENTITY
+"2.49mn","2.49mn",ORGANIZATION_OR_ENTITY
+"€153.2 billion","€153.2 billion",ORGANIZATION_OR_ENTITY
+"€19.7 billion","€19.7 billion",ORGANIZATION_OR_ENTITY
+"Mercedes-Benz Cars","Mercedes-Benz Cars",ORGANIZATION_OR_ENTITY
+"12.6%","12.6%",ORGANIZATION_OR_ENTITY
+"Nevada and California","Nevada and California",LOCATION
+"MB.OS","MB.OS",ORGANIZATION_OR_ENTITY
+"Thailand","Thailand",ORGANIZATION_OR_ENTITY
+"12%","12%",ORGANIZATION_OR_ENTITY
+"Mercedes-Benz Vans","Mercedes-Benz Vans",ORGANIZATION_OR_ENTITY
+"447,800 units","447,800 units",ORGANIZATION_OR_ENTITY
+"€10.0 billion","€10.0 billion",ORGANIZATION_OR_ENTITY
+"€31.7 billion","€31.7 billion",ORGANIZATION_OR_ENTITY
+"Fuel Economy","Fuel Economy",ORGANIZATION_OR_ENTITY
+"Zero Tailpipe Emissions","Zero Tailpipe Emissions",ORGANIZATION_OR_ENTITY
+"Hybrid Electric Vehicles","Hybrid Electric Vehicles",ORGANIZATION_OR_ENTITY
+"Variable Emissions Benefits","Variable Emissions Benefits",ORGANIZATION_OR_ENTITY
+"National Renewable Energy Laboratory","National Renewable Energy Laboratory",ORGANIZATION_OR_ENTITY
+"Battery Life of 12 to 15 Years","Battery Life of 12 to 15 Years",TECHNOLOGY
+"Consumers and Fleets","Consumers and Fleets",ORGANIZATION_OR_ENTITY
+"Automakers and Utilities","Automakers and Utilities",ORGANIZATION_OR_ENTITY
+"Fuel Costs","Fuel Costs",ORGANIZATION_OR_ENTITY
+"Electricity Sources","Electricity Sources",ORGANIZATION_OR_ENTITY
+"As Technologies Improve","As Technologies Improve",ORGANIZATION_OR_ENTITY
+"Decarbonising Road Transport","Decarbonising Road Transport",ORGANIZATION_OR_ENTITY
+"Global Electric Car Sales","Global Electric Car Sales",TOPIC
+"14 million in 2023","14 million in 2023",ORGANIZATION_OR_ENTITY
+"Electric Car Sales Growth","Electric Car Sales Growth",TOPIC
+"35% from 2022 to 2023","35% from 2022 to 2023",ORGANIZATION_OR_ENTITY
+"China, Europe, and the United States","China, Europe, and the United States",LOCATION
+"0.9 Mb/d in 2023","0.9 Mb/d in 2023",ORGANIZATION_OR_ENTITY
+"Electric Car Sales","Electric Car Sales",TOPIC
+"65% of total car sales by 2030","65% of total car sales by 2030",TOPIC
+"Announced Battery Manufacturing Capacity","Announced Battery Manufacturing Capacity",POLICY
+"Over 90% of deployment needs for 2030","Over 90% of deployment needs for 2030",ORGANIZATION_OR_ENTITY
+"18% of new cars sold in 2023","18% of new cars sold in 2023",ORGANIZATION_OR_ENTITY
+"23% per year from 2024 to 2030","23% per year from 2024 to 2030",ORGANIZATION_OR_ENTITY
+"REE Automotive Ltd","REE Automotive Ltd",ORGANIZATION_OR_ENTITY
+"Daniel Barel","Daniel Barel",ORGANIZATION_OR_ENTITY
+"EAVX","EAVX",ORGANIZATION_OR_ENTITY
+"P7","P7",ORGANIZATION_OR_ENTITY
+"2023","2023",ORGANIZATION_OR_ENTITY
+"REEcornerTM","REEcornerTM",ORGANIZATION_OR_ENTITY
+"Prototypes to EAVX","Prototypes to EAVX",ORGANIZATION_OR_ENTITY
+"Navya","Navya",ORGANIZATION_OR_ENTITY
+"P7 Platform","P7 Platform",ORGANIZATION_OR_ENTITY
+"8,800 lbs","8,800 lbs",ORGANIZATION_OR_ENTITY
+"Mid-2022","Mid-2022",ORGANIZATION_OR_ENTITY
+"Nikola Corporation","Nikola Corporation",ORGANIZATION_OR_ENTITY
+"31 Tre battery electric trucks delivered","31 Tre battery electric trucks delivered",TECHNOLOGY
+"140 hydrogen fuel cell trucks","140 hydrogen fuel cell trucks",TECHNOLOGY
+"Voltera Power","Voltera Power",ORGANIZATION_OR_ENTITY
+"50 HYLA hydrogen refueling stations","50 HYLA hydrogen refueling stations",TECHNOLOGY
+"California Air Resources Board","California Air Resources Board",LOCATION
+"California","California",LOCATION
+"zero-emission drayage trucks","zero-emission drayage trucks",ORGANIZATION_OR_ENTITY
+"Michael Lohscheller","Michael Lohscheller",ORGANIZATION_OR_ENTITY
+"Phoenix, Arizona","Phoenix, Arizona",ORGANIZATION_OR_ENTITY
+"European manufacturing joint venture","European manufacturing joint venture",LOCATION
+"Iveco Group","Iveco Group",ORGANIZATION_OR_ENTITY
+"first two gamma hydrogen fuel cell trucks","first two gamma hydrogen fuel cell trucks",TECHNOLOGY
+"As Market Uncertainty","As Market Uncertainty",TOPIC
+"CADSI","CADSI",ORGANIZATION_OR_ENTITY
+"Cox Automotive Dealer Sentiment Index","Cox Automotive Dealer Sentiment Index",TOPIC
+"ATLANTA","ATLANTA",ORGANIZATION_OR_ENTITY
+"The Q2","The Q2",ORGANIZATION_OR_ENTITY
+"Cox Automotive Chief Economist Jonathan","Cox Automotive Chief Economist Jonathan",ORGANIZATION_OR_ENTITY
+"Q2. The","Q2. The",ORGANIZATION_OR_ENTITY
+"Interest Rates","Interest Rates",ORGANIZATION_OR_ENTITY
+"Market Conditions","Market Conditions",TOPIC
+"Political Climate","Political Climate",ORGANIZATION_OR_ENTITY
+"Q2. Smoke","Q2. Smoke",ORGANIZATION_OR_ENTITY
+"The Economy","The Economy",ORGANIZATION_OR_ENTITY
+"Dealer Sentiment Index","Dealer Sentiment Index",TOPIC
+"About Cox AutomotiveCox Automotive","About Cox AutomotiveCox Automotive",ORGANIZATION_OR_ENTITY
+"Iveco","Iveco",ORGANIZATION_OR_ENTITY
+"FleetNet America","FleetNet America",ORGANIZATION_OR_ENTITY
+"NextGear Capital","NextGear Capital",ORGANIZATION_OR_ENTITY
+"Cox Enterprises Inc","Cox Enterprises Inc",ORGANIZATION_OR_ENTITY
+"Dara Hailes","Dara Hailes",ORGANIZATION_OR_ENTITY
+"Mark Schirmer","Mark Schirmer",ORGANIZATION_OR_ENTITY
+"Media Contacts","Media Contacts",POLICY
+"U.S. Automobile Dealer Sentiment Index: As Market Uncertainty ...","U.S. Automobile Dealer Sentiment Index: As Market Uncertainty ...",TOPIC
+"Investor sentiment towards electric vehicle sector in the US","Investor sentiment towards electric vehicle sector in the US",TOPIC
+"Zeekr","Zeekr",ORGANIZATION_OR_ENTITY
+"Strong US IPO","Strong US IPO",ORGANIZATION_OR_ENTITY
+"Offshore markets","Offshore markets",TOPIC
+"Hangzhou-based premium car manufacturer","Hangzhou-based premium car manufacturer",POLICY
+"Investor sentiment towards Chinese-linked stocks","Investor sentiment towards Chinese-linked stocks",TOPIC
+"Chinese company","Chinese company",ORGANIZATION_OR_ENTITY
+"EV sector","EV sector",ORGANIZATION_OR_ENTITY
+"Chinese policies","Chinese policies",ORGANIZATION_OR_ENTITY
+"FT","FT",ORGANIZATION_OR_ENTITY
+"Quality journalism","Quality journalism",ORGANIZATION_OR_ENTITY
+"FT newspaper Monday-Saturday","FT newspaper Monday-Saturday",ORGANIZATION_OR_ENTITY
+"Digital access","Digital access",ORGANIZATION_OR_ENTITY
+"Dealer Sentiment Index score of 40 in Q3 2024","Dealer Sentiment Index score of 40 in Q3 2024",TOPIC
+"weak market","weak market",TOPIC
+"Independent Dealers","Independent Dealers",ORGANIZATION_OR_ENTITY
+"37 in Q3 2024","37 in Q3 2024",ORGANIZATION_OR_ENTITY
+"Franchised Dealers","Franchised Dealers",ORGANIZATION_OR_ENTITY
+"49 in Q3 2024","49 in Q3 2024",ORGANIZATION_OR_ENTITY
+"Cost Index","Cost Index",ORGANIZATION_OR_ENTITY
+"77 in Q3 2024","77 in Q3 2024",ORGANIZATION_OR_ENTITY
+"Dealer Profitability Index","Dealer Profitability Index",ORGANIZATION_OR_ENTITY
+"34 in Q3 2024","34 in Q3 2024",ORGANIZATION_OR_ENTITY
+"Government-supported EV sales incentives","Government-supported EV sales incentives",TOPIC
+"EV tax credit index score of 58","EV tax credit index score of 58",ORGANIZATION_OR_ENTITY
+"44% of dealers in Q3 2024","44% of dealers in Q3 2024",ORGANIZATION_OR_ENTITY
+"Credit Availability for Consumers","Credit Availability for Consumers",ORGANIZATION_OR_ENTITY
+"holding back business for independent dealers","holding back business for independent dealers",ORGANIZATION_OR_ENTITY
+"$3.1 billion in tax credits","$3.1 billion in tax credits",ORGANIZATION_OR_ENTITY
+"Biden Administration","Biden Administration",ORGANIZATION_OR_ENTITY
+"$400 billion in clean energy","$400 billion in clean energy",ORGANIZATION_OR_ENTITY
+"US$7,500 tax credit","US$7,500 tax credit",ORGANIZATION_OR_ENTITY
+"Nikola","Nikola",ORGANIZATION_OR_ENTITY
+"$34 billion","$34 billion",ORGANIZATION_OR_ENTITY
+"1,084 percent increase in one year","1,084 percent increase in one year",ORGANIZATION_OR_ENTITY
+"Workhorse","Workhorse",ORGANIZATION_OR_ENTITY
+"1,000 percent increase","1,000 percent increase",ORGANIZATION_OR_ENTITY
+"Hyliion","Hyliion",ORGANIZATION_OR_ENTITY
+"rose over 400 percent then lost over 66 percent","rose over 400 percent then lost over 66 percent",ORGANIZATION_OR_ENTITY
+"Deloitte Survey","Deloitte Survey",ORGANIZATION_OR_ENTITY
+"68 percent concerned about carbon footprint","68 percent concerned about carbon footprint",ORGANIZATION_OR_ENTITY
+"86 percent of respondents","86 percent of respondents",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Industry","Electric Vehicle Industry",ORGANIZATION_OR_ENTITY
+"new restrictions on outbound investment to China","new restrictions on outbound investment to China",LOCATION
+"Joe Biden","Joe Biden",ORGANIZATION_OR_ENTITY
+"new investment mechanism","new investment mechanism",ORGANIZATION_OR_ENTITY
+"August 2022","August 2022",ORGANIZATION_OR_ENTITY
+"Rmb150bn (US$22bn) over the last decade","Rmb150bn (US$22bn) over the last decade",ORGANIZATION_OR_ENTITY
+"US$7,500 for EV battery production","US$7,500 for EV battery production",TECHNOLOGY
+"Microvast","Microvast",ORGANIZATION_OR_ENTITY
+"EV manufacturing regulations","EV manufacturing regulations",POLICY
+"new-energy vehicles (NEVs","new-energy vehicles (NEVs",ORGANIZATION_OR_ENTITY
+"Gina Raimondo","Gina Raimondo",ORGANIZATION_OR_ENTITY
+"Charging Forward","Charging Forward",TECHNOLOGY
+"Electric Vehicle","Electric Vehicle",ORGANIZATION_OR_ENTITY
+"Exploring Opportunities","Exploring Opportunities",ORGANIZATION_OR_ENTITY
+"Krane Funds Advisors","Krane Funds Advisors",ORGANIZATION_OR_ENTITY
+"KraneShares ETFs","KraneShares ETFs",ORGANIZATION_OR_ENTITY
+"LLC","LLC",ORGANIZATION_OR_ENTITY
+"CNBC Worldwide Exchange","CNBC Worldwide Exchange",ORGANIZATION_OR_ENTITY
+"China Internet","China Internet",LOCATION
+"Covered Call Strategy ETF","Covered Call Strategy ETF",ORGANIZATION_OR_ENTITY
+"CARB","CARB",ORGANIZATION_OR_ENTITY
+"Carbon Markets","Carbon Markets",TOPIC
+"Could China Stocks Be The","Could China Stocks Be The",LOCATION
+"View More Information","View More Information",ORGANIZATION_OR_ENTITY
+"View More Our","View More Our",ORGANIZATION_OR_ENTITY
+"Embarcadero Center","Embarcadero Center",ORGANIZATION_OR_ENTITY
+"FloorNew York","FloorNew York",ORGANIZATION_OR_ENTITY
+"Park Avenue","Park Avenue",ORGANIZATION_OR_ENTITY
+"Queen Victoria Street London EC4V","Queen Victoria Street London EC4V",ORGANIZATION_OR_ENTITY
+"Li Auto","Li Auto",ORGANIZATION_OR_ENTITY
+"Pure EV","Pure EV",ORGANIZATION_OR_ENTITY
+"Rivian","Rivian",ORGANIZATION_OR_ENTITY
+"General Motors","General Motors",ORGANIZATION_OR_ENTITY
+"Traditional ICE","Traditional ICE",ORGANIZATION_OR_ENTITY
+"China-based EV","China-based EV",LOCATION
+"BYD","BYD",ORGANIZATION_OR_ENTITY
+"Tesla.6 It","Tesla.6 It",ORGANIZATION_OR_ENTITY
+"IRA","IRA",ORGANIZATION_OR_ENTITY
+"BEV","BEV",ORGANIZATION_OR_ENTITY
+"Battery EVs","Battery EVs",TECHNOLOGY
+"PHEV","PHEV",ORGANIZATION_OR_ENTITY
+"ICE","ICE",ORGANIZATION_OR_ENTITY
+"KWH","KWH",ORGANIZATION_OR_ENTITY
+"CATL","CATL",ORGANIZATION_OR_ENTITY
+"Samsung SDI","Samsung SDI",ORGANIZATION_OR_ENTITY
+"Wall Street","Wall Street",ORGANIZATION_OR_ENTITY
+"Bloomberg New Energy Finance","Bloomberg New Energy Finance",ORGANIZATION_OR_ENTITY
+"LFP","LFP",ORGANIZATION_OR_ENTITY
+"Lithium Price Survey","Lithium Price Survey",ORGANIZATION_OR_ENTITY
+"North America","North America",LOCATION
+"North American","North American",LOCATION
+"Hyundai","Hyundai",ORGANIZATION_OR_ENTITY
+"Future Mobility Index ETF","Future Mobility Index ETF",ORGANIZATION_OR_ENTITY
+"KARS","KARS",ORGANIZATION_OR_ENTITY
+"KraneShares Electric Vehicles","KraneShares Electric Vehicles",ORGANIZATION_OR_ENTITY
+"Bloomberg Electric Vehicles Index","Bloomberg Electric Vehicles Index",ORGANIZATION_OR_ENTITY
+"Cash Flow","Cash Flow",ORGANIZATION_OR_ENTITY
+"FCF LT","FCF LT",ORGANIZATION_OR_ENTITY
+"Free Cash Flow LT","Free Cash Flow LT",ORGANIZATION_OR_ENTITY
+"The Long Term Average Free","The Long Term Average Free",ORGANIZATION_OR_ENTITY
+"Average Free Cash Flow","Average Free Cash Flow",ORGANIZATION_OR_ENTITY
+"Total Assets","Total Assets",ORGANIZATION_OR_ENTITY
+"Follow Us","Follow Us",ORGANIZATION_OR_ENTITY
+"LLC280 Park Avenue","LLC280 Park Avenue",ORGANIZATION_OR_ENTITY
+"New York","New York",ORGANIZATION_OR_ENTITY
+"Charging Forward: Exploring Opportunities in Electric Vehicle ...","Charging Forward: Exploring Opportunities in Electric Vehicle ...",TECHNOLOGY
+"Joint Office of Energy and Transportation","Joint Office of Energy and Transportation",ORGANIZATION_OR_ENTITY
+"Private Sector","Private Sector",ORGANIZATION_OR_ENTITY
+"Federal Government","Federal Government",ORGANIZATION_OR_ENTITY
+"National Electric Vehicle Infrastructure (NEVI) Formula Program","National Electric Vehicle Infrastructure (NEVI) Formula Program",ORGANIZATION_OR_ENTITY
+"Private Sector Bids","Private Sector Bids",ORGANIZATION_OR_ENTITY
+"National Zero-Emission Freight Corridor Strategy","National Zero-Emission Freight Corridor Strategy",ORGANIZATION_OR_ENTITY
+"Zero-Emission Transportation Investments","Zero-Emission Transportation Investments",ORGANIZATION_OR_ENTITY
+"Good-Paying Jobs","Good-Paying Jobs",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Working Group (EVWG","Electric Vehicle Working Group (EVWG",ORGANIZATION_OR_ENTITY
+"Government Funding","Government Funding",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Supply Equipment (EVSE","Electric Vehicle Supply Equipment (EVSE",ORGANIZATION_OR_ENTITY
+"Technicians","Technicians",ORGANIZATION_OR_ENTITY
+"Zero-Emission Fueling Projects","Zero-Emission Fueling Projects",ORGANIZATION_OR_ENTITY
+"Curbside Level 2 Charging","Curbside Level 2 Charging",TECHNOLOGY
+"Public Sector","Public Sector",ORGANIZATION_OR_ENTITY
+"Battery Electric Vehicles","Battery Electric Vehicles",TECHNOLOGY
+"2 million vehicles","2 million vehicles",ORGANIZATION_OR_ENTITY
+"Manufacturers","Manufacturers",POLICY
+"BEV technology","BEV technology",ORGANIZATION_OR_ENTITY
+"56%","56%",ORGANIZATION_OR_ENTITY
+"Triple-digit growth","Triple-digit growth",ORGANIZATION_OR_ENTITY
+"Global sales and manufacturing","Global sales and manufacturing",TOPIC
+"2.5%","2.5%",ORGANIZATION_OR_ENTITY
+"BEVs","BEVs",ORGANIZATION_OR_ENTITY
+"74% of global EV sales","74% of global EV sales",TOPIC
+"EV sales","EV sales",TOPIC
+"Workforce Development Efforts","Workforce Development Efforts",ORGANIZATION_OR_ENTITY
+"Charging Projects","Charging Projects",TECHNOLOGY
+"Public Funding","Public Funding",ORGANIZATION_OR_ENTITY
+"Zero-Emission Infrastructure","Zero-Emission Infrastructure",ORGANIZATION_OR_ENTITY
+"1.2 million","1.2 million",ORGANIZATION_OR_ENTITY
+"1 million","1 million",ORGANIZATION_OR_ENTITY
+"55%","55%",ORGANIZATION_OR_ENTITY
+"Tesla Model Y","Tesla Model Y",ORGANIZATION_OR_ENTITY
+"394,000","394,000",ORGANIZATION_OR_ENTITY
+"Hyundai Ioniq5","Hyundai Ioniq5",ORGANIZATION_OR_ENTITY
+"18%","18%",ORGANIZATION_OR_ENTITY
+"BMW","BMW",ORGANIZATION_OR_ENTITY
+"12.5%","12.5%",ORGANIZATION_OR_ENTITY
+"24,783","24,783",ORGANIZATION_OR_ENTITY
+"Volkswagen","Volkswagen",ORGANIZATION_OR_ENTITY
+"11.5%","11.5%",ORGANIZATION_OR_ENTITY
+"Tesla Model 3","Tesla Model 3",ORGANIZATION_OR_ENTITY
+"220,910","220,910",ORGANIZATION_OR_ENTITY
+"40,771","40,771",ORGANIZATION_OR_ENTITY
+"Donald Trump","Donald Trump",ORGANIZATION_OR_ENTITY
+"Green New Deal","Green New Deal",ORGANIZATION_OR_ENTITY
+"electric vehicle mandate","electric vehicle mandate",ORGANIZATION_OR_ENTITY
+"EcoPro BM","EcoPro BM",ORGANIZATION_OR_ENTITY
+"126,100 won","126,100 won",ORGANIZATION_OR_ENTITY
+"EcoPro","EcoPro",ORGANIZATION_OR_ENTITY
+"-5.87%","-5.87%",ORGANIZATION_OR_ENTITY
+"LG Energy Solution","LG Energy Solution",ORGANIZATION_OR_ENTITY
+"-4.32%","-4.32%",ORGANIZATION_OR_ENTITY
+"Trump Administration","Trump Administration",ORGANIZATION_OR_ENTITY
+"subsidies and tax credits for electric vehicles","subsidies and tax credits for electric vehicles",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Market","Electric Vehicle Market",TOPIC
+"government incentives","government incentives",POLICY
+"Secondary Battery Industry","Secondary Battery Industry",TECHNOLOGY
+"withdrawal of support for electric vehicles","withdrawal of support for electric vehicles",ORGANIZATION_OR_ENTITY
+"deregulatory agenda","deregulatory agenda",ORGANIZATION_OR_ENTITY
+"EV penetration matrix","EV penetration matrix",ORGANIZATION_OR_ENTITY
+"PHEVs and EREVs","PHEVs and EREVs",ORGANIZATION_OR_ENTITY
+"investment in future EV share","investment in future EV share",ORGANIZATION_OR_ENTITY
+"8% EV adoption","8% EV adoption",ORGANIZATION_OR_ENTITY
+"Electric Vehicle (EV) market","Electric Vehicle (EV) market",TOPIC
+"2022","2022",ORGANIZATION_OR_ENTITY
+"6.3M vehicles in 2021","6.3M vehicles in 2021",ORGANIZATION_OR_ENTITY
+"154%","154%",ORGANIZATION_OR_ENTITY
+"Germany","Germany",ORGANIZATION_OR_ENTITY
+"26%","26%",ORGANIZATION_OR_ENTITY
+"IDTechEx","IDTechEx",ORGANIZATION_OR_ENTITY
+"9.6-fold increase in BEV & PHEV car sales by 2031","9.6-fold increase in BEV & PHEV car sales by 2031",TOPIC
+"Battery Capacity","Battery Capacity",TECHNOLOGY
+"81% in China and Europe, 71% in the US","81% in China and Europe, 71% in the US",LOCATION
+"Silicon","Silicon",ORGANIZATION_OR_ENTITY
+"over 100× by 2031","over 100× by 2031",ORGANIZATION_OR_ENTITY
+"Aluminum demand","Aluminum demand",ORGANIZATION_OR_ENTITY
+"11.9-fold by 2031","11.9-fold by 2031",ORGANIZATION_OR_ENTITY
+"Copper demand","Copper demand",ORGANIZATION_OR_ENTITY
+"15.3-fold by 2031","15.3-fold by 2031",ORGANIZATION_OR_ENTITY
+"ACC","ACC",ORGANIZATION_OR_ENTITY
+"silicon in NMC cathodes","silicon in NMC cathodes",ORGANIZATION_OR_ENTITY
+"weak market sentiment","weak market sentiment",TOPIC
+"40","40",ORGANIZATION_OR_ENTITY
+"Franchised dealers","Franchised dealers",ORGANIZATION_OR_ENTITY
+"50","50",ORGANIZATION_OR_ENTITY
+"Independent dealers","Independent dealers",ORGANIZATION_OR_ENTITY
+"37","37",ORGANIZATION_OR_ENTITY
+"Japan","Japan",ORGANIZATION_OR_ENTITY
+"$2.4 billion","$2.4 billion",ORGANIZATION_OR_ENTITY
+"free level 2 home charger","free level 2 home charger",ORGANIZATION_OR_ENTITY
+"EV sentiment","EV sentiment",TOPIC
+"Q3 2024","Q3 2024",ORGANIZATION_OR_ENTITY
+"Government-backed EV incentives","Government-backed EV incentives",POLICY
+"sales","sales",TOPIC
+"Cost index","Cost index",ORGANIZATION_OR_ENTITY
+"77","77",ORGANIZATION_OR_ENTITY
+"Political climate concerns","Political climate concerns",ORGANIZATION_OR_ENTITY
+"44% of dealers","44% of dealers",ORGANIZATION_OR_ENTITY
+"800,000 EVs in 2022","800,000 EVs in 2022",ORGANIZATION_OR_ENTITY
+"more than 50% of all EV sales","more than 50% of all EV sales",TOPIC
+"phase out internal combustion engines by 2035","phase out internal combustion engines by 2035",ORGANIZATION_OR_ENTITY
+"billions of dollars in EV investment","billions of dollars in EV investment",ORGANIZATION_OR_ENTITY
+"$7,500 federal subsidy for EV purchase","$7,500 federal subsidy for EV purchase",ORGANIZATION_OR_ENTITY
+"over $60,000 in 2022","over $60,000 in 2022",ORGANIZATION_OR_ENTITY
+"J.D. Power","J.D. Power",ORGANIZATION_OR_ENTITY
+"29.2% of new vehicle shoppers likely to consider EVs","29.2% of new vehicle shoppers likely to consider EVs",ORGANIZATION_OR_ENTITY
+"$70,000 median income for a family of four","$70,000 median income for a family of four",ORGANIZATION_OR_ENTITY
+"affordability and charging infrastructure","affordability and charging infrastructure",TECHNOLOGY
+"Electric Vehicle Owners","Electric Vehicle Owners",ORGANIZATION_OR_ENTITY
+"$150,000 in 2022","$150,000 in 2022",ORGANIZATION_OR_ENTITY
+"150%-180% increase","150%-180% increase",ORGANIZATION_OR_ENTITY
+"Inflation Reduction Act of 2022","Inflation Reduction Act of 2022",POLICY
+"$7,500 for new EVs","$7,500 for new EVs",ORGANIZATION_OR_ENTITY
+"$21 billion","$21 billion",ORGANIZATION_OR_ENTITY
+"EV Market Share","EV Market Share",TOPIC
+"10% by Q3 2023","10% by Q3 2023",ORGANIZATION_OR_ENTITY
+"due to slowing demand","due to slowing demand",ORGANIZATION_OR_ENTITY
+"McKinsey and J.D. Power","McKinsey and J.D. Power",ORGANIZATION_OR_ENTITY
+"intent to purchase EVs is increasing","intent to purchase EVs is increasing",ORGANIZATION_OR_ENTITY
+"Automotive Trends Report","Automotive Trends Report",ORGANIZATION_OR_ENTITY
+"40%-60% increase","40%-60% increase",ORGANIZATION_OR_ENTITY
+"Gradual adoption despite technology strides","Gradual adoption despite technology strides",ORGANIZATION_OR_ENTITY
+"EV demand and margins","EV demand and margins",ORGANIZATION_OR_ENTITY
+"UAW","UAW",ORGANIZATION_OR_ENTITY
+"60% for new hires","60% for new hires",ORGANIZATION_OR_ENTITY
+"Auto Loan Rates","Auto Loan Rates",ORGANIZATION_OR_ENTITY
+"8% in March 2024","8% in March 2024",ORGANIZATION_OR_ENTITY
+"Auto Industry","Auto Industry",ORGANIZATION_OR_ENTITY
+"More than 1 million people","More than 1 million people",ORGANIZATION_OR_ENTITY
+"Car Chip Shortage","Car Chip Shortage",ORGANIZATION_OR_ENTITY
+"COVID-19 pandemic","COVID-19 pandemic",ORGANIZATION_OR_ENTITY
+"Used Car Prices","Used Car Prices",ORGANIZATION_OR_ENTITY
+"Pandemic peaks","Pandemic peaks",ORGANIZATION_OR_ENTITY
+"3% of real GDP growth in the U.S","3% of real GDP growth in the U.S",ORGANIZATION_OR_ENTITY
+"Into 2025","Into 2025",ORGANIZATION_OR_ENTITY
+"Inflation and supply chain disruptions","Inflation and supply chain disruptions",ORGANIZATION_OR_ENTITY
+"Anti-EV Sentiment","Anti-EV Sentiment",TOPIC
+"Republican Party","Republican Party",ORGANIZATION_OR_ENTITY
+"J.D. Vance","J.D. Vance",ORGANIZATION_OR_ENTITY
+"Gas Prices","Gas Prices",ORGANIZATION_OR_ENTITY
+"46 Percent","46 Percent",ORGANIZATION_OR_ENTITY
+"Hyundai Ioniq 6","Hyundai Ioniq 6",ORGANIZATION_OR_ENTITY
+"361 miles","361 miles",ORGANIZATION_OR_ENTITY
+"Electricity Cost","Electricity Cost",ORGANIZATION_OR_ENTITY
+"$0.16 per kWh","$0.16 per kWh",ORGANIZATION_OR_ENTITY
+"Gasoline Cost","Gasoline Cost",ORGANIZATION_OR_ENTITY
+"$3.52 per gallon","$3.52 per gallon",ORGANIZATION_OR_ENTITY
+"Upward of two-thirds","Upward of two-thirds",ORGANIZATION_OR_ENTITY
+"$388 billion","$388 billion",ORGANIZATION_OR_ENTITY
+"23%","23%",ORGANIZATION_OR_ENTITY
+"Kantar","Kantar",ORGANIZATION_OR_ENTITY
+"4,000 people","4,000 people",ORGANIZATION_OR_ENTITY
+"3%","3%",ORGANIZATION_OR_ENTITY
+"Singapore","Singapore",ORGANIZATION_OR_ENTITY
+"22% EVs","22% EVs",ORGANIZATION_OR_ENTITY
+"UK","UK",ORGANIZATION_OR_ENTITY
+"35% Hybrid","35% Hybrid",ORGANIZATION_OR_ENTITY
+"EV Owners in Singapore","EV Owners in Singapore",ORGANIZATION_OR_ENTITY
+"44% Charging Stations","44% Charging Stations",TECHNOLOGY
+"Potential EV Buyers in US","Potential EV Buyers in US",ORGANIZATION_OR_ENTITY
+"49% Charging Stations","49% Charging Stations",TECHNOLOGY
+"EV Owners in Germany","EV Owners in Germany",ORGANIZATION_OR_ENTITY
+"31% Government Incentives","31% Government Incentives",POLICY
+"Gen-Z in Singapore","Gen-Z in Singapore",ORGANIZATION_OR_ENTITY
+"42%","42%",ORGANIZATION_OR_ENTITY
+"Goldman Sachs","Goldman Sachs",ORGANIZATION_OR_ENTITY
+"EV sales slowing globally","EV sales slowing globally",TOPIC
+"Kota Yuzawa","Kota Yuzawa",ORGANIZATION_OR_ENTITY
+"bear case for EV sales becoming more likely","bear case for EV sales becoming more likely",TOPIC
+"falling used EV prices","falling used EV prices",ORGANIZATION_OR_ENTITY
+"expand domestic EV uptake and export EVs","expand domestic EV uptake and export EVs",ORGANIZATION_OR_ENTITY
+"Chinese EV makers","Chinese EV makers",ORGANIZATION_OR_ENTITY
+"Japanese brands","Japanese brands",ORGANIZATION_OR_ENTITY
+"HEVs","HEVs",ORGANIZATION_OR_ENTITY
+"payback period compared to EVs","payback period compared to EVs",ORGANIZATION_OR_ENTITY
+"Southeast Asia","Southeast Asia",ORGANIZATION_OR_ENTITY
+"Chinese EVs","Chinese EVs",ORGANIZATION_OR_ENTITY
+"educational purposes only","educational purposes only",ORGANIZATION_OR_ENTITY
+"EV sales volume","EV sales volume",TOPIC
+"21% year-over-year in 2024","21% year-over-year in 2024",ORGANIZATION_OR_ENTITY
+"Investment opportunities","Investment opportunities",ORGANIZATION_OR_ENTITY
+"automakers with strong balance sheets","automakers with strong balance sheets",ORGANIZATION_OR_ENTITY
+"SEIA","SEIA",ORGANIZATION_OR_ENTITY
+"1974","1974",ORGANIZATION_OR_ENTITY
+"Texas","Texas",ORGANIZATION_OR_ENTITY
+"$29.5 billion","$29.5 billion",ORGANIZATION_OR_ENTITY
+"$60 billion","$60 billion",ORGANIZATION_OR_ENTITY
+"Largest state solar market","Largest state solar market",TOPIC
+"Solar+Storage","Solar+Storage",ORGANIZATION_OR_ENTITY
+"28% by 2028","28% by 2028",ORGANIZATION_OR_ENTITY
+"Solar Industry","Solar Industry",ORGANIZATION_OR_ENTITY
+"219 GW","219 GW",ORGANIZATION_OR_ENTITY
+"Solar Prices","Solar Prices",ORGANIZATION_OR_ENTITY
+"40%","40%",ORGANIZATION_OR_ENTITY
+"2.4 GW","2.4 GW",ORGANIZATION_OR_ENTITY
+"6%","6%",ORGANIZATION_OR_ENTITY
+"TRUE","TRUE",ORGANIZATION_OR_ENTITY
+"UFLPA","UFLPA",ORGANIZATION_OR_ENTITY
+"DHS","DHS",ORGANIZATION_OR_ENTITY
+"29 China-based companies","29 China-based companies",LOCATION
+"Biden","Biden",ORGANIZATION_OR_ENTITY
+"Xi Jinping","Xi Jinping",ORGANIZATION_OR_ENTITY
+"140 additions to the Entity List","140 additions to the Entity List",ORGANIZATION_OR_ENTITY
+"gallium, germanium, and antimony","gallium, germanium, and antimony",ORGANIZATION_OR_ENTITY
+"US-China relations","US-China relations",LOCATION
+"Chinese technology companies","Chinese technology companies",ORGANIZATION_OR_ENTITY
+"62% of global EVs","62% of global EVs",ORGANIZATION_OR_ENTITY
+"75% of the world’s lithium-ion batteries","75% of the world’s lithium-ion batteries",ORGANIZATION_OR_ENTITY
+"over 50% of global EV battery production","over 50% of global EV battery production",TECHNOLOGY
+"$230 billion","$230 billion",ORGANIZATION_OR_ENTITY
+"Chinese EV manufacturers","Chinese EV manufacturers",POLICY
+"battery chemistry","battery chemistry",TECHNOLOGY
+"vehicle technology","vehicle technology",ORGANIZATION_OR_ENTITY
+"EV competitiveness as a national priority","EV competitiveness as a national priority",ORGANIZATION_OR_ENTITY
+"26.8 million passenger vehicles in 2024","26.8 million passenger vehicles in 2024",ORGANIZATION_OR_ENTITY
+"one-third of global production by 2030","one-third of global production by 2030",ORGANIZATION_OR_ENTITY
+"10 million EV units in 2024","10 million EV units in 2024",ORGANIZATION_OR_ENTITY
+"EV adoption measures including tax credits and emissions limits","EV adoption measures including tax credits and emissions limits",ORGANIZATION_OR_ENTITY
+"8.5%","8.5%",ORGANIZATION_OR_ENTITY
+"$5 billion for EV charging stations","$5 billion for EV charging stations",TECHNOLOGY
+"9%","9%",ORGANIZATION_OR_ENTITY
+"Americans","Americans",ORGANIZATION_OR_ENTITY
+"59%","59%",ORGANIZATION_OR_ENTITY
+"Democrats","Democrats",ORGANIZATION_OR_ENTITY
+"64%","64%",ORGANIZATION_OR_ENTITY
+"Republicans","Republicans",ORGANIZATION_OR_ENTITY
+"84%","84%",ORGANIZATION_OR_ENTITY
+"Public Confidence","Public Confidence",ORGANIZATION_OR_ENTITY
+"17% extremely or very confident","17% extremely or very confident",ORGANIZATION_OR_ENTITY
+"EV Owners","EV Owners",ORGANIZATION_OR_ENTITY
+"Most","Most",ORGANIZATION_OR_ENTITY
+"Pew Research Center","Pew Research Center",ORGANIZATION_OR_ENTITY
+"10,329 U.S. adults","10,329 U.S. adults",ORGANIZATION_OR_ENTITY
+"Robert Heppenstall","Robert Heppenstall",ORGANIZATION_OR_ENTITY
+"American Airlines","American Airlines",ORGANIZATION_OR_ENTITY
+"The University of Texas","The University of Texas",ORGANIZATION_OR_ENTITY
+"Delta Air Lines","Delta Air Lines",ORGANIZATION_OR_ENTITY
+"Customer Experience Design","Customer Experience Design",ORGANIZATION_OR_ENTITY
+"Airline Industry","Airline Industry",ORGANIZATION_OR_ENTITY
+"Federal Aviation Administration","Federal Aviation Administration",ORGANIZATION_OR_ENTITY
+"Airlines","Airlines",ORGANIZATION_OR_ENTITY
+"Personalized Marketing","Personalized Marketing",TOPIC
+"Negative","Negative",ORGANIZATION_OR_ENTITY
+"4 people","4 people",ORGANIZATION_OR_ENTITY
+"Rob","Rob",ORGANIZATION_OR_ENTITY
+"Incredible leader","Incredible leader",ORGANIZATION_OR_ENTITY
+"Total Energy Monthly Data","Total Energy Monthly Data",ORGANIZATION_OR_ENTITY
+"Transportation Sector","Transportation Sector",ORGANIZATION_OR_ENTITY
+"Open Data","Open Data",ORGANIZATION_OR_ENTITY
+"Congress","Congress",ORGANIZATION_OR_ENTITY
+"Energy Consumption","Energy Consumption",ORGANIZATION_OR_ENTITY
+"Electric Power Sector","Electric Power Sector",ORGANIZATION_OR_ENTITY
+"Renewable Energy","Renewable Energy",ORGANIZATION_OR_ENTITY
+"Hydropower, Solar, Wind, Geothermal, Biomass, Ethanol","Hydropower, Solar, Wind, Geothermal, Biomass, Ethanol",ORGANIZATION_OR_ENTITY
+"Financial Market Analysis","Financial Market Analysis",TOPIC
+"Greenhouse Gas Data","Greenhouse Gas Data",ORGANIZATION_OR_ENTITY
+"Energy Prices","Energy Prices",ORGANIZATION_OR_ENTITY
+"Petroleum, Natural Gas, Coal, Electricity, Nuclear Energy","Petroleum, Natural Gas, Coal, Electricity, Nuclear Energy",ORGANIZATION_OR_ENTITY
+"Tools for Data Customization","Tools for Data Customization",ORGANIZATION_OR_ENTITY
+"Cox Automotive Dealer","Cox Automotive Dealer",ORGANIZATION_OR_ENTITY
+"Region-specific sentiment analysis of US electric vehicle industry","Region-specific sentiment analysis of US electric vehicle industry",TOPIC
+"2021 Infrastructure Investment and Jobs Act","2021 Infrastructure Investment and Jobs Act",POLICY
+"Electric passenger vehicles","Electric passenger vehicles",ORGANIZATION_OR_ENTITY
+"Sale of new internal combustion engine-powered vehicles","Sale of new internal combustion engine-powered vehicles",ORGANIZATION_OR_ENTITY
+"27 million by 2030","27 million by 2030",ORGANIZATION_OR_ENTITY
+"Charge Points in the US","Charge Points in the US",ORGANIZATION_OR_ENTITY
+"35 million by 2030","35 million by 2030",ORGANIZATION_OR_ENTITY
+"CPOs","CPOs",ORGANIZATION_OR_ENTITY
+"65% of market value by 2040","65% of market value by 2040",TOPIC
+"Residential Chargers","Residential Chargers",ORGANIZATION_OR_ENTITY
+"EV sellers by 2030","EV sellers by 2030",ORGANIZATION_OR_ENTITY
+"EV Charging Market","EV Charging Market",TOPIC
+"Tenfold by 2030","Tenfold by 2030",ORGANIZATION_OR_ENTITY
+"At-work Charging Segment","At-work Charging Segment",TECHNOLOGY
+"17% of the market by 2030","17% of the market by 2030",TOPIC
+"EVSE Startups","EVSE Startups",ORGANIZATION_OR_ENTITY
+"Rapid maturation of the industry","Rapid maturation of the industry",ORGANIZATION_OR_ENTITY
+"European Union","European Union",LOCATION
+"UK Economy","UK Economy",ORGANIZATION_OR_ENTITY
+"Spike in 2021","Spike in 2021",ORGANIZATION_OR_ENTITY
+"Trade","Trade",ORGANIZATION_OR_ENTITY
+"Post-Brexit and COVID-19","Post-Brexit and COVID-19",ORGANIZATION_OR_ENTITY
+"Wales","Wales",ORGANIZATION_OR_ENTITY
+"Brexit and COVID-19","Brexit and COVID-19",ORGANIZATION_OR_ENTITY
+"Finance Industry","Finance Industry",ORGANIZATION_OR_ENTITY
+"UK GDP","UK GDP",ORGANIZATION_OR_ENTITY
+"UK Government","UK Government",ORGANIZATION_OR_ENTITY
+"Economic Research","Economic Research",ORGANIZATION_OR_ENTITY
+"British Pound","British Pound",ORGANIZATION_OR_ENTITY
+"Near Future","Near Future",ORGANIZATION_OR_ENTITY
+"Shortages and Bottlenecks","Shortages and Bottlenecks",ORGANIZATION_OR_ENTITY
+"EU","EU",ORGANIZATION_OR_ENTITY
+"auto parts and repairing cars","auto parts and repairing cars",ORGANIZATION_OR_ENTITY
+"auto industry","auto industry",ORGANIZATION_OR_ENTITY
+"electric vehicles","electric vehicles",ORGANIZATION_OR_ENTITY
+"auto parts","auto parts",ORGANIZATION_OR_ENTITY
+"increased employment","increased employment",ORGANIZATION_OR_ENTITY
+"gas vehicles","gas vehicles",ORGANIZATION_OR_ENTITY
+"electric vehicle transition","electric vehicle transition",ORGANIZATION_OR_ENTITY
+"Chinese policymakers","Chinese policymakers",POLICY
+"corporate governance reforms","corporate governance reforms",ORGANIZATION_OR_ENTITY
+"India","India",ORGANIZATION_OR_ENTITY
+"strong earnings momentum","strong earnings momentum",ORGANIZATION_OR_ENTITY
+"Mexico","Mexico",ORGANIZATION_OR_ENTITY
+"Taiwan","Taiwan",ORGANIZATION_OR_ENTITY
+"AI infrastructure build-out","AI infrastructure build-out",ORGANIZATION_OR_ENTITY
+"global economy","global economy",ORGANIZATION_OR_ENTITY
+"European Central Bank","European Central Bank",LOCATION
+"businesses relying on bank lending","businesses relying on bank lending",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Supply Chain","Electric Vehicle Supply Chain",ORGANIZATION_OR_ENTITY
+"renewable energy","renewable energy",ORGANIZATION_OR_ENTITY
+"trade partners","trade partners",ORGANIZATION_OR_ENTITY
+"accommodative","accommodative",ORGANIZATION_OR_ENTITY
+"Bitcoin ETPs","Bitcoin ETPs",ORGANIZATION_OR_ENTITY
+"First-year market demand","First-year market demand",TOPIC
+"Global equities","Global equities",ORGANIZATION_OR_ENTITY
+"Fed outlook 2025","Fed outlook 2025",ORGANIZATION_OR_ENTITY
+"Monetary policies","Monetary policies",ORGANIZATION_OR_ENTITY
+"AI and geopolitics","AI and geopolitics",ORGANIZATION_OR_ENTITY
+"Gold and oil","Gold and oil",ORGANIZATION_OR_ENTITY
+"Investors","Investors",ORGANIZATION_OR_ENTITY
+"BlackRock Flexible Income ETF (BINC","BlackRock Flexible Income ETF (BINC",ORGANIZATION_OR_ENTITY
+"Active ETFs","Active ETFs",POLICY
+"Growth and innovation","Growth and innovation",ORGANIZATION_OR_ENTITY
+"Bitcoin volatility","Bitcoin volatility",ORGANIZATION_OR_ENTITY
+"Long-term investing","Long-term investing",ORGANIZATION_OR_ENTITY
+"Neuroscience and AI","Neuroscience and AI",ORGANIZATION_OR_ENTITY
+"Healthcare sector","Healthcare sector",ORGANIZATION_OR_ENTITY
+"Energy Sector Stocks","Energy Sector Stocks",ORGANIZATION_OR_ENTITY
+"Is Now","Is Now",ORGANIZATION_OR_ENTITY
+"Rob Haworth","Rob Haworth",ORGANIZATION_OR_ENTITY
+"S&P","S&P",ORGANIZATION_OR_ENTITY
+"OPEC","OPEC",ORGANIZATION_OR_ENTITY
+"Oil Petroleum Exporting Countries","Oil Petroleum Exporting Countries",ORGANIZATION_OR_ENTITY
+"Change Year-to-Date Crude Oil","Change Year-to-Date Crude Oil",ORGANIZATION_OR_ENTITY
+"End Price Recent Price","End Price Recent Price",ORGANIZATION_OR_ENTITY
+"Natural Gas","Natural Gas",ORGANIZATION_OR_ENTITY
+"Peak Price","Peak Price",ORGANIZATION_OR_ENTITY
+"Category Crude Oil","Category Crude Oil",ORGANIZATION_OR_ENTITY
+"Category Gasoline","Category Gasoline",ORGANIZATION_OR_ENTITY
+"Category Natural Gas","Category Natural Gas",ORGANIZATION_OR_ENTITY
+"Change Year-to-Date","Change Year-to-Date",ORGANIZATION_OR_ENTITY
+"Category Heating Oil","Category Heating Oil",ORGANIZATION_OR_ENTITY
+"End Price","End Price",ORGANIZATION_OR_ENTITY
+"Crude Oil","Crude Oil",ORGANIZATION_OR_ENTITY
+"WTI","WTI",ORGANIZATION_OR_ENTITY
+"West Texas Intermediate","West Texas Intermediate",ORGANIZATION_OR_ENTITY
+"BTU","BTU",ORGANIZATION_OR_ENTITY
+"Henry Hub Natural Gas Spot","Henry Hub Natural Gas Spot",ORGANIZATION_OR_ENTITY
+"Heating Oil Prices","Heating Oil Prices",ORGANIZATION_OR_ENTITY
+"New York Harbor","New York Harbor",ORGANIZATION_OR_ENTITY
+"The U.S","The U.S",ORGANIZATION_OR_ENTITY
+"Increased U.S","Increased U.S",ORGANIZATION_OR_ENTITY
+"Energy Index","Energy Index",ORGANIZATION_OR_ENTITY
+"ETF","ETF",ORGANIZATION_OR_ENTITY
+"Index.1 Choosing","Index.1 Choosing",ORGANIZATION_OR_ENTITY
+"Petroleum Products","Petroleum Products",ORGANIZATION_OR_ENTITY
+"Other Liquids Consumption","Other Liquids Consumption",ORGANIZATION_OR_ENTITY
+"Short Term Energy Outlook","Short Term Energy Outlook",ORGANIZATION_OR_ENTITY
+"Energy Source","Energy Source",ORGANIZATION_OR_ENTITY
+"Net Generation","Net Generation",ORGANIZATION_OR_ENTITY
+"Energy Sector Stocks: Is Now the Time to Invest? | U.S. Bank","Energy Sector Stocks: Is Now the Time to Invest? | U.S. Bank",ORGANIZATION_OR_ENTITY
+"Electric vehicle financial sentiment comparison between US and global market","Electric vehicle financial sentiment comparison between US and global market",TOPIC
+"European Commission","European Commission",LOCATION
+"30 million zero-emission vehicles by 2030","30 million zero-emission vehicles by 2030",ORGANIZATION_OR_ENTITY
+"50%–52% reduction in GHG emissions by 2030","50%–52% reduction in GHG emissions by 2030",ORGANIZATION_OR_ENTITY
+"Road transport","Road transport",ORGANIZATION_OR_ENTITY
+"23% of total GHG emissions in the US","23% of total GHG emissions in the US",ORGANIZATION_OR_ENTITY
+"European cities","European cities",LOCATION
+"100 climate-neutral cities by 2030","100 climate-neutral cities by 2030",ORGANIZATION_OR_ENTITY
+"10% year-on-year decline in emissions in the US in 2020","10% year-on-year decline in emissions in the US in 2020",ORGANIZATION_OR_ENTITY
+"European EV sales","European EV sales",LOCATION
+"China for the first time in 2020","China for the first time in 2020",LOCATION
+"New carbon dioxide emission standards","New carbon dioxide emission standards",ORGANIZATION_OR_ENTITY
+"for automakers in Europe","for automakers in Europe",LOCATION
+"COVID-19 economic recovery packages","COVID-19 economic recovery packages",ORGANIZATION_OR_ENTITY
+"carbon-neutral and renewable energy solutions","carbon-neutral and renewable energy solutions",ORGANIZATION_OR_ENTITY
+"one-quarter of Europe’s total greenhouse gas emissions","one-quarter of Europe’s total greenhouse gas emissions",LOCATION
+"Electric vehicles (EVs","Electric vehicles (EVs",ORGANIZATION_OR_ENTITY
+"internal combustion engine (ICE) vehicles","internal combustion engine (ICE) vehicles",ORGANIZATION_OR_ENTITY
+"AB","AB",ORGANIZATION_OR_ENTITY
+"Columbia Climate School","Columbia Climate School",ORGANIZATION_OR_ENTITY
+"Columbia University’s Earth Institute","Columbia University’s Earth Institute",ORGANIZATION_OR_ENTITY
+"Central Banks","Central Banks",ORGANIZATION_OR_ENTITY
+"Communist Party","Communist Party",ORGANIZATION_OR_ENTITY
+"5% growth target","5% growth target",ORGANIZATION_OR_ENTITY
+"household spending","household spending",ORGANIZATION_OR_ENTITY
+"Global Manufacturing","Global Manufacturing",POLICY
+"improving conditions","improving conditions",ORGANIZATION_OR_ENTITY
+"Inflation","Inflation",ORGANIZATION_OR_ENTITY
+"2% to 3% range","2% to 3% range",ORGANIZATION_OR_ENTITY
+"property sector","property sector",ORGANIZATION_OR_ENTITY
+"Labor Markets","Labor Markets",TOPIC
+"strong job creation","strong job creation",ORGANIZATION_OR_ENTITY
+"passenger cars","passenger cars",ORGANIZATION_OR_ENTITY
+"one million vehicles","one million vehicles",ORGANIZATION_OR_ENTITY
+"Chengdu-Chongqing Economic Circle","Chengdu-Chongqing Economic Circle",ORGANIZATION_OR_ENTITY
+"GCL Technology","GCL Technology",ORGANIZATION_OR_ENTITY
+"polysilicon","polysilicon",ORGANIZATION_OR_ENTITY
+"solar and wind power","solar and wind power",ORGANIZATION_OR_ENTITY
+"Chinese-made autos","Chinese-made autos",ORGANIZATION_OR_ENTITY
+"27% in Southeast Asia by 2030","27% in Southeast Asia by 2030",ORGANIZATION_OR_ENTITY
+"FBR process","FBR process",ORGANIZATION_OR_ENTITY
+"low-carbon technologies","low-carbon technologies",ORGANIZATION_OR_ENTITY
+"on Chinese EV exports","on Chinese EV exports",ORGANIZATION_OR_ENTITY
+"Chongqing","Chongqing",ORGANIZATION_OR_ENTITY
+"major auto players","major auto players",ORGANIZATION_OR_ENTITY
+"9.49 million EV units","9.49 million EV units",ORGANIZATION_OR_ENTITY
+"2 in 2025","2 in 2025",ORGANIZATION_OR_ENTITY
+"Allianz Global Investors","Allianz Global Investors",ORGANIZATION_OR_ENTITY
+"Bloomberg TV","Bloomberg TV",ORGANIZATION_OR_ENTITY
+"Eurozone","Eurozone",ORGANIZATION_OR_ENTITY
+"0.4%","0.4%",ORGANIZATION_OR_ENTITY
+"5.2%","5.2%",ORGANIZATION_OR_ENTITY
+"4.75%","4.75%",ORGANIZATION_OR_ENTITY
+"Private Markets","Private Markets",TOPIC
+"high returns","high returns",ORGANIZATION_OR_ENTITY
+"new measures for short-term activity","new measures for short-term activity",POLICY
+"overexposure","overexposure",ORGANIZATION_OR_ENTITY
+"Private Investments","Private Investments",ORGANIZATION_OR_ENTITY
+"Asia","Asia",ORGANIZATION_OR_ENTITY
+"Auto Sales","Auto Sales",TOPIC
+"Interest Rates Jumped","Interest Rates Jumped",ORGANIZATION_OR_ENTITY
+"Luxury Goods","Luxury Goods",ORGANIZATION_OR_ENTITY
+"Capital Group","Capital Group",ORGANIZATION_OR_ENTITY
+"Equity Assets","Equity Assets",ORGANIZATION_OR_ENTITY
+"Federal Reserve Bank of St. Louis","Federal Reserve Bank of St. Louis",ORGANIZATION_OR_ENTITY
+"S&P Global Luxury Index","S&P Global Luxury Index",ORGANIZATION_OR_ENTITY
+"MSCI AC World Index","MSCI AC World Index",ORGANIZATION_OR_ENTITY
+"Carl Kawaja","Carl Kawaja",ORGANIZATION_OR_ENTITY
+"Capital Research and Management Company","Capital Research and Management Company",ORGANIZATION_OR_ENTITY
+"Irfan Furniturewala","Irfan Furniturewala",ORGANIZATION_OR_ENTITY
+"24 years","24 years",ORGANIZATION_OR_ENTITY
+"Drew Macklis","Drew Macklis",ORGANIZATION_OR_ENTITY
+"7 years","7 years",ORGANIZATION_OR_ENTITY
+"Julie Wang Chou","Julie Wang Chou",ORGANIZATION_OR_ENTITY
+"European Luxury Goods and Telecoms","European Luxury Goods and Telecoms",LOCATION
+"Earnings Growth","Earnings Growth",ORGANIZATION_OR_ENTITY
+"Annual Change in Earnings per Share","Annual Change in Earnings per Share",ORGANIZATION_OR_ENTITY
+"UK Equities","UK Equities",ORGANIZATION_OR_ENTITY
+"30%","30%",ORGANIZATION_OR_ENTITY
+"OPEC+ Countries","OPEC+ Countries",ORGANIZATION_OR_ENTITY
+"End of 2024","End of 2024",ORGANIZATION_OR_ENTITY
+"Mixed","Mixed",ORGANIZATION_OR_ENTITY
+"Longer Period","Longer Period",ORGANIZATION_OR_ENTITY
+"Latin America","Latin America",ORGANIZATION_OR_ENTITY
+"Continues","Continues",ORGANIZATION_OR_ENTITY
+"Turkey","Turkey",ORGANIZATION_OR_ENTITY
+"Increased","Increased",ORGANIZATION_OR_ENTITY
+"Early Signs","Early Signs",ORGANIZATION_OR_ENTITY
+"Healthcare","Healthcare",ORGANIZATION_OR_ENTITY
+"Global Economy","Global Economy",ORGANIZATION_OR_ENTITY
+"Japanese Government","Japanese Government",ORGANIZATION_OR_ENTITY
+"Financial Markets","Financial Markets",TOPIC
+"Bullish Sentiment","Bullish Sentiment",TOPIC
+"Strong Economy","Strong Economy",ORGANIZATION_OR_ENTITY
+"Japanese Economy","Japanese Economy",ORGANIZATION_OR_ENTITY
+"Global Economic Trends","Global Economic Trends",ORGANIZATION_OR_ENTITY
+"Overcoming Uncertainties","Overcoming Uncertainties",ORGANIZATION_OR_ENTITY
+"Market Sentiment","Market Sentiment",TOPIC
+"Economic Outlook","Economic Outlook",ORGANIZATION_OR_ENTITY
+"Positive Market Trends","Positive Market Trends",TOPIC
+"Engineers in Silicon Valley","Engineers in Silicon Valley",ORGANIZATION_OR_ENTITY
+"1.8 million cars","1.8 million cars",ORGANIZATION_OR_ENTITY
+"$692.79B","$692.79B",ORGANIZATION_OR_ENTITY
+"1995","1995",ORGANIZATION_OR_ENTITY
+"Model S, Model X, Model 3, Model Y, Cybertruck, Tesla Semi","Model S, Model X, Model 3, Model Y, Cybertruck, Tesla Semi",ORGANIZATION_OR_ENTITY
+"6.7% market share in China","6.7% market share in China",LOCATION
+"EV Industry","EV Industry",ORGANIZATION_OR_ENTITY
+"13.8%","13.8%",ORGANIZATION_OR_ENTITY
+"85% of total revenues","85% of total revenues",ORGANIZATION_OR_ENTITY
+"Elon Musk","Elon Musk",ORGANIZATION_OR_ENTITY
+"EV Transition","EV Transition",ORGANIZATION_OR_ENTITY
+"Gasoline Prices","Gasoline Prices",ORGANIZATION_OR_ENTITY
+"Consumer Sentiment","Consumer Sentiment",TOPIC
+"Natural Gas, Coal, Nuclear, Renewables","Natural Gas, Coal, Nuclear, Renewables",ORGANIZATION_OR_ENTITY
+"Fossil Fuels 29% in 2040","Fossil Fuels 29% in 2040",ORGANIZATION_OR_ENTITY
+"EV Adoption","EV Adoption",ORGANIZATION_OR_ENTITY
+"50% of Vehicles by 2040","50% of Vehicles by 2040",ORGANIZATION_OR_ENTITY
+"Net Exporter","Net Exporter",ORGANIZATION_OR_ENTITY
+"Vulnerability to Oil Price Shocks","Vulnerability to Oil Price Shocks",ORGANIZATION_OR_ENTITY
+"Renewables 59% in 2040","Renewables 59% in 2040",ORGANIZATION_OR_ENTITY
+"Higher Gas Prices","Higher Gas Prices",ORGANIZATION_OR_ENTITY
+"Recession","Recession",ORGANIZATION_OR_ENTITY
+"EV Market","EV Market",TOPIC
+"6.8 million EVs in 2022","6.8 million EVs in 2022",ORGANIZATION_OR_ENTITY
+"Government Subsidies","Government Subsidies",ORGANIZATION_OR_ENTITY
+"Wan Gang","Wan Gang",ORGANIZATION_OR_ENTITY
+"Minister of Science and Technology","Minister of Science and Technology",ORGANIZATION_OR_ENTITY
+"EV Technology","EV Technology",ORGANIZATION_OR_ENTITY
+"EV Companies","EV Companies",ORGANIZATION_OR_ENTITY
+"Chinese Battery Tech Researchers","Chinese Battery Tech Researchers",TECHNOLOGY
+"EV Sector Growth","EV Sector Growth",ORGANIZATION_OR_ENTITY
+"Toyota","Toyota",ORGANIZATION_OR_ENTITY
+"Plug-in Hybrids","Plug-in Hybrids",ORGANIZATION_OR_ENTITY
+"Climate Policy Leadership","Climate Policy Leadership",POLICY
+"BYD Company","BYD Company",ORGANIZATION_OR_ENTITY
+"Global sales of battery electric vehicles (BEVs","Global sales of battery electric vehicles (BEVs",TOPIC
+"13.3 million units in 2024","13.3 million units in 2024",ORGANIZATION_OR_ENTITY
+"60% of global electric car sales","60% of global electric car sales",TOPIC
+"Tesla, Inc","Tesla, Inc",ORGANIZATION_OR_ENTITY
+"electric car innovation and production","electric car innovation and production",ORGANIZATION_OR_ENTITY
+"35% in 2024","35% in 2024",ORGANIZATION_OR_ENTITY
+"50.9% in the United States","50.9% in the United States",LOCATION
+"exempts electric cars from most taxes","exempts electric cars from most taxes",ORGANIZATION_OR_ENTITY
+"federal tax credits for EV buyers","federal tax credits for EV buyers",ORGANIZATION_OR_ENTITY
+"Volkswagen AG","Volkswagen AG",ORGANIZATION_OR_ENTITY
+"ambitious electrification strategy","ambitious electrification strategy",ORGANIZATION_OR_ENTITY
+"Ford Motor Company","Ford Motor Company",ORGANIZATION_OR_ENTITY
+"Chevrolet Bolt and Ford Mustang Mach-E","Chevrolet Bolt and Ford Mustang Mach-E",ORGANIZATION_OR_ENTITY
+"government subsidies","government subsidies",ORGANIZATION_OR_ENTITY
+"300 EV producers","300 EV producers",ORGANIZATION_OR_ENTITY
+"growing number of exported vehicles","growing number of exported vehicles",ORGANIZATION_OR_ENTITY
+"80% of global cathode production","80% of global cathode production",ORGANIZATION_OR_ENTITY
+"phasing out of purchase subsidies","phasing out of purchase subsidies",ORGANIZATION_OR_ENTITY
+"technological advancements in battery technology","technological advancements in battery technology",TECHNOLOGY
+"growing Chinese EV exports","growing Chinese EV exports",ORGANIZATION_OR_ENTITY
+"75% of global lithium-ion batteries","75% of global lithium-ion batteries",ORGANIZATION_OR_ENTITY
+"CATL and FDB","CATL and FDB",ORGANIZATION_OR_ENTITY
+"aggressive industrial policy","aggressive industrial policy",POLICY
+"Chinese government","Chinese government",ORGANIZATION_OR_ENTITY
+"national EV competitiveness priority","national EV competitiveness priority",ORGANIZATION_OR_ENTITY
+"26.8 million vehicles in 2024","26.8 million vehicles in 2024",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Sales Review Q2-2024","Electric Vehicle Sales Review Q2-2024",TOPIC
+"Strategy& Growth","Strategy& Growth",ORGANIZATION_OR_ENTITY
+"Back Back Back Back Back","Back Back Back Back Back",ORGANIZATION_OR_ENTITY
+"Back Back Loading","Back Back Loading",ORGANIZATION_OR_ENTITY
+"More Back Back Back Back","More Back Back Back Back",ORGANIZATION_OR_ENTITY
+"PHEVs Viewpoint Looking","PHEVs Viewpoint Looking",ORGANIZATION_OR_ENTITY
+"Analyst Insights","Analyst Insights",ORGANIZATION_OR_ENTITY
+"Chinese OEMs","Chinese OEMs",ORGANIZATION_OR_ENTITY
+"UK Growth","UK Growth",ORGANIZATION_OR_ENTITY
+"Other European","Other European",LOCATION
+"Total EV","Total EV",ORGANIZATION_OR_ENTITY
+"China Domestic PHEV","China Domestic PHEV",LOCATION
+"REEV","REEV",ORGANIZATION_OR_ENTITY
+"Q2 YoY","Q2 YoY",ORGANIZATION_OR_ENTITY
+"Japan BEV","Japan BEV",ORGANIZATION_OR_ENTITY
+"Q2. South Korea BEV","Q2. South Korea BEV",ORGANIZATION_OR_ENTITY
+"South Korea","South Korea",ORGANIZATION_OR_ENTITY
+"The EV","The EV",ORGANIZATION_OR_ENTITY
+"PwC Autofacts","PwC Autofacts",POLICY
+"Automotive Leader","Automotive Leader",ORGANIZATION_OR_ENTITY
+"Felix Kuhnert Partner","Felix Kuhnert Partner",ORGANIZATION_OR_ENTITY
+"PwC Germany Dr","PwC Germany Dr",ORGANIZATION_OR_ENTITY
+"Neuhausen Director","Neuhausen Director",ORGANIZATION_OR_ENTITY
+"Strategy& Germany","Strategy& Germany",ORGANIZATION_OR_ENTITY
+"Electric Vehicle Sales Review Q2-2024 | PwC and Strategy&","Electric Vehicle Sales Review Q2-2024 | PwC and Strategy&",TOPIC
+"Reviews and sentiment analysis on top US electric vehicle stocks","Reviews and sentiment analysis on top US electric vehicle stocks",TOPIC
+"The Motley Fool","The Motley Fool",ORGANIZATION_OR_ENTITY
+"1993","1993",ORGANIZATION_OR_ENTITY
+"Automotive Industry","Automotive Industry",ORGANIZATION_OR_ENTITY
+"Economic Cycles","Economic Cycles",ORGANIZATION_OR_ENTITY
+"High Growth","High Growth",ORGANIZATION_OR_ENTITY
+"Traditional Internal Combustion Engine Manufacturers","Traditional Internal Combustion Engine Manufacturers",POLICY
+"Automakers","Automakers",ORGANIZATION_OR_ENTITY
+"EV Technologies","EV Technologies",ORGANIZATION_OR_ENTITY
+"Automotive Stocks","Automotive Stocks",ORGANIZATION_OR_ENTITY
+"Consumer Durables Sector","Consumer Durables Sector",ORGANIZATION_OR_ENTITY
+"2008-09 Recession","2008-09 Recession",ORGANIZATION_OR_ENTITY
+"Automotive Companies","Automotive Companies",ORGANIZATION_OR_ENTITY
+"Shareholders","Shareholders",ORGANIZATION_OR_ENTITY
+"Competition","Competition",ORGANIZATION_OR_ENTITY
+"High Interest Rates","High Interest Rates",ORGANIZATION_OR_ENTITY
+"77% of US electric auto sales in November","77% of US electric auto sales in November",TOPIC
+"two-million-vehicle mark in 2019","two-million-vehicle mark in 2019",ORGANIZATION_OR_ENTITY
+"production and sale of zero-emission vehicles","production and sale of zero-emission vehicles",ORGANIZATION_OR_ENTITY
+"BEV market compared to the rest of the world","BEV market compared to the rest of the world",TOPIC
+"triple-digit growth for the year","triple-digit growth for the year",ORGANIZATION_OR_ENTITY
+"growth rate of EV sales","growth rate of EV sales",TOPIC
+"on electric vehicle sales","on electric vehicle sales",TOPIC
+"throughout the 2020s","throughout the 2020s",ORGANIZATION_OR_ENTITY
+"ELECTRIFIED_PASSENGER_VEHICLES","ELECTRIFIED_PASSENGER_VEHICLES",ORGANIZATION_OR_ENTITY
+"10_MILLION_UNITS","10_MILLION_UNITS",ORGANIZATION_OR_ENTITY
+"40_MILLION_UNITS_BY_2030","40_MILLION_UNITS_BY_2030",ORGANIZATION_OR_ENTITY
+"UNITED_STATES","UNITED_STATES",ORGANIZATION_OR_ENTITY
+"2.6_MILLION_PORTS","2.6_MILLION_PORTS",ORGANIZATION_OR_ENTITY
+"9.5_MILLION_PORTS","9.5_MILLION_PORTS",ORGANIZATION_OR_ENTITY
+"28.0_MILLION_PORTS","28.0_MILLION_PORTS",ORGANIZATION_OR_ENTITY
+"PROSPECTIVE_EV_BUYERS","PROSPECTIVE_EV_BUYERS",ORGANIZATION_OR_ENTITY
+"400_MILES_OR_MORE","400_MILES_OR_MORE",ORGANIZATION_OR_ENTITY
+"CURRENT_EV_OWNERS","CURRENT_EV_OWNERS",ORGANIZATION_OR_ENTITY
+"70_PERCENT","70_PERCENT",ORGANIZATION_OR_ENTITY
+"EV_OWNERS","EV_OWNERS",ORGANIZATION_OR_ENTITY
+"48_PERCENT","48_PERCENT",ORGANIZATION_OR_ENTITY
+"23_TO_33_PERCENT","23_TO_33_PERCENT",ORGANIZATION_OR_ENTITY
+"MCF_CENTER_FOR_FUTURE_MOBILITY","MCF_CENTER_FOR_FUTURE_MOBILITY",ORGANIZATION_OR_ENTITY
+"MCKINSEY","MCKINSEY",ORGANIZATION_OR_ENTITY
